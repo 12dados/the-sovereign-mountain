@@ -1,11 +1,11 @@
 
-## Autores
+## Autores
 
-### Textos y mapas
+### Textos y mapas
 
 José Manuel Palacios Rodrigo, Rodrigo García Carmona, Jacobo Peña, Carlos de la Cruz Morales, Erekíbeon, Héctor Prieto, Bester, José Carlos Domínguez “Kha” y Sergio Somalo “Tremandur”.
 
-### Ilustraciones
+### Ilustraciones
 
 Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2), Códex Mcausland y Codex The Forge (cedidas por Pedro Gil) y otras como el logo de “DIY" recopiladas de internet. Copyright de las imágenes de sus respectivos autores.
 
