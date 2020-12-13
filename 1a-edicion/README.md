@@ -3,7 +3,15 @@
 
 ### Textos y mapas
 
-José Manuel Palacios Rodrigo, Rodrigo García Carmona, Jacobo Peña, Carlos de la Cruz Morales, Erekíbeon, Héctor Prieto, Bester, José Carlos Domínguez “Kha” y Sergio Somalo “Tremandur”.
+ * [José Manuel Palacios Rodrigo](https://plus.google.com/u/0/+Jos%C3%A9ManuelPalacios/posts)
+ * [Rodrigo García Carmona](https://plus.google.com/u/0/+RodrigoGarciaCarmona/posts)
+ * [Jacobo Peña](https://plus.google.com/u/0/113580090013248931333/posts)
+ * [Carlos de la Cruz Morales](https://plus.google.com/u/0/104972911822227173644/posts)
+ * [Erekíbeon](https://plus.google.com/u/0/101424081522605272040/posts)
+ * [Héctor Prieto](https://plus.google.com/u/0/108509848839900431310/posts)
+ * [Bester](https://plus.google.com/u/0/105240612173866817188/posts)
+ * [José Carlos Domínguez “Kha”](https://plus.google.com/u/0/116368025294019250429/posts)
+ * [Sergio Somalo “Tremandur”](https://plus.google.com/u/0/104590944188014787447/about)
 
 ### Ilustraciones
 
@@ -11,7 +19,7 @@ Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2)
 
 ## Índice
 
- * [Prefacio](./1a-edicion/00-prefacio.md)
+ * [Prefacio](./00-prefacio.md)
  * Introducción
  * Expandiendo la Montaña Soberana
  * Piedrainerte, por Sergio Somalo “Tremandur”
