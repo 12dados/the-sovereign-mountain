@@ -3,7 +3,7 @@
 
 ### Textos y mapas
 
-José Manuel Palacios Rodrigo , Rodrigo García Carmona, Jacobo Peña, Carlos de la Cruz Morales, Erekíbeon, Héctor Prieto, Bester, José Carlos Domínguez “Kha” y Sergio Somalo “Tremandur”.
+José Manuel Palacios Rodrigo, Rodrigo García Carmona, Jacobo Peña, Carlos de la Cruz Morales, Erekíbeon, Héctor Prieto, Bester, José Carlos Domínguez “Kha” y Sergio Somalo “Tremandur”.
 
 ### Ilustraciones
 
