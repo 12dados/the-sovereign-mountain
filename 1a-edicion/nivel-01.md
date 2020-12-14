@@ -67,13 +67,13 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
 ## Leyenda de las salas del nivel
 
-0. La Entrada
+0. **La Entrada**
 
    La entrada a este nivel es la entrada principal a la Montaña Soberana propiamente dicha. Es un enorme arco apuntado, excavado en la propia piedra, y cubierto de extraños símbolos en un lenguaje antiguo, que ninguno de los Goblins que habitan en el primer nivel conoce.
 
    La puerta está compuesta de dos enormes hojas de un metal plateado que no se oxida ni estropea. Lleva abierta desde que los Goblins recuerdan, y no se atreven a cerrarla, pues una antigua leyenda dice que si esta puerta se cierra nunca más se podrá abrir. Leyenda que, por cierto, comparten las tres facciones de Goblins. Además, es cierta.
 
-1. Piedra Filosofal
+1. **Piedra Filosofal**
 
    En el centro de esta sala de bóveda alta y arqueada se encuentra la Piedra Filosofal, una pequeña piedra negra de un peso tal que es imposible levantarla y sacarla de la habitación. La Piedra Filosofal es mágica, y se dice que puede convertir el plomo en oro, curar todas las dolencias y maldiciones, y devolver la juventud. Que alguna o todas estas capacidades sean reales o no depende del DJ. Dado que las tres facciones de Goblins pelean por controlar esta sala, en un momento dado la sala estará ocupada por (tirar 1d6):
 
@@ -86,7 +86,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    Cada bando que esté presente contará con 1d12+6 guerreros Goblin, que se concentrarán en las otras tribus de Goblins (si están presentes) e ignorarán a los aventureros, salvo que estos intenten acercarse a la Piedra Filosofal.
 
-2. Sala del trono
+2. **Sala del trono**
 
    Aquí se encuentra el centro de poder de los Realistas. En esta sala vive la familia real (Hermenegildo XXXIII, su esposa Leovigilda, y sus hijos Hermenegildo, Leovigilda y Teodosio). Los aposentos reales están en el lado noreste de la habitación, y son todo lo lujosos que un Goblin podría esperar: 3 camastros en el suelo (uno de ellos de matrimonio), un perchero, una cómoda, y un sifonier. Todo ello cubierto por un dosel que proporciona cierta intimidad.
 
@@ -96,7 +96,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    En esta sale habrá en todo momento 1d10+4 guardias Goblin. Hermenegildo y su familia se encontrarán aquí con un 90% de probabilidades, ya que rara vez salen de sus aposentos. También es habitual (70%) encontrar a 1d6+5 ciudadanos Goblin que buscan las atenciones de su monarca.
 
-3. Sala de conversiones
+3. **Sala de conversiones**
 
    La sala de conversiones es el secreto mejor guardado de los Egalitarios: la fuente de su poder. En el interior de esta sala, construida con una extraña piedra de un negro brillante, se encuentra un altar sin adorno alguno lo bastante grande para que un orco pueda yacer tumbado sobre él.
 
@@ -104,7 +104,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    En la pared sur de esta estancia se encuentra una puerta secreta que lleva a la sala del trono (2). La forma de revelarla es presionando una de las losas de la pared, que cederá ante el peso y mostrará un pequeño conducto. Los Goblins no saben de la existencia de esta losa debido a que está situada a 6 pies de altura, bastante más arriba de lo que alcanza un Goblin, por lo que nunca han tenido la oportunidad de presionarla por accidente. 
 
-4. La Gran Máquina
+4. **La Gran Máquina**
 
    Estas dos salas están llenas de engranajes, palancas, pistones y mecanismos varios. El fuerte ruido de partes metálicas entrechocando y girando hace que sea imposible comunicarse si no es a gritos, y el aire tiene un olor a óxido, aceite y humo. La razón de esto es que en estas habitaciones se encuentra la Gran Máquina, o al menos la parte que los Goblins pueden manipular, ya que parece que la maquinaria se extiende más allá de las paredes este y sur de ambas salas, a pesar de que es imposible proceder en estas direcciones, debido a la presencia de los mecanismos.
 
@@ -116,7 +116,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    Un poco al norte de la Gran Máquina se encuentra la salida sureste del nivel, representada en el mapa con una flecha.
 
-5. El jardín
+5. **El jardín**
 
    Los Goblins precisan de alimento y agua para vivir, y las tres facciones obtienen ambos de esta sala. El jardín recibe su nombre porque de su techo cuelga una inmensa maraña de extrañas plantas de color rosáceo que ofrecen sustento en forma de frutos, raíces, ramas, y los hongos que crecen a su alrededor.
 
@@ -128,7 +128,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    Hay un 40% de probabilidades para cada balcón de que en él se encuentren 4 obreros Goblin y 2 guardias Goblin recogiendo comida y agua. 
 
-6. La Sapa Madre
+6. **La Sapa Madre**
 
    En esta caverna de piedra natural (a diferencia del resto del nivel) vive un sapo hembra de enorme tamaño, bautizada como la "Sapa Madre" por los Goblins, que la veneran como una diosa. A su alrededor saltan y corretean una multitud de sapos de todos los colores y tamaños imaginables.
 
@@ -138,7 +138,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    Hay un 20% de posibilidades de que en esta sala se encuentre 1 sacerdote Goblin y 1 guardia Goblin, haciendo una ofrenda, y un 10% de posibilidades de que 2d10+10 ciudadanos Goblin estén adorando a su diosa. 
 
-7. El Bugbear que siempre miente y el Bugbear que siempre dice la verdad
+7. **El Bugbear que siempre miente y el Bugbear que siempre dice la verdad**
 
    Pegada a la pared este de esta sala, se encuentra una masa palpitante completamente opaca de color negro del tamaño de un hombre, que de ser atravesada llevará a la salida noreste del nivel (está marcada con una flecha en el mapa), pero que no puede ser atravesada en sentido contrario. Ni la luz ni el sonido pueden traspasarla, en ningún sentido. Por tanto, los personajes no sabrán si lleva a alguna parte o simplemente es una trampa.
 
@@ -147,11 +147,12 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
    Encima de los dos Bugbears, y de la masa negra, los personajes podrán leer el siguiente texto, inscrito en la pared:
 
    _Somos los poseedores de la verdad y la mentira, de lo auténtico y lo falso._
+   
    _Podrás hacernos una única pregunta, y deberemos responderla._
 
    Es más, no importa de dónde sea cada personaje, todos verán el texto en su idioma natal. Cada personaje podrá hacer una única pregunta a ambos Bugbears, que poseen el conocimiento universal y podrán responder con certeza sin importar la cuestión. Uno de ellos (el de la armadura azul) siempre responderá con la verdad, mientras que el otro (el de la armadura roja) siempre responderá con una mentira. 
 
-8. La caverna de la llama
+8. **La caverna de la llama**
 
    La caverna de la llama está dividida en dos partes;  a y b.
 
@@ -163,7 +164,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    Los orcos que se encuentras ensimismados son miembros de la tribu del Ojo Roto, que intentó conquistar este nivel de la Montaña Soberana, pero se vieron atrapados por la belleza y comodidad de las sombras proyectadas por la llama.
 
-9. La sala de la marmota
+9. **La sala de la marmota**
 
    En el centro de esta pequeña habitación, ligeramente aislada de todas las demás, se encuentra una estatua a tamaño real de una marmota, sin ningún adorno. Si al menos uno de los personajes pasa más de 1 minuto en esta sala, el grupo entero entrará en un bucle temporal, aunque no recibirán ninguna pista de que así ha sido.
 
@@ -171,7 +172,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    Este ciclo sólo podrá romperse si los personajes hacen añicos la estatua de la marmota.
 
-10. La biblioteca de la Uberratte
+10. **La biblioteca de la Uberratte**
 
     Las paredes de esta sala están cubiertas de estanterías llenas a rebosar de libros, que tratan casi cualquier tema concebible, desde el más místico al más mundano, escritos en una gran variedad de idiomas. El responsable de esta biblioteca es Uberratte, un hombre-rata con monóculo y sombrero de copa que camina apoyado sobre un bastón coronado por una calavera plateada. Uberratte no se mostrará hostil ante los personajes, pero si alguno de ellos tiene una característica a 17 o 18, Uberratte se obsesionará con él, siguiéndole a todas partes con una pluma y un manojo de papeles en la mano. Su objetivo es escribir para la posteridad las crónicas del "individuo excepcional" que ha elegido. 
 
@@ -179,15 +180,15 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
     Si un personaje pasa 2d6 horas buscando en la biblioteca encontrará 1d4 pergaminos que contienen conjuros de nivel 1, elegidos al azar entre los de aquellas clases que existan en la campaña del DJ.
 
-11. Almacenes
+11. **Almacenes**
 
     En estas tres habitaciones los Goblins guardan las provisiones y demás material necesario para la vida diaria. Hay un 40% de posibilidades de que los personajes se encuentren aquí a 2d3 obreros Goblin. Hay una trampilla bajo los productos almacenados que lleva al nivel inferior.
 
-12. Puestos de guardia
+12. **Puestos de guardia**
 
     Estas salas son los puntos de entrada a los territorios de las diferentes facciones, y por ella están permanentemente protegidas por un grupo de 1d6+6 guardias Goblin, que no dudarán en dar la voz de alarma ante cualquier intruso peligroso. 
 
-13. Nidos
+13. **Nidos**
 
     En estas habitaciones es dónde las facciones de Goblins crían a sus pequeños. En su interior habrá 1d20+15 mujeres Goblin y 1d100 niños Goblin, hacinados. Ni que decir tiene que atacar las mujeres e hijos de los Goblins suele ser algo que éstos no se toman nada bien.
 
