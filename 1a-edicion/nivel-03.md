@@ -4,7 +4,7 @@
 ## Mapa del nivel
 
 <p align="center">
-  <img width="400" alt="Mapa del nivel 3" src="./img/nivel-03.jpg">
+  <img width="400" alt="Mapa del nivel 3" src="./img/nivel-03.png">
 </p>
 
 ## Conexiones con otros niveles
