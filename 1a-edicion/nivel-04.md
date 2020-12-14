@@ -193,7 +193,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
    No disponen de armas de ningún tipo, y la ropa que llevan no pasa de ser túnicas.
 
-   Si se les pregunta pueden describir físicamente las Flores y los Langoescorpiones, pero no han visto ningún otro tipo de criatura. No tienen nombres para ellos, son colectivamente “laz beztiaz”. Ninguno sabe cómo acabaron llegando a estas cuevas en primer lugar. Si se les pregunta, todos creen que siempre han estado aquí... 
+   Si se les pregunta pueden describir físicamente las Flores y los Langoescorpiones, pero no han visto ningún otro tipo de criatura. No tienen nombres para ellos, son colectivamente “laz beztiaz”. Ninguno sabe cómo acabaron llegando a estas cuevas en primer lugar. Si se les pregunta, todos creen que siempre han estado aquí...
 
    **La llegada de los Dorados**
 
@@ -248,7 +248,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
     **Largoescorpión**
     ```
-     Estadísticas: las de un escorpión gigante. 
+    Estadísticas: las de un escorpión gigante. 
     Descripción: Son como un cruce de langosta y escorpión, con pinzas diseñadas para trocear erizos rodantes, pero podrían partir en dos a un humano sin problemas. No tienen tesoro, pero también son vulnerables al agua.
     ```
 
