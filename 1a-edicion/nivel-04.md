@@ -11,7 +11,7 @@
   <img width="400" alt="Mapa del nivel 4" src="./img/nivel-04-02.png">
 </p>
 
-## Conexiones con otros niveles
+## Conexiones con otros niveles
 
 * Zona 1: conecta con la salida suroeste del [nivel 1](./nivel-01.md), entre la sala 4 y la sala 13. 
 * Zona 2: una alcantarilla conecta con la [sala 15 del nivel 2](./nivel-02.md). 
@@ -213,144 +213,185 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
 10. **El exterior de la cascada**
 
-   Si vienen de la zona 9, en cuanto atraviesen la cascada no podrán creer lo que están viendo. Una inmensa extensión, con prados y árboles y ¡un sol en el cielo azul! ¿No estaban bajo tierra?
+    Si vienen de la zona 9, en cuanto atraviesen la cascada no podrán creer lo que están viendo. Una inmensa extensión, con prados y árboles y ¡un sol en el cielo azul! ¿No estaban bajo tierra?
 
-   De la cascada nace un río bastante ancho, pero no muy profundo, que va hacia el noreste... y a lo lejos se ven por allí y por allá estelas de color. Parece que hay mucho movimiento tanto en la tierra como en el cielo. 
+    De la cascada nace un río bastante ancho, pero no muy profundo, que va hacia el noreste... y a lo lejos se ven por allí y por allá estelas de color. Parece que hay mucho movimiento tanto en la tierra como en el cielo. 
 
-   En cuanto salgan, llamarán la atención de 1d6 Flores Ácidas.
+    En cuanto salgan, llamarán la atención de 1d6 Flores Ácidas.
 
 11. **Los prados**
 
-   Cuando los aventureros entren en esta zona apenas les costará creer lo que ven. A todas luces parece que han salido al aire libre, a algún valle de paredes abruptas. El suelo está alfombrado de hierba verde y trufado aquí y allá con árboles y rocas, como en el exterior... salvo por el aire quieto y el ocasional brillo irisado de algún movimiento repentino por aquí y por allá. 
+    Cuando los aventureros entren en esta zona apenas les costará creer lo que ven. A todas luces parece que han salido al aire libre, a algún valle de paredes abruptas. El suelo está alfombrado de hierba verde y trufado aquí y allá con árboles y rocas, como en el exterior... salvo por el aire quieto y el ocasional brillo irisado de algún movimiento repentino por aquí y por allá. 
 
-   En realidad siguen bajo tierra, en una inmensa caverna que está bajo un encantamiento permanente de ilusión, una obra maestra del arte arcano. Basándose en el principio de que "las mejores mentiras son las que contienen algo de verdad", la ilusión comienza a unos 3 metros de altura, como si toda la caverna fuera un valle al aire libre del que no se pudiera escapar, ya que las paredes de la cueva parecen laderas cortadas a pico. Por encima de los tres metros está el azul del cielo y un sol que realmente parece que calienta y se mueve por el cielo. Por si fuera poco, incluso la luz cambia entre iluminación de primavera y de verano cada tres meses.
+    En realidad siguen bajo tierra, en una inmensa caverna que está bajo un encantamiento permanente de ilusión, una obra maestra del arte arcano. Basándose en el principio de que "las mejores mentiras son las que contienen algo de verdad", la ilusión comienza a unos 3 metros de altura, como si toda la caverna fuera un valle al aire libre del que no se pudiera escapar, ya que las paredes de la cueva parecen laderas cortadas a pico. Por encima de los tres metros está el azul del cielo y un sol que realmente parece que calienta y se mueve por el cielo. Por si fuera poco, incluso la luz cambia entre iluminación de primavera y de verano cada tres meses.
 
-   Por todas partes verán que la singular ecología ha invadido el nivel...y si no van con cuidado la experimentarán mucho más de cerca. Cada turno (10 minutos) que pasen en esta zona hay que hacer una tirada en la Tabla de Encuentros:
+    Por todas partes verán que la singular ecología ha invadido el nivel...y si no van con cuidado la experimentarán mucho más de cerca. Cada turno (10 minutos) que pasen en esta zona hay que hacer una tirada en la Tabla de Encuentros:
 
-   **Tabla de encuentros (1d20)**
-   ```
-   0 - 2: No hay encuentro.
-   3 - 4: Tirar dos veces en la tabla: Los aventureros están a punto de ser emboscados, pero entonces vienen otras criaturas y se zampan a las primeras. Los primeros bichos que salgan son comidos por los segundos delante del grupo. Sí, puede salir el mismo tipo de bestia las dos veces...
-   5 – 8: Hay una bandada de 1d10 flores ácidas posadas justo en el camino del grupo. Las mismas estadísticas y descripciones que vimos en la zona 3.
-   9 – 12: Entre la hierba asoman lo que parecen unas rocas de regular tamaño. En realidad son 1d6 erizos rodantes que esperan una presa para lanzarse sobre ella. 
-   13 – 14: 1d3 langoscorpiones están tanteando los matojos, delatándose desde lejos por la intensa estela irisada que dejan sus movimientos (vamos, que no sorprenden). Si perciben a los aventureros irán a por ellos. Saben más ricos que el resto de la fauna de por aquí.
-   15 – 16: 1d4 discos translúcidos sobrevuelan la zona, moviéndose lentamente y permaneciendo semiocultos gracias a su transparencia. Tratarán de acechar sigilosamente a los aventureros. 
-   17- 18: 1d6 gusanos miméticos. Como se verá en la zona 18, lo primero que harán es intentar comunicarse. 
-   19: Encuentro con 1d3 Curiosos (ver más detalles en la zona 13) Van desde su campamento hacia la zona del Encuentro (zona 17). Se mueven tan lentamente que no provocan estela irisada en el aire, con lo que es más probable que sorprendan a los aventureros que al revés. 
-   20:Una comitiva de 8 golems dorados avanza despreocupadamente, acarreando 4 cofres con comida y dejando una gran estela que se ve  bastante lejos. La nueva fauna, curiosamente, les deja en paz. 
-   ```
+    **Tabla de encuentros (1d20)**
+    ```
+    0 - 2: No hay encuentro.
+    3 - 4: Tirar dos veces en la tabla: Los aventureros están a punto de ser emboscados, pero entonces vienen otras criaturas y se zampan a las primeras. Los primeros bichos que salgan son comidos por los segundos delante del grupo. Sí, puede salir el mismo tipo de bestia las dos veces...
+    5 – 8: Hay una bandada de 1d10 flores ácidas posadas justo en el camino del grupo. Las mismas estadísticas y descripciones que vimos en la zona 3.
+    9 – 12: Entre la hierba asoman lo que parecen unas rocas de regular tamaño. En realidad son 1d6 erizos rodantes que esperan una presa para lanzarse sobre ella. 
+    13 – 14: 1d3 langoscorpiones están tanteando los matojos, delatándose desde lejos por la intensa estela irisada que dejan sus movimientos (vamos, que no sorprenden). Si perciben a los aventureros irán a por ellos. Saben más ricos que el resto de la fauna de por aquí.
+    15 – 16: 1d4 discos translúcidos sobrevuelan la zona, moviéndose lentamente y permaneciendo semiocultos gracias a su transparencia. Tratarán de acechar sigilosamente a los aventureros. 
+    17- 18: 1d6 gusanos miméticos. Como se verá en la zona 18, lo primero que harán es intentar comunicarse. 
+    19: Encuentro con 1d3 Curiosos (ver más detalles en la zona 13) Van desde su campamento hacia la zona del Encuentro (zona 17). Se mueven tan lentamente que no provocan estela irisada en el aire, con lo que es más probable que sorprendan a los aventureros que al revés. 
+    20:Una comitiva de 8 golems dorados avanza despreocupadamente, acarreando 4 cofres con comida y dejando una gran estela que se ve  bastante lejos. La nueva fauna, curiosamente, les deja en paz. 
+    ```
 
-   **Erizo Rodante**
-   ```
-   Estadísticas: las de un escarabajo tigre
-   Descripción: exteriormente parecen piedras redondas, pero en cuanto detectan una presa ruedan hacia ella y saltan, abriendo una inmensa boca con dientes que despliega una lengua en forma de red. Normalmente cazan discos flotantes y flores ácidas, y son la presa natural de los langoescorpiones
-   ```
+    **Erizo Rodante**
+    ```
+    Estadísticas: las de un escarabajo tigre
+    Descripción: exteriormente parecen piedras redondas, pero en cuanto detectan una presa ruedan hacia ella y saltan, abriendo una inmensa boca con dientes que despliega una lengua en forma de red. Normalmente cazan discos flotantes y flores ácidas, y son la presa natural de los langoescorpiones
+    ```
 
-   **Largoescorpión**
-   ```
-    Estadísticas: las de un escorpión gigante. 
-   Descripción: Son como un cruce de langosta y escorpión, con pinzas diseñadas para trocear erizos rodantes, pero podrían partir en dos a un humano sin problemas. No tienen tesoro, pero también son vulnerables al agua.
-   ```
+    **Largoescorpión**
+    ```
+     Estadísticas: las de un escorpión gigante. 
+    Descripción: Son como un cruce de langosta y escorpión, con pinzas diseñadas para trocear erizos rodantes, pero podrían partir en dos a un humano sin problemas. No tienen tesoro, pero también son vulnerables al agua.
+    ```
 
-   **Disco translúcido**
-   ```
-   Estadísticas: las de un cangrejo gigante. 
-   Descripción: Son unas criaturas casi totalmente transparentes, con un cuerpo en forma de disco chato, que flotan a unos cuatro metros del suelo y se desplazan muy lentamente en el aire pesado aleteando imperceptiblemente unas vellosidades que tienen en la circunferencia, con lo que no provocan el revuelo irisado habitual. La combinación de ambos factores hace que sorprendan muy fácilmente (con 1-5 en 1d6), a menos que alguien esté mirando directamente arriba o los esté buscando activamente. 
-   Para alimentarse simplemente sacan dos tubos translúcidos de hasta 6 metros de longitud, expulsan su ácido a presión (hasta unos 2 metros de alcance) y luego succionan el caldo resultante. Normalmente chupan la roca, pero al igual que las flores ácidas han descubierto el buen sabor de la sangre y también intentarán alimentarse de aventureros incautos, escupiendo su ácido sobre ellos desde arriba. Tienen la desventaja de que no se mueven con rapidez, con lo que son un blanco estático. 
-   ```
+    **Disco translúcido**
+    ```
+    Estadísticas: las de un cangrejo gigante. 
+    Descripción: Son unas criaturas casi totalmente transparentes, con un cuerpo en forma de disco chato, que flotan a unos cuatro metros del suelo y se desplazan muy lentamente en el aire pesado aleteando imperceptiblemente unas vellosidades que tienen en la circunferencia, con lo que no provocan el revuelo irisado habitual. La combinación de ambos factores hace que sorprendan muy fácilmente (con 1-5 en 1d6), a menos que alguien esté mirando directamente arriba o los esté buscando activamente. 
+    Para alimentarse simplemente sacan dos tubos translúcidos de hasta 6 metros de longitud, expulsan su ácido a presión (hasta unos 2 metros de alcance) y luego succionan el caldo resultante. Normalmente chupan la roca, pero al igual que las flores ácidas han descubierto el buen sabor de la sangre y también intentarán alimentarse de aventureros incautos, escupiendo su ácido sobre ellos desde arriba. Tienen la desventaja de que no se mueven con rapidez, con lo que son un blanco estático. 
+    ```
 
-   Dependiendo de dónde tenga lugar el encuentro, la comitiva irá hacia el campamento de los Curiosos (zona 16)  o a la cueva de los Conformistas (zona 9). En el primer caso no pasará gran cosa, pero en el segundo caso saldrán seis Curiosos de entre los matojos, se suben a tres de los cofres, los abren y desparraman la comida que contienen por todo el campo. Los golems no se defienden, sólo recogen la comida sucia para llevársela de nuevo a la zona de mantenimiento. Los dos golems que quedan con el cofre corren hacia la cascada, y antes de que los Curiosos puedan hacer alcanzarles les atacan tres langoscorpiones, atraídos por el jaleo. Los Curiosos empezarán a lanzarles agua con sus odres, y los langoescorpiones acabarán largándose. Todo esto si los aventureros se limitan a mirar, claro... 
+    Dependiendo de dónde tenga lugar el encuentro, la comitiva irá hacia el campamento de los Curiosos (zona 16)  o a la cueva de los Conformistas (zona 9). En el primer caso no pasará gran cosa, pero en el segundo caso saldrán seis Curiosos de entre los matojos, se suben a tres de los cofres, los abren y desparraman la comida que contienen por todo el campo. Los golems no se defienden, sólo recogen la comida sucia para llevársela de nuevo a la zona de mantenimiento. Los dos golems que quedan con el cofre corren hacia la cascada, y antes de que los Curiosos puedan hacer alcanzarles les atacan tres langoscorpiones, atraídos por el jaleo. Los Curiosos empezarán a lanzarles agua con sus odres, y los langoescorpiones acabarán largándose. Todo esto si los aventureros se limitan a mirar, claro... 
 
-   La Tabla de Encuentros asume que los aventureros van por ahí a la velocidad normal, lo que hace que dejen una estela de color bastante amplia. Una estela que las criaturas están adaptadas para atacar, porque suele ser comida. 
+    La Tabla de Encuentros asume que los aventureros van por ahí a la velocidad normal, lo que hace que dejen una estela de color bastante amplia. Una estela que las criaturas están adaptadas para atacar, porque suele ser comida. 
 
-   Si toman alguna precaución y reducen la velocidad a la mitad, la tirada en la tabla se hace con un -2. Si se desplazan de puntillas y muy lentamente, la tirada se hace con un -4. Pero si corren entonces hay que añadir +4 al resultado.
+    Si toman alguna precaución y reducen la velocidad a la mitad, la tirada en la tabla se hace con un -2. Si se desplazan de puntillas y muy lentamente, la tirada se hace con un -4. Pero si corren entonces hay que añadir +4 al resultado.
 
 12. **El río**
 
-   Curiosamente, en los alrededores del río no merodean los nuevos animales. Hay restos de cuerpos de Langoescorpiones o de Flores, pero todos como si hubieran sido derretidos...
+    Curiosamente, en los alrededores del río no merodean los nuevos animales. Hay restos de cuerpos de Langoescorpiones o de Flores, pero todos como si hubieran sido derretidos...
 
-   Es una pista sobre el efecto del agua en la nueva fauna. Lo mismo le pasó al hipodrilo de la zona 5, pero al ser una criatura tan masiva consiguió cruzar arrastrándose sobre sus muñones y desintegrar la pared del túnel.
+    Es una pista sobre el efecto del agua en la nueva fauna. Lo mismo le pasó al hipodrilo de la zona 5, pero al ser una criatura tan masiva consiguió cruzar arrastrándose sobre sus muñones y desintegrar la pared del túnel.
 
-13 - Las antiguas viviendas de la comunidad
-Unas sencillas casas de adobe de una sola habitación. En el pasado era aquí donde vivía toda la comunidad. Cuando llegaron las bestias mataron a un montón de individuos y se los comieron, y algunas siguen esperando aquí a que vengan más presas. 
-Antes de que los aventureros entren en una casa hay que hacer una tirada en la Tabla de Encuentros de la Zona 11. Si sale 20, tirar de nuevo (no hay golems dorados).  Apoyados contra una de las casas alguien ha puesto unos palos como si fuera un tendedero. Sobre estos palos hay varias pieles de conejos, ciervos y cabras en distintos grados de secado. Se trata del secadero de pieles de los Curiosos (ver zona 16), ya que su campamento está al lado del río y no se secan con la humedad. 
-14 - La entrada de los Dorados
-Esta es la zona del río donde los Dorados entran y salen del río. Se meten en el curso de agua y siguen su lecho, hundiéndose progresivamente hasta que desaparecen de la vista. El truco está en que más adelante hay una entrada bajo el agua, por donde los golems acceden a la zona 21, dentro de la zona de mantenimiento 
-Esta es la razón por la que los golems están recubiertos de oro: para evitar que se oxiden, teniendo que pasar por el agua tres veces al día. Y esta característica también les ha protegido de la nueva fauna, capaz de disolver roca y metales férricos, pero no joyas o materiales preciosos.
-El pasillo subacuático se extiende varias decenas de metros, suficientes para que sea imposible recorrerlo a pulmón, y así disuadir a los sujetos del experimento para que los sigan. Pero podría hacerse con magia o con los odres que los Curiosos utilizan para llevar agua... o cualquier otro recurso que los aventureros se saquen de la manga.
-15 - Teleportadores de pequeños hervíboros
-En estas zonas el Hechicero ubicó las llegadas de unos teleportadores que esparció por todo el área circundante a la Montaña Solitaria. Su objetivo era traer cualquier pequeño hervíboro (conejos, cabras, ardillas, asnos, pájaros de cualquier clase) para dotar de una pequeña fauna inocua a la zona de experimentación. 
-Los teleportadores siguen funcionando, pero alrededor de cada uno hay ahora docenas de bocas acechantes (tirar en la Tabla de Encuentros y utilizar el primer monstruo que salga), listas para devorar al siguiente animalillo en cuanto aparezca. Lo cual ocurrirá en cuanto haya algún aventurero cerca.
-16 - El campamento de los Curiosos
-Cerca de la última cascada del río está el campamento de los habitantes que fueron expulsados del refugio de los Conformistas de la Zona 9. Las gotitas de agua que salpican la zona queman a las nuevas bestias, y los Curiosos lo saben y lo aprovechan. Por eso han elegido este lugar para establecerse.
+13. **Las antiguas viviendas de la comunidad**
 
-Los alrededores
-Fuera de la zona de humedad habrá dos Langoescorpiones rondando, buscando Erizos rodantes o Flores ácidas para alimentarse. Los Curiosos consiguieron domesticarlos a base de echarles agua cuando intentaban ir a comérselos, y ahora dejan en paz a cualquier cosa de dos patas. Pero sirven para mantener otras bestias a raya.
-Subido a una hendedura en la roca, a unos cuatro metros de altura, hay a todas horas un vigía con numerosos pellejos de agua, atento a lo que haya en la zona, incluyendo las posibles amenazas voladoras. Avisará con un "Eeehhh, viene gente" sin disimular a los que están más abajo.
+    Unas sencillas casas de adobe de una sola habitación. En el pasado era aquí donde vivía toda la comunidad. Cuando llegaron las bestias mataron a un montón de individuos y se los comieron, y algunas siguen esperando aquí a que vengan más presas. 
 
-El campamento
-La zona central del asentamiento está al lado del río y está compuesto por unos siete lechos al lado del río, cubiertos con pieles crudas como las que encontraron secándose en la zona 13.
+    Antes de que los aventureros entren en una casa hay que hacer una tirada en la Tabla de Encuentros de la Zona 11. Si sale 20, tirar de nuevo (no hay golems dorados).  Apoyados contra una de las casas alguien ha puesto unos palos como si fuera un tendedero. Sobre estos palos hay varias pieles de conejos, ciervos y cabras en distintos grados de secado. Se trata del secadero de pieles de los Curiosos (ver zona 16), ya que su campamento está al lado del río y no se secan con la humedad. 
 
-Por los alrededores hay siempre diez personas, menos los que se hayan encontrado en la Tabla de Encuentros. Todas están ocupadas haciendo cosas con pieles: Unos están raspando los interiores con piedras, otros más allá están desollando una cabra, otros están uniendo dos pieles utilizando agujas de hueso y tripas, aquellos están terminando de rematar un odre... la actividad es constante.
-Los habitantes
-En total son 2 humanas cincuentonas (una de ellas es Cabello de oro), 2 elfos (uno de ellos es Culo Bonito), 1 elfa, 1 Bugbear hembra madurita, 2 viejos kobolds macho, 2 orcos hembra  de mediana edad y 1 venerable goblin macho. La Bugbear, Morro Moteado (por las pintitas negras sobre el morro), es quien hace de portavoz frente a los aventureros. 
+14. **La entrada de los Dorados**
 
-Todos llevan palos de distintos tamaños y cada uno lleva al menos tres odres de agua.  
-Al igual que a los Conformistas, les impresionará muchísimo ver gente nueva con armaduras, vestiduras y armas que no han visto jamás. De hecho comparten casi todos los rasgos de los Conformistas (hablar ceceante, curiosidad, vestiduras, etc) salvo que todos llevan los odres de agua siempre encima y que tienen la mirada mucho más limpia. Al fin y al cabo no tienen nada de lo que avergonzarse.
-Si son atacados se defenderán, pero si se ven muy superados huirán, en principio a las antiguas viviendas de la zona 13.
-Hablando con ellos
-Si vienen por encargo de Los Conformistas y preguntan por Culo Bonito y Cabello de oro, el elfo y una de las humanas se pondrán en pie y se acercarán a ellos. No parece que estén aquí contra su voluntad, todo lo contrario. 
-Morro Moteado se presentará como la “voz de todos” y estará deseosa de contarles a los aventureros toda la historia, desde su punto de vista.  
-“La nochze que llegaron loz nuevoz animalez muchoz murieron antez de que llegaramoz a la cazcada. Todoz temíamoz que loz Doradoz no zupieran encontrarnoz, pero lo hicieron y noz trajeron la comida a la cueva. Allí noz quedamoz.
-Unoz cuantoz zalíamoz de la cazcada todoz loz díaz para zaber máz zobre loz nuevoz animalez, para ver cómo podríamoz vivir con elloz o protegernoz de elloz. Pero Ojoz Azulez y loz demáz zeguían muy azuztadoz. Querían quedarze en la cueva para ziempre, y penzaban que íbamoz a atraer laz beztiaz a la cueva y que noz matarían a todo. También ez verdaz que ziempre perdíamoz a alguien en laz zalidaz. Aún azí... 
-Aún azí lo que hicieron fue imperdonable. Ezperaron a que noz durmiéramoz y entoncez noz zacaron de la cazcada. No noz dejaban entrar, noz empujaban fuera... con el alboroto, al poco vinieron unoz Dizcoz y unaz Florez y empezaron a derretirnoz. Perdimoz a muchoz antez de que noz diéramoz cuenta de que no noz atacaban en el agua. Zeguimoz por el río abajo hazta que encontramoz ezte lugar y noz eztablecimoz aquí. Y loz Doradoz ziguen viniendo a nozotroz con comida... 
-Dezde entoncez hemoz aprendido mucho zobre loz nuevoz animalez. Dezcubrimoz que ven laz eztelaz, que el agua lez hace daño. Cazamoz loz animalez normalez para quitarlez la piel y hacer bolzaz para llevar agua, que ziempre llevamoz con nozotroz. Hemoz domezticado doz beztiaz para que no ataquen gente, ahí fuera. Hemoz conocido a la gente guzano. Ya no tenemoz miedo.
-Y ahora ya podemoz encargarnoz de loz de la cueva...
-Eztamoz quitándolez la comida que le llevan loz Doradoz, para que cuando tengan hambre zalgan y comprendan lo que nozotroz zufrimoz aquella nochze. Pero ziempre ze noz ezcapa alguno de loz cofrez. Ahora Nariz Grande (un elfo) tiene a zu Cabello de Oro y Orejaz Amarillaz (el anciano goblin macho) a zu Culo Bonito... azí que ya eztamoz liztoz para hacer todo lo pozible para que no ze noz ezcape ningún cofre. 
-¿Noz ayudaréiz? Zi lo hacéiz, oz enzeñaremoz a zobrevivir a laz criaturaz... "
+    Esta es la zona del río donde los Dorados entran y salen del río. Se meten en el curso de agua y siguen su lecho, hundiéndose progresivamente hasta que desaparecen de la vista. El truco está en que más adelante hay una entrada bajo el agua, por donde los golems acceden a la zona 21, dentro de la zona de mantenimiento 
 
-Los Curiosos están cegados con la venganza que no tienen pensado nada más alla. No saben qué harían con los supervivientes, o qué pasaría si los Conformistas les pidieran perdón...
-Consejos de los Curiosos sobre el entorno
-Si cumplen su parte del trato o son obligados a ello, los Curiosos les darán las siguiente sindicaciones:
-- Siempre llevar un odre de agua, y emplearlo para salpicar a cualquier cosa que se acerque.
-- Tratar de no levantar la estela Irisada, atrae a todas las bestias.
-- Cada poco mirar hacia arriba, hay seres casi invisibles que te atacan desde allí. Afortunadamente no son muy rápidos.
-- Alejarse de las gemas brillantes azules, son bocas de monstruos. También tener cuidado por los alrededores, sus lenguas son prensiles.
-- Hay una gran criatura extraña en la zona del norte, con muchas patas y un corpachón inmenso, como si fuera un árbol con muchos troncos. Es la que produce el aire irisado por unos agujeros de su cuerpo.
-- Hay unos gusanos que son gente también. Vienen de un agujero en el techo, justo al lado de la gran criatura árbol, y tratan de imitar y comunicarse para aprender cosas nuevas. Nunca han hecho daño. 
+    Esta es la razón por la que los golems están recubiertos de oro: para evitar que se oxiden, teniendo que pasar por el agua tres veces al día. Y esta característica también les ha protegido de la nueva fauna, capaz de disolver roca y metales férricos, pero no joyas o materiales preciosos.
 
-Aparte de todo esto, saben lo mismo que los Conformistas sobre su historia. Es decir, nada: tampoco podrán explicar desde cuándo están en este lugar ni quiénes son los Dorados. 
+    El pasillo subacuático se extiende varias decenas de metros, suficientes para que sea imposible recorrerlo a pulmón, y así disuadir a los sujetos del experimento para que los sigan. Pero podría hacerse con magia o con los odres que los Curiosos utilizan para llevar agua... o cualquier otro recurso que los aventureros se saquen de la manga.
 
-Tesoro: aparte de las pieles, poca cosa hay. Los consejos son el principal tesoro del que disponen. 
-17 - La zona de encuentro
-En esta zona la hierba desaparece y da lugar a un gran claro de tierra suelta. En cuanto se acerquen se puede apreciar que la misma está llena de dibujos. 
-En este momento hay trazos representando a humanos, elfos, enanos y trasgos, y un dibujo bastante siniestro representando una especie de arbol gigantesco con doce troncos y debajo una representación más burda de humanoides, muy pequeños en comparación. Es la primera referencia que encontrarán al Árbol Zancudo.
+15. **Teleportadores de pequeños hervíboros**
 
-Este lugar sirve como lugar de encuentro para los gusanos miméticos y los Curiosos, entendiéndose a través de dibujos. 
+    En estas zonas el Hechicero ubicó las llegadas de unos teleportadores que esparció por todo el área circundante a la Montaña Solitaria. Su objetivo era traer cualquier pequeño hervíboro (conejos, cabras, ardillas, asnos, pájaros de cualquier clase) para dotar de una pequeña fauna inocua a la zona de experimentación. 
 
-18 -  Avanzadilla de los gusanos 
-En este lugar, antes de llegar a donde está el Árbol Zancudo, los Gusanos Miméticos mantienen una pequeña avanzadilla. 
+    Los teleportadores siguen funcionando, pero alrededor de cada uno hay ahora docenas de bocas acechantes (tirar en la Tabla de Encuentros y utilizar el primer monstruo que salga), listas para devorar al siguiente animalillo en cuanto aparezca. Lo cual ocurrirá en cuanto haya algún aventurero cerca.
 
-Si detectan a los aventureros, 1d6 Gusanos reptarán hacia ellos formando un revuelo aceitoso. En cuanto estén a su lado se enroscarán unos con otros para formar con sus cuerpos un amasijo palpitante de forma vagamente humanoide, extenderán una especie de brazo y sacarán cinco protuberancias: una mano abierta en señal de saludo. Y esperarán a que los PJs hagan lo mismo.
+16. **El campamento de los Curiosos**
 
-Los Gusanos son la única especie inteligente en el plano del que proviene toda esta fauna extraña. Al encontrar otros seres inteligentes en este plano se sienten completamente fascinados y entusiasmados, y tratan de aprender todo lo que puedan para comunicarse. Como han establecido contacto amistoso con los Curiosos piensan que todos los seres de dos patas son así, y por eso intentarán comunicarse con los aventureros.
-Contarán como sorprendidos si se les ataca. Sus estadísticas, las de los gusanos carroñeros, con el tema de la vulnerabilidad al agua y ácido en lugar de parálisis.
+    Cerca de la última cascada del río está el campamento de los habitantes que fueron expulsados del refugio de los Conformistas de la Zona 9. Las gotitas de agua que salpican la zona queman a las nuevas bestias, y los Curiosos lo saben y lo aprovechan. Por eso han elegido este lugar para establecerse.
 
-Si intentan comunicarse, cogerán una ramita y se pondrán a dibujar en el suelo terroso. El Máster debería intentar comunicarse con los jugadores sólo a base de dibujos, en plan Pictionary, y obligar a los jugadores a hacer lo mismo cuando intenten comunicarse con los gusanos, ya que no entienden el idioma. Pero son bastante listos, así que entenderán lo que quieren decir los aventureros bastante rápido, independientemente de los monigotes que sean capaces de dibujar los jugadores.
-Las preguntas de los gusanos son difíciles de expresar en dibujos... pero así el máster conseguirá reflejar lo difícil que es la comunicación y los vericuetos de unas mentes alienígenas.
-Lo que quieren decir los gusanos:
-- ¿Qué es eso que lleváis encima? (Se refieren a las armaduras y las armas) ¿Para qué sirven?
-- ¿Podemos tocarlas y ponérnoslas?
-- ¿Dónde están los otros? (preguntan por los Curiosos)
-- ¿Qué estáis buscando por esta zona del valle?
-- ¿Venís de una zona sin agua?
-- ¿Podéis enseñarnos por dónde habéis venido?
+    **Los alrededores**
 
-Recuerda, máster, nada de hablar :-P Hazlo lo mejor que puedas, pero recuerda que no es imprescindible para la aventura el que te entiendan. 
+    Fuera de la zona de humedad habrá dos Langoescorpiones rondando, buscando Erizos rodantes o Flores ácidas para alimentarse. Los Curiosos consiguieron domesticarlos a base de echarles agua cuando intentaban ir a comérselos, y ahora dejan en paz a cualquier cosa de dos patas. Pero sirven para mantener otras bestias a raya.
 
-No se opondrán a que vayan a la zona 20 y de hecho les seguirán con curiosidad. A menos que les hayan atacado, en cuyo caso sí intentarán detenerles.
-19 - Guarida de Hipodrilos de roca
-En la pared de esta zona refulgen seis montoncitos de zafiros azules, y el suelo está plagado de nervaduras rocosas que resultan difíciles de ver entre la hierba. 
+    Subido a una hendedura en la roca, a unos cuatro metros de altura, hay a todas horas un vigía con numerosos pellejos de agua, atento a lo que haya en la zona, incluyendo las posibles amenazas voladoras. Avisará con un "Eeehhh, viene gente" sin disimular a los que están más abajo.
+
+    **El campamento**
+
+    La zona central del asentamiento está al lado del río y está compuesto por unos siete lechos al lado del río, cubiertos con pieles crudas como las que encontraron secándose en la zona 13.
+
+    Por los alrededores hay siempre diez personas, menos los que se hayan encontrado en la Tabla de Encuentros. Todas están ocupadas haciendo cosas con pieles: Unos están raspando los interiores con piedras, otros más allá están desollando una cabra, otros están uniendo dos pieles utilizando agujas de hueso y tripas, aquellos están terminando de rematar un odre... la actividad es constante.
+
+    **Los habitantes**
+
+    En total son 2 humanas cincuentonas (una de ellas es Cabello de oro), 2 elfos (uno de ellos es Culo Bonito), 1 elfa, 1 Bugbear hembra madurita, 2 viejos kobolds macho, 2 orcos hembra  de mediana edad y 1 venerable goblin macho. La Bugbear, Morro Moteado (por las pintitas negras sobre el morro), es quien hace de portavoz frente a los aventureros. 
+
+    Todos llevan palos de distintos tamaños y cada uno lleva al menos tres odres de agua.  
+
+    Al igual que a los Conformistas, les impresionará muchísimo ver gente nueva con armaduras, vestiduras y armas que no han visto jamás. De hecho comparten casi todos los rasgos de los Conformistas (hablar ceceante, curiosidad, vestiduras, etc) salvo que todos llevan los odres de agua siempre encima y que tienen la mirada mucho más limpia. Al fin y al cabo no tienen nada de lo que avergonzarse.
+
+    Si son atacados se defenderán, pero si se ven muy superados huirán, en principio a las antiguas viviendas de la zona 13.
+
+    **Hablando con ellos**
+
+    Si vienen por encargo de Los Conformistas y preguntan por Culo Bonito y Cabello de oro, el elfo y una de las humanas se pondrán en pie y se acercarán a ellos. No parece que estén aquí contra su voluntad, todo lo contrario. 
+
+    Morro Moteado se presentará como la “voz de todos” y estará deseosa de contarles a los aventureros toda la historia, desde su punto de vista.  
+
+    _“La nochze que llegaron loz nuevoz animalez muchoz murieron antez de que llegaramoz a la cazcada. Todoz temíamoz que loz Doradoz no zupieran encontrarnoz, pero lo hicieron y noz trajeron la comida a la cueva. Allí noz quedamoz._
+
+    _Unoz cuantoz zalíamoz de la cazcada todoz loz díaz para zaber máz zobre loz nuevoz animalez, para ver cómo podríamoz vivir con elloz o protegernoz de elloz. Pero Ojoz Azulez y loz demáz zeguían muy azuztadoz. Querían quedarze en la cueva para ziempre, y penzaban que íbamoz a atraer laz beztiaz a la cueva y que noz matarían a todo. También ez verdaz que ziempre perdíamoz a alguien en laz zalidaz. Aún azí..._
+
+    _Aún azí lo que hicieron fue imperdonable. Ezperaron a que noz durmiéramoz y entoncez noz zacaron de la cazcada. No noz dejaban entrar, noz empujaban fuera... con el alboroto, al poco vinieron unoz Dizcoz y unaz Florez y empezaron a derretirnoz. Perdimoz a muchoz antez de que noz diéramoz cuenta de que no noz atacaban en el agua. Zeguimoz por el río abajo hazta que encontramoz ezte lugar y noz eztablecimoz aquí. Y loz Doradoz ziguen viniendo a nozotroz con comida..._
+
+    _Dezde entoncez hemoz aprendido mucho zobre loz nuevoz animalez. Dezcubrimoz que ven laz eztelaz, que el agua lez hace daño. Cazamoz loz animalez normalez para quitarlez la piel y hacer bolzaz para llevar agua, que ziempre llevamoz con nozotroz. Hemoz domezticado doz beztiaz para que no ataquen gente, ahí fuera. Hemoz conocido a la gente guzano. Ya no tenemoz miedo._
+
+    _Y ahora ya podemoz encargarnoz de loz de la cueva..._
+
+    _Eztamoz quitándolez la comida que le llevan loz Doradoz, para que cuando tengan hambre zalgan y comprendan lo que nozotroz zufrimoz aquella nochze. Pero ziempre ze noz ezcapa alguno de loz cofrez. Ahora Nariz Grande (un elfo) tiene a zu Cabello de Oro y Orejaz Amarillaz (el anciano goblin macho) a zu Culo Bonito... azí que ya eztamoz liztoz para hacer todo lo pozible para que no ze noz ezcape ningún cofre._
+
+    _¿Noz ayudaréiz? Zi lo hacéiz, oz enzeñaremoz a zobrevivir a laz criaturaz..."_
+
+    Los Curiosos están cegados con la venganza que no tienen pensado nada más alla. No saben qué harían con los supervivientes, o qué pasaría si los Conformistas les pidieran perdón...
+
+    **Consejos de los Curiosos sobre el entorno**
+
+    Si cumplen su parte del trato o son obligados a ello, los Curiosos les darán las siguiente sindicaciones:
+
+    * Siempre llevar un odre de agua, y emplearlo para salpicar a cualquier cosa que se acerque.
+    * Tratar de no levantar la estela Irisada, atrae a todas las bestias.
+    * Cada poco mirar hacia arriba, hay seres casi invisibles que te atacan desde allí. Afortunadamente no son muy rápidos.
+    * Alejarse de las gemas brillantes azules, son bocas de monstruos. También tener cuidado por los alrededores, sus lenguas son prensiles.
+    * Hay una gran criatura extraña en la zona del norte, con muchas patas y un corpachón inmenso, como si fuera un árbol con muchos troncos. Es la que produce el aire irisado por unos agujeros de su cuerpo.
+    * Hay unos gusanos que son gente también. Vienen de un agujero en el techo, justo al lado de la gran criatura árbol, y tratan de imitar y comunicarse para aprender cosas nuevas. Nunca han hecho daño. 
+
+    Aparte de todo esto, saben lo mismo que los Conformistas sobre su historia. Es decir, nada: tampoco podrán explicar desde cuándo están en este lugar ni quiénes son los Dorados. 
+
+    Tesoro: aparte de las pieles, poca cosa hay. Los consejos son el principal tesoro del que disponen. 
+
+17. **La zona de encuentro**
+
+    En esta zona la hierba desaparece y da lugar a un gran claro de tierra suelta. En cuanto se acerquen se puede apreciar que la misma está llena de dibujos. 
+
+    En este momento hay trazos representando a humanos, elfos, enanos y trasgos, y un dibujo bastante siniestro representando una especie de arbol gigantesco con doce troncos y debajo una representación más burda de humanoides, muy pequeños en comparación. Es la primera referencia que encontrarán al Árbol Zancudo.
+
+    Este lugar sirve como lugar de encuentro para los gusanos miméticos y los Curiosos, entendiéndose a través de dibujos. 
+
+18. **Avanzadilla de los gusanos**
+
+    En este lugar, antes de llegar a donde está el Árbol Zancudo, los Gusanos Miméticos mantienen una pequeña avanzadilla. 
+
+    Si detectan a los aventureros, 1d6 Gusanos reptarán hacia ellos formando un revuelo aceitoso. En cuanto estén a su lado se enroscarán unos con otros para formar con sus cuerpos un amasijo palpitante de forma vagamente humanoide, extenderán una especie de brazo y sacarán cinco protuberancias: una mano abierta en señal de saludo. Y esperarán a que los PJs hagan lo mismo.
+
+    Los Gusanos son la única especie inteligente en el plano del que proviene toda esta fauna extraña. Al encontrar otros seres inteligentes en este plano se sienten completamente fascinados y entusiasmados, y tratan de aprender todo lo que puedan para comunicarse. Como han establecido contacto amistoso con los Curiosos piensan que todos los seres de dos patas son así, y por eso intentarán comunicarse con los aventureros.
+
+    Contarán como sorprendidos si se les ataca. Sus estadísticas, las de los gusanos carroñeros, con el tema de la vulnerabilidad al agua y ácido en lugar de parálisis.
+
+    Si intentan comunicarse, cogerán una ramita y se pondrán a dibujar en el suelo terroso. El Máster debería intentar comunicarse con los jugadores sólo a base de dibujos, en plan Pictionary, y obligar a los jugadores a hacer lo mismo cuando intenten comunicarse con los gusanos, ya que no entienden el idioma. Pero son bastante listos, así que entenderán lo que quieren decir los aventureros bastante rápido, independientemente de los monigotes que sean capaces de dibujar los jugadores.
+
+    Las preguntas de los gusanos son difíciles de expresar en dibujos... pero así el máster conseguirá reflejar lo difícil que es la comunicación y los vericuetos de unas mentes alienígenas.
+
+    Lo que quieren decir los gusanos:
+
+    * ¿Qué es eso que lleváis encima? (Se refieren a las armaduras y las armas) ¿Para qué sirven?
+    * ¿Podemos tocarlas y ponérnoslas?
+    * ¿Dónde están los otros? (preguntan por los Curiosos)
+    * ¿Qué estáis buscando por esta zona del valle?
+    * ¿Venís de una zona sin agua?
+    * ¿Podéis enseñarnos por dónde habéis venido?
+
+    Recuerda, máster, nada de hablar :-P Hazlo lo mejor que puedas, pero recuerda que no es imprescindible para la aventura el que te entiendan. 
+
+    No se opondrán a que vayan a la zona 20 y de hecho les seguirán con curiosidad. A menos que les hayan atacado, en cuyo caso sí intentarán detenerles.
+
+19. **Guarida de Hipodrilos de roca**
+
+    En la pared de esta zona refulgen seis montoncitos de zafiros azules, y el suelo está plagado de nervaduras rocosas que resultan difíciles de ver entre la hierba. 
 
 Seis hipodrilos de roca se han establecido aquí, abriendo sus bocazas y estirando sus lenguas para atrapar cualquier cosa que camine por aquí. Pueden detectarlas superando una tirada de Detectar Trampas, con un +3 si ya han pasado por la zona 5. 
 20 - El Árbol Zancudo
