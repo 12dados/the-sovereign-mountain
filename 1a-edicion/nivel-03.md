@@ -40,11 +40,11 @@ Cuando los personajes investiguen en la Boca, se puede producir un encuentro:
 16-20   Llamarada 
 ```
 
-### Patrulla de hombres lagarto 
+**Patrulla de hombres lagarto**
 
 Una patrulla de 3d4 hombres lagarto hace su aparición. Pueden venir de una expedición de caza o disponerse a salir. Los hombres lagarto obedecen al gran sacerdote de Shamarakan, llamado "Ulk-Ultar". Los infieles deben ser purgados y conducidos al interior para ser sacrificados en el "Lago de Fuego". Los hombres lagarto están armados con lanzas y hachas, visten restos de armaduras de aventureros capturados anteriormente y son fanáticamente leales a su líder. Sin embargo, no lucharán hasta la muerte. Si los personajes se rinden, los capturarán y llevarán al interior. Si los personajes derrotan al menos al 80% de ellos, el resto huirá por el pasadizo de El Cuello en dirección a la Panza y el poblado, donde buscarán refuerzos. 
 
-### Llamarada
+**Llamarada**
 
 De pronto se forma una increíble corriente de aire, como si fuese aspirado a gran velocidad al interior del pasadizo. Cualquiera que no salga inmediatamente de la estancia verá cómo se ilumina con una lengua de fuego que proviene del pasadizo e inunda la sala, calcinando todo (y a todos) los que se encuentren allí, daños graves (6d6). Se permite Tiro de Salvación (o similar) para medio daño.
 
@@ -65,22 +65,22 @@ El cuello posee un ecosistema propio que los hombres lagarto han aprendido a evi
 19-20   Gusano Carroñero 
 ```
 
-### Llamarada
+**Llamarada**
 
 De pronto se forma una increíble corriente de aire, como si fuese aspirado a gran velocidad al interior del pasadizo. Cualquiera que no salga inmediatamente de la estancia verá cómo se ilumina con una lengua de fuego que proviene del pasadizo e inunda la sala, calcinando todo (y a todos) los que se encuentren allí, daños graves (6d6). Se permite Tiro de Salvación (o similar) para medio daño.  
-### Cieno Gris 
+**Cieno Gris**
 
 Este cieno altamente corrosivo se pega a los techos y se deja caer sobre los incautos, adhiriéndose a ellos y devorándolos vivos. Este cieno daña también el equipo de los personajes, disolviendo (Tiro de Salvación o similar para evitarlo) cuero, madera, tela y corroyendo poco a poco el metal. 
 
-### Cubo Gelatinoso 
+**Cubo Gelatinoso**
 
 Difícil de ver en la penumbra, se desliza por el cuello tratando de absorber cualquier cosa viva que encuentre en su camino. 
 
-### Gusano Carroñero 
+**Gusano Carroñero**
 
 Un parásito enorme que recorre El Cuello en busca de presas. Su veneno paralizante le convierte en un adversario peligroso. 
 
-### Patrulla de hombres lagarto 
+**Patrulla de hombres lagarto**
 
 Una patrulla de 3d4 hombres lagarto hace su aparición. Pueden venir de una expedición de caza o disponerse a salir. Los hombres lagarto obedecen al gran sacerdote de Shamarakan, llamado "Ulk-Ultar". Los infieles deben ser purgados y conducidos al interior para ser sacrificados en el "Lago de Fuego". Los hombres lagarto están armados con mazas y porras, visten restos de armaduras de aventureros capturados anteriormente y son fanáticamente leales a su líder. Sin embargo, no lucharán hasta la muerte. Si los personajes se rinden, los capturarán y llevarán al interior. Si los personajes derrotan al menos al 80% de ellos, el resto huirá por el pasadizo de El Cuello en dirección a la Panza y el poblado, donde buscarán refuerzos. 
 
