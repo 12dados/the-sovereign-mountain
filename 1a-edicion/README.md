@@ -22,7 +22,7 @@ Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2)
  * [Prefacio](./00-prefacio.md)
  * [Introducción](./01-introduccion.md)
  * [Expandiendo la Montaña Soberana](./02-expandiendo.md)
- * Piedrainerte, por Sergio Somalo “Tremandur”
+ * [Piedrainerte](./03-piedrainerte.md), por Sergio Somalo “Tremandur”
  * El camino hasta la Montaña, por Bester
  * El exterior de la Montaña, por Bester
  * Nivel 1: Filosofías enfrentadas, por Rodrigo García Carmona
