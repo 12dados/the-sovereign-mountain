@@ -3,6 +3,10 @@
 
 ## Mapa del nivel
 
+<p align="center">
+  <img width="400" alt="Mapa del nivel 1" src="./img/nivel-01.png">
+</p>
+
 ## Conexiones con otros niveles
 
 * Sala 0: lleva al [exterior de la Montaña](./05-exterior.md).
@@ -64,6 +68,10 @@ En alguna parte de la Montaña Soberana (en concreto entre [las posesiones de Ul
 A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tienen en común: su respeto por los sapos. Todos los Goblins consideran a los sapos, en todas sus formas y colores, animales sagrados, y no les dañarán bajo ningún concepto. Tampoco tolerarán que nadie los moleste. Como consecuencia de esto, es habitual ver sapos pululando por todos los recovecos del nivel, campando a sus anchas a sabiendas de que nadie (salvo algún aventurero) les hará daño.
 
 ### Mapa de las facciones goblin
+
+<p align="center">
+  <img width="400" alt="Mapa de las facciones goblin" src="./img/nivel-01-facciones.png">
+</p>
 
 ## Leyenda de las salas del nivel
 
@@ -147,7 +155,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
    Encima de los dos Bugbears, y de la masa negra, los personajes podrán leer el siguiente texto, inscrito en la pared:
 
    _Somos los poseedores de la verdad y la mentira, de lo auténtico y lo falso._
-   
+
    _Podrás hacernos una única pregunta, y deberemos responderla._
 
    Es más, no importa de dónde sea cada personaje, todos verán el texto en su idioma natal. Cada personaje podrá hacer una única pregunta a ambos Bugbears, que poseen el conocimiento universal y podrán responder con certeza sin importar la cuestión. Uno de ellos (el de la armadura azul) siempre responderá con la verdad, mientras que el otro (el de la armadura roja) siempre responderá con una mentira. 
