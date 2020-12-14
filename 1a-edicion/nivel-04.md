@@ -393,134 +393,164 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
     En la pared de esta zona refulgen seis montoncitos de zafiros azules, y el suelo está plagado de nervaduras rocosas que resultan difíciles de ver entre la hierba. 
 
-Seis hipodrilos de roca se han establecido aquí, abriendo sus bocazas y estirando sus lenguas para atrapar cualquier cosa que camine por aquí. Pueden detectarlas superando una tirada de Detectar Trampas, con un +3 si ya han pasado por la zona 5. 
-20 - El Árbol Zancudo
-Este punto de la caverna está envuelto en una nube multicolor, producto de la cantidad de movimiento que hay en esta zona. Tal revuelo de colores oculta lo que hay aquí desde una distancia de unos 20 metros.
+   Seis hipodrilos de roca se han establecido aquí, abriendo sus bocazas y estirando sus lenguas para atrapar cualquier cosa que camine por aquí. Pueden detectarlas superando una tirada de Detectar Trampas, con un +3 si ya han pasado por la zona 5. 
 
-Si se llega a una distancia más cercana, se verá que hay 1d10 Flores Ácidas y 1d8 Discos Translúcidos flotando y nadando alrededor de doce inmensos troncos, muy distintos a los de cualquier árbol que hayan visto en su vida. Es más, uno de los troncos se alza lentamente y baja un poco más allá.
+20. **El Árbol Zancudo**
 
-Los troncos sostienen un inmenso corpachón lleno de agujeros por los que parece salir y entrar un gas. De él cuelgan unos tentáculos espinosos que, de vez en cuando, atrapan al vuelo alguno de los seres (en este caso un Langoescorpión) que van cayendo desde un agujero en la ilusión del cielo de la cueva. Y entre las dos patas más lejanas se puede ver una pila de piedrecitas brillantes de unos tres metros de altura.
+    Este punto de la caverna está envuelto en una nube multicolor, producto de la cantidad de movimiento que hay en esta zona. Tal revuelo de colores oculta lo que hay aquí desde una distancia de unos 20 metros.
 
-Este inmenso ser es el que produce la atmósfera que hace posible que exista aquí toda esta extraña fauna. Hace tiempo cayó por el agujero del techo, un portal dimensional que se abrió desde el nivel H. Desde entonces ha ido creciendo hasta su actual tamaño, y quién sabe qué dimensión puede adquirir si se le deja crecer más. 
+    Si se llega a una distancia más cercana, se verá que hay 1d10 Flores Ácidas y 1d8 Discos Translúcidos flotando y nadando alrededor de doce inmensos troncos, muy distintos a los de cualquier árbol que hayan visto en su vida. Es más, uno de los troncos se alza lentamente y baja un poco más allá.
 
-Estadísticas:  Las de una Hidra de 12 cabezas. En lugar de mordiscos el daño es de constricción.
+    Los troncos sostienen un inmenso corpachón lleno de agujeros por los que parece salir y entrar un gas. De él cuelgan unos tentáculos espinosos que, de vez en cuando, atrapan al vuelo alguno de los seres (en este caso un Langoescorpión) que van cayendo desde un agujero en la ilusión del cielo de la cueva. Y entre las dos patas más lejanas se puede ver una pila de piedrecitas brillantes de unos tres metros de altura.
 
-Ah, y hay que recordar que el agua también le afecta como si fuera ácido.
+    Este inmenso ser es el que produce la atmósfera que hace posible que exista aquí toda esta extraña fauna. Hace tiempo cayó por el agujero del techo, un portal dimensional que se abrió desde el nivel H. Desde entonces ha ido creciendo hasta su actual tamaño, y quién sabe qué dimensión puede adquirir si se le deja crecer más. 
 
-Tesoro: las piedrecitas brillantes son pepitas de un metal desconocido: aluminio. hay unas 20.000, y cada una valdría en torno a 1 m.o.
+    ```
+    Estadísticas: Las de una Hidra de 12 cabezas. En lugar de mordiscos el daño es de constricción.
+    Ah, y hay que recordar que el agua también le afecta como si fuera ácido.
+    Tesoro: las piedrecitas brillantes son pepitas de un metal desconocido: aluminio. hay unas 20.000, y cada una valdría en torno a 1 m.o.
+    ```
 
-Si consiguen derrotar al Árbol, los seres que revolotean a su alrededor caen al suelo y comienzan a asfixiarse. En el plazo de una hora toda la fauna extraña del nivel morirá, y los Gusanos Miméticos intentarán volver al agujero y a su plano antes de que se les acabe el aire.
-A menos que cierren el agujero del techo, periódicamente seguirán cayendo bichos por él, que morirán en pocos asaltos asfixiados. En ocho días volverá a caer un retoño de un Árbol y crecerá de nuevo, con lo que todo volverá a empezar.  
-La zona de mantenimiento
+    Si consiguen derrotar al Árbol, los seres que revolotean a su alrededor caen al suelo y comienzan a asfixiarse. En el plazo de una hora toda la fauna extraña del nivel morirá, y los Gusanos Miméticos intentarán volver al agujero y a su plano antes de que se les acabe el aire.
+
+    A menos que cierren el agujero del techo, periódicamente seguirán cayendo bichos por él, que morirán en pocos asaltos asfixiados. En ocho días volverá a caer un retoño de un Árbol y crecerá de nuevo, con lo que todo volverá a empezar.  
+
+## La zona de mantenimiento
+
 Toda esta zona está contenida en el Gran Pasaje, en el hueco entre los dos teleportadores. El estilo vuelve a ser Enano, con el suelo adoquinado y las paredes principales talladas en la roca. 
 
 El mago aprovechó el pasaje para construir las estancias que dan soporte al experimento, y sirven de “base” para los Dorados. La entrada acuática, originalmente pensada para evitar que vinieran aquí los sujetos del experimento, resulta letal para la nueva fauna e impide la filtración del Aire Irisado, por lo que de momento todo está tal y como lo dejó el Hechicero. Y además, los movimientos ya no dejan estelas irisadas en el aire. 
 
 Los “habitantes” de esta zona son golems de dos tipos: 
 
-- Los Dorados no son otra cosa que Golems de Carga (descritos en el nivel 5) hechos para entrar en la zona del experimento. Se les cinceló con apariencia humanoide, para resultar más amigables a los sujetos, y (como hemos visto en la zona 14) se les recubrió de una fina lámina de oro para evitar la oxidación y el deterioro de sumergirse tres veces al día en el agua del riachuelo.
-- También hay aquí Golems de Mantenimiento y de Archivo como los del nivel 6, dedicados a hacer pequeñas reparaciones y documentar el experimento sin supervisión. Siguen provocando las migrañas ante los seres inteligentes y conservan la posibilidad de comunicación por vía telepática.  
+* Los Dorados no son otra cosa que Golems de Carga (descritos en el nivel 5) hechos para entrar en la zona del experimento. Se les cinceló con apariencia humanoide, para resultar más amigables a los sujetos, y (como hemos visto en la zona 14) se les recubrió de una fina lámina de oro para evitar la oxidación y el deterioro de sumergirse tres veces al día en el agua del riachuelo.
+* También hay aquí Golems de Mantenimiento y de Archivo como los del nivel 6, dedicados a hacer pequeñas reparaciones y documentar el experimento sin supervisión. Siguen provocando las migrañas ante los seres inteligentes y conservan la posibilidad de comunicación por vía telepática.  
 
 El complejo está iluminado también por los huesos de luz azulados descritos en el nivel 6, y no hay ni una sola puerta. Los golems no necesitan intimidad, después de todo... 
-21 - La entrada subacuática
-El pasillo subacuático descrito en la zona 15 asciende en rampa hasta que sale del agua en esta habitación, en lo que parece una piscina. No hay mucho más, es una simple zona de paso.
-22 - La fuente de comida
-Esta gran habitación con puertas dobles tiene seis grandes banastas rectangulares pegadas a las paredes. Cada banasta es tan grande como un ataúd, con asas a ambos lados, y están vacías. Parecen hechas de mimbre, aunque tienen unos adornos de plata engarzados con motivos de frutas, pollos asados, tenedores y demás motivos relacionados con la comida.
 
-Además, en una de las paredes hay una pintada de la cara de un muñecote-palo: Un círculo grande por cabeza, dos puntos como ojos y una femenina boca sonriente. Sin embargo, la boca está dibujada de forma muy realista, simulando incluso el volumen de los labios.
+21. **La entrada subacuática**
 
-Cada cesta es en realidad una Cornucopia (http://www.enworld.org/forum/showthread.php?156986-In-the-spirit-of-thanksgiving-The-Cornucopia), un objeto mágico que crea comida y bebida para 10 personas cada vez que se pronuncia la palabra de mando. La comida es sencilla, muy nutritiva y bastante sabrosa. Nunca se produce el mismo tipo exacto de comida: hay asados, guisos, fruta, postres como arroz con leche o natillas... pero siempre está muy buena. La comida dura unas 48 horas antes de que se estropee. 
+    El pasillo subacuático descrito en la zona 15 asciende en rampa hasta que sale del agua en esta habitación, en lo que parece una piscina. No hay mucho más, es una simple zona de paso.
 
-La detallada boca del muñegote es en realidad una Boca Mágica hecha Permanente. Su única función es gritar cada ocho horas con voz femenina una sola letra: “A“. Es la palabra de mando de las Cornucopias, con lo que cada vez que se pronuncia la comida aparece en las cestas. Inmediatamente después aparecen los golems dorados con los cofres herméticos, los llenan con la comida de las cestas y abandonan la sala para dirigirse a los enclaves de los supervivientes. No vuelven aquí hasta que no pasen otras ocho horas.
+22. **La fuente de comida**
 
-El Hechicero pensó que las Cornucopias iban a estar en un complejo donde sólo habría golems sin voz y por eso no se complicó la vida cuando decidió la palabra de mando. Pero... ¿qué pasará si alguien se pone a hablar al lado de las cestas? Pues que el máster tendrá que contar cuántas “aes” se pronuncian en la habitación. Con la segunda “a” las tapas de las cestas se abren, la tercera “a” hace que las raciones se desparramen por el suelo. Con 6 “aes” la comida llega por las rodillas de un humano normal, con 9 por el pecho y con 12 se llena la habitación y empieza a derramarse por los pasillos
+    Esta gran habitación con puertas dobles tiene seis grandes banastas rectangulares pegadas a las paredes. Cada banasta es tan grande como un ataúd, con asas a ambos lados, y están vacías. Parecen hechas de mimbre, aunque tienen unos adornos de plata engarzados con motivos de frutas, pollos asados, tenedores y demás motivos relacionados con la comida.
 
-Ejemplo: 
-“¿Qué hay aquí?” (las tapas de las cestas se abren, repletas)
-“No sé, parecen cestas llenas de comida (la comida se desparrama y llega hasta las rodillas) ... espera, ¿qué está pasando? (los aventureros sólo asoman la cabeza entre los pollos asados, y tienen la ropa mojada con de cocido y flan) ¡Salid de aquí, rápido! (tienen que empezar a nadar entre la comida)
+    Además, en una de las paredes hay una pintada de la cara de un muñecote-palo: Un círculo grande por cabeza, dos puntos como ojos y una femenina boca sonriente. Sin embargo, la boca está dibujada de forma muy realista, simulando incluso el volumen de los labios.
 
-Más allá de 14 “aes” la comida se sale por los pasillos y empiezan a venir golems para llevarse la comida hacia la sala de limpieza (el cubo gelatinoso) del nivel 5. Si los aventureros siguen hablando, los golems tratarán de hacerles callar tapándoles la boca, y si ni aun así se callan tratarán todos de realizar en enlace telepático para comunicarse con los aventureros y explicarles el motivo. 
+    Cada cesta es en realidad una [Cornucopia](http://www.enworld.org/forum/showthread.php?156986-In-the-spirit-of-thanksgiving-The-Cornucopia), un objeto mágico que crea comida y bebida para 10 personas cada vez que se pronuncia la palabra de mando. La comida es sencilla, muy nutritiva y bastante sabrosa. Nunca se produce el mismo tipo exacto de comida: hay asados, guisos, fruta, postres como arroz con leche o natillas... pero siempre está muy buena. La comida dura unas 48 horas antes de que se estropee. 
 
-Los golems no permitirán que se lleven las cestas.
-23 - Hacia el nivel 6
-Una rampa lleva desde este nivel a la sala 1 del nivel 6. Por aquí circulan los golems que necesitan reparación o recarga. 
-24 - La habitación de recepción
-La habitación contiene cuatro mesas con correas de cuero en tres de los lados, como si fueran sujecciones para las extremidades. También hay tres grandes armarios contra las paredes. Las camas no presentan signos de violencia ni de sangre.
+    La detallada boca del muñegote es en realidad una Boca Mágica hecha Permanente. Su única función es gritar cada ocho horas con voz femenina una sola letra: “A“. Es la palabra de mando de las Cornucopias, con lo que cada vez que se pronuncia la comida aparece en las cestas. Inmediatamente después aparecen los golems dorados con los cofres herméticos, los llenan con la comida de las cestas y abandonan la sala para dirigirse a los enclaves de los supervivientes. No vuelven aquí hasta que no pasen otras ocho horas.
 
-Ninguno de los armarios está cerrado. El primero contiene estanterías con una colección de figuritas de cristal, moldeadas para representar humanos, elfos, enanos, trasgos, orcos, etc. La cuarta parte de las figuritas contiene una neblina luminosa que fluctúa y que muestra imágenes si se mira de cerca. Los otros dos armarios están llenos de armas, armaduras y objetos que tienen pinta de mágicos. 
+    El Hechicero pensó que las Cornucopias iban a estar en un complejo donde sólo habría golems sin voz y por eso no se complicó la vida cuando decidió la palabra de mando. Pero... ¿qué pasará si alguien se pone a hablar al lado de las cestas? Pues que el máster tendrá que contar cuántas “aes” se pronuncian en la habitación. Con la segunda “a” las tapas de las cestas se abren, la tercera “a” hace que las raciones se desparramen por el suelo. Con 6 “aes” la comida llega por las rodillas de un humano normal, con 9 por el pecho y con 12 se llena la habitación y empieza a derramarse por los pasillos
 
-Aquí es donde el mago traía a los especímenes después de secuestrarlos. Normalmente dormía al sujeto que quería, luego lo teleportaba a esta habitación y lo ataba a una de las mesas mientras estaba inconsciente. Después le extraía los recuerdos, transfiriéndolos a una de las figurillas de cristal, y cuando terminaba el proceso lo teleportaba hasta la zona de experimentación.
+    **Ejemplo:**
 
-Las figuras con niebla luminosa contienen los recuerdos de los especímenes que aún siguen vivos, y están modeladas para parecérseles. Si se acercan a mirar de cerca, se pueden ver en la niebla imágenes desvaídas de recuerdos: días de fiesta, jornadas de duro trabajo en el campo, un primer beso, amaneceres... y si pasan un cierto tiempo acabarán viendo uno o varios crímenes de sangre. Un asesinato, una violación con muerte, varios asesinatos simultáneos, etc etc. 
-Y es que todos los especímenes que el Hechicero se traía eran los peores criminales violentos de cada especie...
+    “¿Qué hay aquí?” (las tapas de las cestas se abren, repletas)
 
-Si en algún momento se rompe una de las figurillas, todos los recuerdos vuelven a la mente original. Los sujetos que recuperen sus recuerdos recuperarán también sus conocimientos y sus actitudes originales, pero lo que ocurra a partir de entonces se deja en manos del Máster.  Tal vez prefiera que el sujeto “despertado” mate a sangre fría a gran parte de sus compañeros, o tal vez disimule para intentar pillar por sorpresa a los aventureros, o quizás se limite a intentar escapar del experimento para no volver... lo que le venga mejor en función del drama que quiera desarrollar o de cómo vea a sus jugadores.
+    “No sé, parecen cestas llenas de comida (la comida se desparrama y llega hasta las rodillas) ... espera, ¿qué está pasando? (los aventureros sólo asoman la cabeza entre los pollos asados, y tienen la ropa mojada con de cocido y flan) ¡Salid de aquí, rápido! (tienen que empezar a nadar entre la comida)
 
-Tesoro 
-- Las estatuillas de cristal están muy bien talladas. Las “vacías” podrían alcanzar las 15 m.o., las “con niebla” se podrían vender por 200 m.o. 
+    Más allá de 14 “aes” la comida se sale por los pasillos y empiezan a venir golems para llevarse la comida hacia la sala de limpieza (el cubo gelatinoso) del nivel 5. Si los aventureros siguen hablando, los golems tratarán de hacerles callar tapándoles la boca, y si ni aun así se callan tratarán todos de realizar en enlace telepático para comunicarse con los aventureros y explicarles el motivo. 
 
-Los otros armarios contienen el equipo más importante que portaban los sujetos en el momento de su captura. Su calibre e importancia da una idea de lo peligrosos que eran:
+    Los golems no permitirán que se lleven las cestas.
 
-- Espada bastarda con un sol grabado en la hoja: +3, con hechizo de luz: a voluntad la espada se enciende con una luz que ilumina hasta una distancia de 10 metros.
-- Hacha de Batalla con hojas de roble cinceladas en el metal +3, aunque su bonus sólo se aplica cuando se halla a 20 kilómetros del asentamiento poblado más cercano.
-- Arco largo con un retrato de una mujer tallada en la empuñadura: +2, +4 contra humanos
-- Hacha de mano con la palabra “vuelve” grabada en idioma Gnomo: +2, si falla vuelve a la mano del lanzador
-- Maza con un ataúd marcado en la empuñadura: +2, +4 contra muertos vivientes
-- Lanza con la cabeza labrada en forma de cabeza de dragón exhalando su aliento: +4 contra dragones
-- Daga con un pomo en forma de calavera: robavidas: Matará instantáneamente cualquier cosa que alcance, salvo que consiga Salvar contra Petrificación. Originalmente se creó para matar a diez criaturas, pero ya sólo le quedan tres “cargas” por gastar. Después se convertirá en una daga normal y corriente.
-- Escudo rectangular, con el frente lleno de espinas:  tres veces al día el portador puede disparar una espina, con el mismo alcance que una daga, pero que causa 1d10 de daños. Las espinas se regeneran.
-- Escudo circular, con el frente tallado en forma de telaraña: Una vez a la semana el portador puede emplear la palabra de mando (Aracne) que aparece grabada en la cara interna. El escudo lanzará una telaraña igual que el hechizo de mago.
-- Armadura de cuero negro: +4, otorga un bono de 15% a las habilidades del Ladrón que tengan que ver con el sigilo.
-- Cota de malla tamaño enano, +3, +5 a la salvación contra cualquier efecto mágico.
-- Coraza con un grifo cincelado en el pectoral: +2. Además, si se dice la palabra de mando “Golfo”, la coraza se transforma en la ropa que el portador quiera, aunque éste seguirá manteniendo la misma puntuación de Clase de Armadura.
-- Libro de Magia con 5 hechizos de nivel 1, 6 de nivel 2, 4 de nivel 3, 3 de nivel 4, 5 de nivel 5
-- Libro de Magia con 9 hechizos de nivel 1, 2 de nivel 2, 5 de nivel 3, 3 de nivel 4, 2 de nivel 5, 4 de nivel 6, 3 de nivel 7
-- Anillo de madera sencillo, de color azul: es un anillo de Respirar bajo el agua
-- Anillo de plata con una miniatura de un libro: es un anillo de almacenaje de conjuros, con capacidad para guardar 4 niveles de conjuro.
-- Bola de cristal de detección de pensamientos
-- Guantes de papel: son de Destreza +3, pero especialmente frágiles... 
+23. **Hacia el nivel 6**
 
-No hay monedas ni gemas, sólo equipo.
-25 - La sala de observación
-En el centro de la habitación hay un lujoso trono enjoyado, situado en lo alto de un pedestal de tres escalones. Está orientado hacia una de las esquinas de la sala, donde hay un golem escribiendo en un atril, mirando uno de los seis espejos que tiene delante. Y lo mismo pasa en todas las esquinas de la habitación: en todas hay golems escribiendo mientras miran sus seis espejos.
-Y en los espejos hay imágenes de la zona del experimento. Se puede ver la caverna de los Conformistas y el campamento de los Curiosos, pero también todas las zonas de interés que hemos visto anteriormente, incluyendo los teleportadores de pequeños mamíferos.
-Los golems escriben velozmente en pergaminos, en la escritura indescifrable que vimos en la sala 5 del nivel 6, utilizando unos palos de los que mana tinta sin fin. En cuanto terminan de rellenar uno de los pergaminos, otro golem se lo coge y lo lleva a la sala 26. 
-En esta sala el mago pasaba horas observando a sus especímenes, fascinado por el desarrollo del experimento. Los golems recopilan todo lo importante que pasa en la zona, escribiéndolo velozmente con los palos de tinta. 
-Aquí los golems se opondrán violentamente a todo lo que interfiera con su labor: descolgar espejos, quitar los palos de tinta, etc. 
+    Una rampa lleva desde este nivel a la [sala 1 del nivel 6](./nivel-06.md). Por aquí circulan los golems que necesitan reparación o recarga. 
 
-Tesoro: los palos de tinta infinita pueden valer 100 m.o. si saben dónde venderlos. Los espejos son de plata fina y pueden ir perfectamente por 1000 m.o, aunque en cuanto los descuelguen se 
+24. **La habitación de recepción**
 
-26 - Los archivos
-Las paredes de esta sala están cubiertas del suelo al techo con estanterías cuadriculares, la mayor parte llena ya de pergaminos perfectamente ordenados. En el centro aguarda un golem, impertérrito, mientras otros vienen de la sala de al lado con pergaminos para depositarlos en la misma cuadrícula. No hay manera de contar cuántas cuadrículas hay rellenas de pergaminos, pero a primera vista parece que aún queda más de la mitad de la sala con cuadrículas vacías. 
+    La habitación contiene cuatro mesas con correas de cuero en tres de los lados, como si fueran sujecciones para las extremidades. También hay tres grandes armarios contra las paredes. Las camas no presentan signos de violencia ni de sangre.
 
-Las estanterías presentan símbolos en el mismo lenguaje que en la sala 5 del nivel 6, y de hecho todos los pergaminos están garabateados con ellos, utilizando símbolos tan pequeños que es necesario acercarse muchísimo para distinguirlos.  
+    Ninguno de los armarios está cerrado. El primero contiene estanterías con una colección de figuritas de cristal, moldeadas para representar humanos, elfos, enanos, trasgos, orcos, etc. La cuarta parte de las figuritas contiene una neblina luminosa que fluctúa y que muestra imágenes si se mira de cerca. Los otros dos armarios están llenos de armas, armaduras y objetos que tienen pinta de mágicos. 
 
-En esta sala se archivan todos los escritos de los golems de la sala 25, ordenados por fecha. El golem que aguarda pacientemente es una suerte de bibliotecario: si se le pide (vía telepática, como el resto de golems) busca cualquier información y traduce (también telepáticamente) los pergaminos que la contengan o que se le pida. 
+    Aquí es donde el mago traía a los especímenes después de secuestrarlos. Normalmente dormía al sujeto que quería, luego lo teleportaba a esta habitación y lo ataba a una de las mesas mientras estaba inconsciente. Después le extraía los recuerdos, transfiriéndolos a una de las figurillas de cristal, y cuando terminaba el proceso lo teleportaba hasta la zona de experimentación.
 
-Alguna información interesante que se puede entresacar:
+    Las figuras con niebla luminosa contienen los recuerdos de los especímenes que aún siguen vivos, y están modeladas para parecérseles. Si se acercan a mirar de cerca, se pueden ver en la niebla imágenes desvaídas de recuerdos: días de fiesta, jornadas de duro trabajo en el campo, un primer beso, amaneceres... y si pasan un cierto tiempo acabarán viendo uno o varios crímenes de sangre. Un asesinato, una violación con muerte, varios asesinatos simultáneos, etc etc. 
 
-- Quiénes eran realmente los sujetos. Las dos terceras partes eran sujetos marginados en sus respectivas sociedades, gente a la que nadie echaría de menos. Pero la idea original del Hechicero era secuestrar a las personas más malvadas de la época para probar su teoría sobre el bien y el mal innatos. Por eso la otra tercera parte eran criminales muy buscados en su momento, hace 30 años, provenientes de todos los rincones del mundo (sería conveniente que fueran del mundo de campaña, y es más que recomendable sustituir algún criminal por alguno de los más célebres del mundo de campaña). Algunos todavía tienen una recompensa sobre sus cabezas, las más jugosas: 
+    Y es que todos los especímenes que el Hechicero se traía eran los peores criminales violentos de cada especie...
 
--Arlayna Meriondel: Elfa (Nivel 10, ahora mismo con los Curiosos) alias “la Genocida Sonriente”. Con su eterna sonrisa lideró una banda de elfos que en secreto arrasó treinta granjas humanas en las cercanías de su reino, para evitar la “contaminación cultural humana” que ella aborrecía. Su propio pueblo la encarceló, pero cuando el Hechicero la secuestró de su prisión los humanos supusieron que los elfos la habían liberado y estalló una guerra. Aún se ofrece por ella una recompensa de 5.000 m.o, viva o muerta, en tierras humanas. En las tierras elfas la mitad.
--Fargal Maar: Bugbear (Nivel 9, actualmente parte de los Conformistas) envenenó todas las monedas de un tesoro que él reclamaba como suyo pero que su rey se apropió. Mató a unas 300 personas entre bugbears del clan (incluyendo al rey), enanos, elfos, humanos y halflings que recibieron esas monedas en las comunidades cercanas por donde se gastó el oro. Estaba en búsqueda y captura cuando lo pilló el Hechicero. Su recompensa asciende a 2.500 m.o. para su clan.
--Knguz Morropodrido: Kobold macho (actualmente parte de los Curiosos) responsable de que una comunidad kobold torturara de formas horribles y se comiera a todos los niños humanos, halflings, trasgos y bugbear de una comarca. Nunca consiguieron pillarle, pero su recompensa está por las 4.000 m.o.
--Alastair Burlenque: Guerrero Humano (Nivel 13, actualmente con los Conformistas), conocido como el Carroñero, un pirata conocido por su barbarie y por practicar el canibalismo con sus presas. Desapareció hace treinta años, pero los desmanes que provocó hacen que aún se le busque, a él y a su tesoro. Varias naciones ofrecen por él unas 15.000 m.o. 
+    Si en algún momento se rompe una de las figurillas, todos los recuerdos vuelven a la mente original. Los sujetos que recuperen sus recuerdos recuperarán también sus conocimientos y sus actitudes originales, pero lo que ocurra a partir de entonces se deja en manos del Máster.  Tal vez prefiera que el sujeto “despertado” mate a sangre fría a gran parte de sus compañeros, o tal vez disimule para intentar pillar por sorpresa a los aventureros, o quizás se limite a intentar escapar del experimento para no volver... lo que le venga mejor en función del drama que quiera desarrollar o de cómo vea a sus jugadores.
 
-- La última vez que visitó el Hechicero el complejo: hace diez años
-- El inicio de la invasión extraplanar: hace tres años. Lo primero que ocurrió fue un agujero en el techo, del que cayó el árbol zancudo cuando era chiquitín. También se refleja el descubrimiento de que el agua los mata. 
-- Cuándo dejó de funcionar el teleportador: Hace dos años y medio. Ver la siguiente numeración para ver el motivo. 
+    Tesoro:
 
-Los archivos también incluyen prácticamente toda la información relativa al nivel: el suceso que escindió a los supervivientes, la ubicación actual de todos los monstruos y las guaridas... incluso el propio avance de los aventureros y lo que han hecho aquí. En definitiva, es como tener acceso a la misma información que tiene el máster... siempre que se hagan las preguntas adecuadas, claro.
-27 - El interruptor del teleportador
-En este callejón sin salida hay un golem dorado que golpea la pared (que es la misma de la zona 7) con el puño rocoso y deslustrado a un ritmo lento y deliberado. El lugar donde aterrizan los golpes es un agujero en la pared de piedra de casi medio metro de profundidad, lo que da una idea del tiempo que podría llevar el golem haciendo esto. 
-El corpachón del golem no llega a ocultar una hornacina que hay en esa misma pared. En dicha hornacina hay una depresión semiesférica, con un pequeño charco en él. 
-Justo en la esquina opuesta al golem, en el suelo, descansa una bola de cuarzo rosa del tamaño de una cabeza humana. 
+    * Las estatuillas de cristal están muy bien talladas. Las “vacías” podrían alcanzar las 15 m.o., las “con niebla” se podrían vender por 200 m.o. 
 
-Un enlace telepático con el golem sólo revelará incoherencias, entre las que se distingue la palabra “Salir”, repetidamente. 
+    Los otros armarios contienen el equipo más importante que portaban los sujetos en el momento de su captura. Su calibre e importancia da una idea de lo peligrosos que eran:
 
-En realidad la hornacina y la bola son el “interruptor” del teleportador, un mecanismo que instaló el Hechicero en su momento por si hiciera falta cortar el acceso a los niveles más profundos de la Montaña. Hace un par de años el Golem enloqueció y comenzó a golpear la pared, y fueron sus golpes los que sacaron la bola de cuarzo de su sitio, interrumpiendo el teleportador. 
-Bastaría con poner la bola en la hornacina, seca, eso sí, para que la bola se iluminara con un fulgor azul eléctrico y el teleportador volviera a funcionar. Desde este lado de la pared no hay más indicaciones que avisen del funcionamiento del teleportador. 
-Si se coloca la bola sin sacar el agua de la hornacina, salta un chisporroteo eléctrico-mágico que hace 2d6 de daño al que no pase la tirada de salvación apropiada en un radio de 3 metros, incluyendo al Golem. 
+    * Espada bastarda con un sol grabado en la hoja: +3, con hechizo de luz: a voluntad la espada se enciende con una luz que ilumina hasta una distancia de 10 metros.
+    * Hacha de Batalla con hojas de roble cinceladas en el metal +3, aunque su bonus sólo se aplica cuando se halla a 20 kilómetros del asentamiento poblado más cercano.
+    * Arco largo con un retrato de una mujer tallada en la empuñadura: +2, +4 contra humanos
+    * Hacha de mano con la palabra “vuelve” grabada en idioma Gnomo: +2, si falla vuelve a la mano del lanzador
+    * Maza con un ataúd marcado en la empuñadura: +2, +4 contra muertos vivientes
+    * Lanza con la cabeza labrada en forma de cabeza de dragón exhalando su aliento: +4 contra dragones
+    * Daga con un pomo en forma de calavera: robavidas: Matará instantáneamente cualquier cosa que alcance, salvo que consiga Salvar contra Petrificación. Originalmente se creó para matar a diez criaturas, pero ya sólo le quedan tres “cargas” por gastar. Después se convertirá en una daga normal y corriente.
+    * Escudo rectangular, con el frente lleno de espinas:  tres veces al día el portador puede disparar una espina, con el mismo alcance que una daga, pero que causa 1d10 de daños. Las espinas se regeneran.
+    * Escudo circular, con el frente tallado en forma de telaraña: Una vez a la semana el portador puede emplear la palabra de mando (Aracne) que aparece grabada en la cara interna. El escudo lanzará una telaraña igual que el hechizo de mago.
+    * Armadura de cuero negro: +4, otorga un bono de 15% a las habilidades del Ladrón que tengan que ver con el sigilo.
+    * Cota de malla tamaño enano, +3, +5 a la salvación contra cualquier efecto mágico.
+    * Coraza con un grifo cincelado en el pectoral: +2. Además, si se dice la palabra de mando “Golfo”, la coraza se transforma en la ropa que el portador quiera, aunque éste seguirá manteniendo la misma puntuación de Clase de Armadura.
+    * Libro de Magia con 5 hechizos de nivel 1, 6 de nivel 2, 4 de nivel 3, 3 de nivel 4, 5 de nivel 5
+    * Libro de Magia con 9 hechizos de nivel 1, 2 de nivel 2, 5 de nivel 3, 3 de nivel 4, 2 de nivel 5, 4 de nivel 6, 3 de nivel 7
+    * Anillo de madera sencillo, de color azul: es un anillo de Respirar bajo el agua
+    * Anillo de plata con una miniatura de un libro: es un anillo de almacenaje de conjuros, con capacidad para guardar 4 niveles de conjuro.
+    * Bola de cristal de detección de pensamientos
+    * Guantes de papel: son de Destreza +3, pero especialmente frágiles... 
 
-Por cierto, que si no hacen nada para detener al Golem, la bola acabará volviendo a salirse en 1d4 semanas por las vibraciones que provocan los golpes en la pared. El Golem no se defenderá, seguirá con su tarea imperturbable hasta que se vuelva a quedar sin “batería”. En esos momentos vuelve a la sala 1 del nivel 5, se recarga y vuelve de nuevo al mismo sitio, a seguir haciendo exactamente lo mismo. 
+    No hay monedas ni gemas, sólo equipo.
+
+25. **La sala de observación**
+
+    En el centro de la habitación hay un lujoso trono enjoyado, situado en lo alto de un pedestal de tres escalones. Está orientado hacia una de las esquinas de la sala, donde hay un golem escribiendo en un atril, mirando uno de los seis espejos que tiene delante. Y lo mismo pasa en todas las esquinas de la habitación: en todas hay golems escribiendo mientras miran sus seis espejos.
+
+    Y en los espejos hay imágenes de la zona del experimento. Se puede ver la caverna de los Conformistas y el campamento de los Curiosos, pero también todas las zonas de interés que hemos visto anteriormente, incluyendo los teleportadores de pequeños mamíferos.
+
+    Los golems escriben velozmente en pergaminos, en la escritura indescifrable que vimos en la sala 5 del nivel 6, utilizando unos palos de los que mana tinta sin fin. En cuanto terminan de rellenar uno de los pergaminos, otro golem se lo coge y lo lleva a la sala 26. 
+
+    En esta sala el mago pasaba horas observando a sus especímenes, fascinado por el desarrollo del experimento. Los golems recopilan todo lo importante que pasa en la zona, escribiéndolo velozmente con los palos de tinta. 
+
+    Aquí los golems se opondrán violentamente a todo lo que interfiera con su labor: descolgar espejos, quitar los palos de tinta, etc. 
+
+    Tesoro: los palos de tinta infinita pueden valer 100 m.o. si saben dónde venderlos. Los espejos son de plata fina y pueden ir perfectamente por 1000 m.o, aunque en cuanto los descuelguen se 
+
+26. **Los archivos**
+
+    Las paredes de esta sala están cubiertas del suelo al techo con estanterías cuadriculares, la mayor parte llena ya de pergaminos perfectamente ordenados. En el centro aguarda un golem, impertérrito, mientras otros vienen de la sala de al lado con pergaminos para depositarlos en la misma cuadrícula. No hay manera de contar cuántas cuadrículas hay rellenas de pergaminos, pero a primera vista parece que aún queda más de la mitad de la sala con cuadrículas vacías. 
+
+    Las estanterías presentan símbolos en el mismo lenguaje que en la sala 5 del nivel 6, y de hecho todos los pergaminos están garabateados con ellos, utilizando símbolos tan pequeños que es necesario acercarse muchísimo para distinguirlos.  
+
+    En esta sala se archivan todos los escritos de los golems de la sala 25, ordenados por fecha. El golem que aguarda pacientemente es una suerte de bibliotecario: si se le pide (vía telepática, como el resto de golems) busca cualquier información y traduce (también telepáticamente) los pergaminos que la contengan o que se le pida. 
+
+    Alguna información interesante que se puede entresacar:
+
+    * Quiénes eran realmente los sujetos. Las dos terceras partes eran sujetos marginados en sus respectivas sociedades, gente a la que nadie echaría de menos. Pero la idea original del Hechicero era secuestrar a las personas más malvadas de la época para probar su teoría sobre el bien y el mal innatos. Por eso la otra tercera parte eran criminales muy buscados en su momento, hace 30 años, provenientes de todos los rincones del mundo (sería conveniente que fueran del mundo de campaña, y es más que recomendable sustituir algún criminal por alguno de los más célebres del mundo de campaña). Algunos todavía tienen una recompensa sobre sus cabezas, las más jugosas: 
+
+      * _Arlayna Meriondel_: Elfa (Nivel 10, ahora mismo con los Curiosos) alias “la Genocida Sonriente”. Con su eterna sonrisa lideró una banda de elfos que en secreto arrasó treinta granjas humanas en las cercanías de su reino, para evitar la “contaminación cultural humana” que ella aborrecía. Su propio pueblo la encarceló, pero cuando el Hechicero la secuestró de su prisión los humanos supusieron que los elfos la habían liberado y estalló una guerra. Aún se ofrece por ella una recompensa de 5.000 m.o, viva o muerta, en tierras humanas. En las tierras elfas la mitad.
+      * _Fargal Maar_: Bugbear (Nivel 9, actualmente parte de los Conformistas) envenenó todas las monedas de un tesoro que él reclamaba como suyo pero que su rey se apropió. Mató a unas 300 personas entre bugbears del clan (incluyendo al rey), enanos, elfos, humanos y halflings que recibieron esas monedas en las comunidades cercanas por donde se gastó el oro. Estaba en búsqueda y captura cuando lo pilló el Hechicero. Su recompensa asciende a 2.500 m.o. para su clan.
+      * _Knguz Morropodrido_: Kobold macho (actualmente parte de los Curiosos) responsable de que una comunidad kobold torturara de formas horribles y se comiera a todos los niños humanos, halflings, trasgos y bugbear de una comarca. Nunca consiguieron pillarle, pero su recompensa está por las 4.000 m.o.
+      * _Alastair Burlenque_: Guerrero Humano (Nivel 13, actualmente con los Conformistas), conocido como el Carroñero, un pirata conocido por su barbarie y por practicar el canibalismo con sus presas. Desapareció hace treinta años, pero los desmanes que provocó hacen que aún se le busque, a él y a su tesoro. Varias naciones ofrecen por él unas 15.000 m.o. 
+
+    * La última vez que visitó el Hechicero el complejo: hace diez años
+    * El inicio de la invasión extraplanar: hace tres años. Lo primero que ocurrió fue un agujero en el techo, del que cayó el árbol zancudo cuando era chiquitín. También se refleja el descubrimiento de que el agua los mata. 
+    * Cuándo dejó de funcionar el teleportador: Hace dos años y medio. Ver la siguiente numeración para ver el motivo. 
+
+    Los archivos también incluyen prácticamente toda la información relativa al nivel: el suceso que escindió a los supervivientes, la ubicación actual de todos los monstruos y las guaridas... incluso el propio avance de los aventureros y lo que han hecho aquí. En definitiva, es como tener acceso a la misma información que tiene el máster... siempre que se hagan las preguntas adecuadas, claro.
+
+27. **El interruptor del teleportador**
+
+    En este callejón sin salida hay un golem dorado que golpea la pared (que es la misma de la zona 7) con el puño rocoso y deslustrado a un ritmo lento y deliberado. El lugar donde aterrizan los golpes es un agujero en la pared de piedra de casi medio metro de profundidad, lo que da una idea del tiempo que podría llevar el golem haciendo esto. 
+
+    El corpachón del golem no llega a ocultar una hornacina que hay en esa misma pared. En dicha hornacina hay una depresión semiesférica, con un pequeño charco en él. 
+
+    Justo en la esquina opuesta al golem, en el suelo, descansa una bola de cuarzo rosa del tamaño de una cabeza humana. 
+
+    Un enlace telepático con el golem sólo revelará incoherencias, entre las que se distingue la palabra “Salir”, repetidamente. 
+
+    En realidad la hornacina y la bola son el “interruptor” del teleportador, un mecanismo que instaló el Hechicero en su momento por si hiciera falta cortar el acceso a los niveles más profundos de la Montaña. Hace un par de años el Golem enloqueció y comenzó a golpear la pared, y fueron sus golpes los que sacaron la bola de cuarzo de su sitio, interrumpiendo el teleportador. 
+
+    Bastaría con poner la bola en la hornacina, seca, eso sí, para que la bola se iluminara con un fulgor azul eléctrico y el teleportador volviera a funcionar. Desde este lado de la pared no hay más indicaciones que avisen del funcionamiento del teleportador. 
+
+    Si se coloca la bola sin sacar el agua de la hornacina, salta un chisporroteo eléctrico-mágico que hace 2d6 de daño al que no pase la tirada de salvación apropiada en un radio de 3 metros, incluyendo al Golem. 
+
+    Por cierto, que si no hacen nada para detener al Golem, la bola acabará volviendo a salirse en 1d4 semanas por las vibraciones que provocan los golpes en la pared. El Golem no se defenderá, seguirá con su tarea imperturbable hasta que se vuelva a quedar sin “batería”. En esos momentos vuelve a la sala 1 del nivel 5, se recarga y vuelve de nuevo al mismo sitio, a seguir haciendo exactamente lo mismo. 
 
