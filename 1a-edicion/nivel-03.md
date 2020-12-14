@@ -55,11 +55,11 @@ Un angosto túnel redondo, de unos 3 metros de diámetro, que hace varios giros 
 El cuello posee un ecosistema propio que los hombres lagarto han aprendido a evitar. 
 
 **Tabla de encuentros aleatorios de El Cuello:**
- ```
-1d20    Resultado     
+```
+1d20    Resultado
 1-4     Nada, despejado (por ahora...) 
 5-8     Patrulla de hombres lagarto. 
-9-10    Llamarada  
+9-10    Llamarada
 11-13   Cieno Gris 
 14-18   Cubo Gelatinoso 
 19-20   Gusano Carroñero 
