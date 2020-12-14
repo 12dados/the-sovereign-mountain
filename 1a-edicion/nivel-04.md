@@ -393,7 +393,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
     En la pared de esta zona refulgen seis montoncitos de zafiros azules, y el suelo está plagado de nervaduras rocosas que resultan difíciles de ver entre la hierba. 
 
-   Seis hipodrilos de roca se han establecido aquí, abriendo sus bocazas y estirando sus lenguas para atrapar cualquier cosa que camine por aquí. Pueden detectarlas superando una tirada de Detectar Trampas, con un +3 si ya han pasado por la zona 5. 
+    Seis hipodrilos de roca se han establecido aquí, abriendo sus bocazas y estirando sus lenguas para atrapar cualquier cosa que camine por aquí. Pueden detectarlas superando una tirada de Detectar Trampas, con un +3 si ya han pasado por la zona 5. 
 
 20. **El Árbol Zancudo**
 
