@@ -28,7 +28,7 @@ Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2)
  * [Nivel 1: Filosofías enfrentadas](./nivel-01.md), por Rodrigo García Carmona
  * [Nivel 2: Sucios, sucios, sucios](./nivel-02.md), por Jacobo Peña
  * [Nivel 3: El Dragón](./nivel-03.md), por José Manuel Palacios
- * Nivel 4: Aire Irisado, por Erekíbeon
+ * [Nivel 4: Aire Irisado](./nivel-04.md), por Erekíbeon
  * Nivel 5: Hobgoblins y micónidos, por Carlos de la Cruz
  * Nivel 6: El depósito del hechicero, por Héctor Prieto de la Calle 
  * Nivel 7: El laberinto de Kramaghar, por Jose Carlos Domínguez “Kha"
