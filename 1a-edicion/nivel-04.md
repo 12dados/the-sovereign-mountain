@@ -1,5 +1,5 @@
 
-# Nivel 4: Aire Irisado, por Erekibeon
+# Nivel 4: Aire Irisado, por Erekíbeon
 
 ## Mapas del nivel
 
