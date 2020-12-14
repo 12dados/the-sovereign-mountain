@@ -24,7 +24,7 @@ Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2)
  * [Expandiendo la Montaña Soberana](./02-expandiendo.md)
  * [Piedrainerte](./03-piedrainerte.md), por Sergio Somalo “Tremandur”
  * [El camino hasta la Montaña](./04-camino.md), por Bester
- * El exterior de la Montaña, por Bester
+ * [El exterior de la Montaña](./05-exterior.md), por Bester
  * Nivel 1: Filosofías enfrentadas, por Rodrigo García Carmona
  * Nivel 2: Sucios, sucios, sucios, por Jacobo Peña
  * Nivel 3: El Dragón, por José Manuel Palacios
