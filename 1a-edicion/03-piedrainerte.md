@@ -4,6 +4,10 @@ Este pueblo está pensado para ubicarse en las cercanías de la Montaña Soberan
 
 No se ha añadido estadísticas para que pueda ser utilizado con los diferentes sistemas que existen, aunque en la redacción y diseño del mismo se ha tenido en mente siempre sistemas tipo Ad&D o Aventuras en la Marca del Este.
 
+<p align="center">
+  <img width="300" alt="Mapa de Piedrainerte" src="./img/piedrainerte.jpg">
+</p>
+
 ## Historia
 
 El nacimiento del pueblo como asentamiento estable no está muy claro y la verdadera información, según muchos de sus habitantes, se puede encontrar de dos sitios, ambos actualmente inaccesibles. Uno es la torre-biblioteca del centro del pueblo y otra, la mente completamente insondable del viejo Fistandanfi.
