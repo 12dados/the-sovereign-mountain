@@ -1,4 +1,4 @@
-# Expandiendo la Montaña Soberana (nota para futuros colaboradores)
+# Expandiendo la Montaña Soberana (nota para futuros colaboradores)
 
 Hay muchos más lugares y niveles en la Montaña que los que aparecen en éste documento. Nuestra creación es solo el principio de un gigantesco megadungeon que puede llegar a ser incluso más grande, tanto como queramos. Puedes crear tus propios niveles, conectarlos con los nuestros y enviárnoslos para que los añadamos en futuras expansiones y actualizaciones del contenido de la Montaña. Puedes hacernos llegar tu nivel de la Montaña Soberana a nuestro blog: [**La Montaña soberana**](https://el-megadungeon.blogspot.com).
 
