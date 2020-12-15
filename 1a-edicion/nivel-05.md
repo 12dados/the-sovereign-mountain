@@ -1,9 +1,13 @@
 
 # NIVEL 5: Hobgoblins y micónidos, por Carlos de la Cruz.
 
-## Mapa del nivel 
+## Mapa del nivel 
 
-## Conexiones con otros niveles
+<p align="center">
+  <img width="400" alt="Mapa del nivel 5" src="./img/nivel-05.jpg">
+</p>
+
+## Conexiones con otros niveles
 
 * La sección 1, el Pozo: tiene tres dos accesos a otros niveles, la salida oeste lleva por un túnel resbaladizo y descendente lleno de residuos, a la [sala 4 del nivel 2](./nivel-02.md). El acceso norte se bifurca y conduce a las puertas de la [zona 8 en el nivel 4](./nivel-04.md). La salida sur lleva al interior del propio nivel
 * Entre las secciones 53 y 54 hay un túnel que conduce a [la entrada del nivel 8](./nivel-08.md).
