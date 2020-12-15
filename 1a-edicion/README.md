@@ -30,8 +30,8 @@ Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2)
  * [Nivel 3: El Dragón](./nivel-03.md), por José Manuel Palacios
  * [Nivel 4: Aire Irisado](./nivel-04.md), por Erekíbeon
  * [Nivel 5: Hobgoblins y micónidos](./nivel-05.md), por Carlos de la Cruz
- * Nivel 6: El depósito del hechicero, por Héctor Prieto de la Calle 
- * Nivel 7: El laberinto de Kramaghar, por Jose Carlos Domínguez “Kha"
+ * [Nivel 6: El depósito del hechicero](./nivel-06.md), por Jose Carlos Domínguez “Kha"
+ * Nivel 7: El laberinto de Kramaghar, por Héctor Prieto de la Calle 
  * Nivel 8: La cripta del rey Ludovico, por Bester
  * Nivel 9: La cima, por Carlos de la Cruz
  * Licencia de uso del texto
