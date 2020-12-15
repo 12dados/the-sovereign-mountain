@@ -1,7 +1,7 @@
 
 # Nivel 7: El laberinto de Kramaghar, por Héctor Prieto de la calle  
 
-## Introducción
+## Introducción
 
 Hace muchos, muchos años, un mago solitario se adentró en los peligros de la montaña para hacerse con el poder de la cima. Avanzó por los distintos niveles, superando los retos que se le imponían; su sabiduría y poder mágico eran los pilares de su éxito, pero también supusieron el origen de su GRAN fracaso.
 
@@ -44,7 +44,7 @@ Hemos añadido los mapas de las salas más importantes, quedan excluidos los de 
 
 ## Leyenda de salas del nivel
 
-### Sala 1. La sala de los brillos.
+### Sala 1: La sala de los brillos
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-01.jpg">
@@ -67,7 +67,7 @@ Las teselas que se encuentran en esta sala son:
 * Tesela 9 (sala 9). Un aventurero mirando un espejo y su reflejo sacando una daga para apuñalarlo.
 * Tesela 10 (sala 10). Cada vez que la luz incide sobre él, éste cambia. Se ve un dragón, se ve un pueblo, se ve una mesa de comedor… pero las imágenes siempre cambian.
 
-### Sala 2. El pasillo infinito.
+### Sala 2: El pasillo infinito
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-02.jpg">
@@ -81,7 +81,7 @@ Tras cruzar el pasillo se abrirá una gran cámara circular con una gran platafo
 
 La única salida de esta sala es por la misma puerta por la que accedieron.
 
-### Sala 3. El precio exacto
+### Sala 3: El precio exacto
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-03.jpg">
@@ -101,7 +101,7 @@ El último de los objetos que muestren en el juego, será la piedra que debe eng
 
 Tras terminar el concurso, y hayan cogido o no la piedra, la puerta volverá a aparecer de las sombras, permitiendo la salida de esta sala. Tras coger la piedra, esta sala queda bloqueada; pero si los Pj’s no se hicieron con ella, deberán volver a pasar por el concurso.
 
-### Sala 4. La sala del silencio obligado.
+### Sala 4: La sala del silencio obligado
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-04.jpg">
@@ -113,7 +113,7 @@ De esta sala, ha hecho su hogar un enjambre de avispas gigantes que permanecerá
 
 El aguijón de las avispas perfora el cuero, no así el metal. El pasillo oculto que hay permitiría a los Pj’s cruzar la sala de un lado al otro causando el menor ruido posible.
 
-### Sala 5. Pequeñas salas dentro de otra sala.
+### Sala 5: Pequeñas salas dentro de otra sala
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-05.jpg">
@@ -126,13 +126,13 @@ Rondando por esta sala, hay varias criaturas y Pnj’s que llevan tiempo vagando
 
 La salida de esta sala se encuentra marcada en el mapa.
 
-### Sala 6. La alternante sala de las trampas mortales.
+### Sala 6: La alternante sala de las trampas mortales
 
 Entrar en esta sala supone dejar atrás las convencionalidades de adelante y detrás, pues para avanzar, los Pj’s deberán caminar hacia atrás (avanzando de espaldas). La estructura de la sala consiste en un alargado pasillo de 5 metros de ancho y más de 50 de largo; esto podría no ser más que un inconveniente, pero Kramaghar colocó aquí trampas mágicas. Así, bolas de fuego, flechas envenenadas y caídas de piedra, están repartidas al azar por todo el pasillo; a eso, sumado un hechizo de alteración, hace que las trampas varíen de posición de una vez a otra que se entra en la sala.
 
 Muchos han sido los aventureros que han muerto en esta sala, y sus pertenencias están diseminadas por la estancia; pudiendo encontrarse ropas, armas, cuerdas, antorchas… pero todas en pésimas condiciones. Lo que sí podrán encontrar en un estado “decente”, son varios pergaminos con hechizos [de nivel 1 y 2, queda a discreción del Narrador disponer los conjuros que encuentran] y un dibujo de la Vara de Lapislázuli y la piedra que lleva engarzada.
 
-### Sala 7. El trono de las 100 piedras.
+### Sala 7: El trono de las 100 piedras
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-07.jpg">
@@ -144,7 +144,7 @@ Si los pj’s se percatan de ello, las piedras encajan entre sí formando un tro
 
 Con el trono ya recompuesto, los Pj’s pueden abandonar la sala de manera normal. Pero cuando vuelvan a acceder a ella, deberán repetir el proceso.
 
-### Sala 8. La pluma es más poderosa que la espada.
+### Sala 8: La pluma es más poderosa que la espada
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-08.jpg">
@@ -162,7 +162,7 @@ Esta sala es la única en la que el espíritu de Kramaghar no puede materializar
 
 Si deciden coger y ojear los libros, uno de ellos muestra la leyenda de la vara (ver epígrafe “La Vara y el Loco” más adelante).
 
-### Sala 9. Los espejos vivientes.
+### Sala 9: Los espejos vivientes.
 
 <p align="center">
   <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-09.jpg">
@@ -176,7 +176,7 @@ Considera a Kramaghar como un mago de alto nivel que no está sujeto a las condi
 
 Cuando los Pj’s consigan vencer al espíritu de Kramaghar, éste se desvanecerá y se desplazará automáticamente a la sala 7; así, cuando los Pj’s recompongan el Trono el espíritu ocupará su cuerpo y el mago despertará de su sopor. Cuando esto suceda, pasa al epígrafe “El mago despierta” más adelante.
 
-### Sala 10. La sala del eco molesto.
+### Sala 10: La sala del eco molesto
 
 Esta sala posee una ilusión que simula ser una sala distinta en cada ocasión que se entre, pero siempre comparte una referencia común: la existencia de un extraño eco que repite las últimas palabras de cada Pj (y que al otro extremo de la misma hay una puerta de madera). Así, los Pj’s podrán encontrarse salas tan dispares como:
 
@@ -192,7 +192,7 @@ El eco será escuchado por todos los Pj’s, pero aquel que haya expresado las �
 
 La Vara de Lapislázuli, si tiene la piedra engarzada, permitirá recuperar la cordura a aquel Pj que haya sido embaucado por los ecos.
 
-## El mago despierta.
+## El mago despierta
 
 Tras vencer al espíritu del mago, éste desaparecerá e irá en busca de su cuerpo que está en la sala 7. Si los jugadores ya habían accedido a esa sala, entonces el trono estará recompuesto pero con la diferencia que la persona sentada en el trono sí responderá esta vez a sus cuestiones, aunque dirá incoherencias y no se mostrará especialmente lúcido. Solo si usan la vara, el mago recuperará su cordura y les conducirá a la salida del laberinto: la misma sala del inicio pero con la diferencia de que hay dos escaleras ( una conduce al nivel superior, el 8) en lugar de una y que en el centro hay, en ese momento, un cofre que los Pj’s podrán abrir y tomar de su interior un único objeto cada uno. Los objetos que se encuentran en su interior son:
 
