@@ -180,7 +180,14 @@ Una sala alargada. A ambos lados hay una suerte de pequeñas gradas donde se enc
 17. Habla. Aún leal al hechicero y gritará todo lo posible para dar la alarma.
 18. Causa terror a cualquiera que lo mire.
 19. Habla de forma incomprensible, como si tuviese un enjambre de moscas en la boca.
-20. Habla y ofrece (1d6: 1.comida, 2. conocimiento del más allá, 3. gratitud eterna, 4. lealtad, 5. la mano de un súcubo/íncubo en matrimonio, 6. curación mágica) a cambio de almas.
+20. Habla y ofrece (1d6:  
+      1. comida 
+      2. conocimiento del más allá 
+      3. gratitud eterna 
+      4. lealtad 
+      5. la mano de un súcubo/íncubo en matrimonio 
+      6. curación mágica)
+    a cambio de almas.
 ```
 
 ### 7. Osario (d4/50%/25%)
@@ -195,7 +202,7 @@ El altar tiene propiedades especiales. Los cráneos que lo adornan tienen joyas 
 
 En el ábside hay otra salida de emergencia del hechicero que consiste en un crucifijo hecho con tibias con un cráneo en su centro. Emana una energía extraña que hace que su interior brille. El cráneo saludará amablemente a todo el que se acerque. Si se le devuelve el saludo, enviará a esta persona fuera.
 
-### 8. Santuario a su amante (75%/50%/25%)Ç
+### 8. Santuario a su amante (75%/50%/25%)
 
 Una pequeña sala en cuyo centro se encuentra una estatua de una bella mujer sentada con ambas manos sobre su regazo; viste un rico vestido y se adorna con joyas (esculpidas también). Las antorchas de la sala están colocadas para iluminarla directamente.
 
