@@ -150,7 +150,7 @@ Tirada (1d10)
 
 Este es el Templo del Dios Bargulis, Señor del Comercio y el Intercambio Fructífero. Dentro de este templo no es necesario realizar una tirada de Monstruos Errantes.
 
-### Sección 3 - El Vestíbulo del Templo
+#### Sección 3 - El Vestíbulo del Templo
 
 Esta sala rectangular está flanqueada por varias columnas a cada lado. La sala no está nunca iluminada y eso hace complicado ver las pequeñas puertas detrás de las columnas que llevan a las habitaciones de los enanos.
 
@@ -160,7 +160,7 @@ Cuando los personajes entren en la sala, el Dungeon Master debe tirar 1d6:
 * Con un 2, el enano Oin estará examinando los relieves de las puertas que llevan a la sala 8, tratando de averiguar cómo abrirlas sin despertar a sus guardianes.
 * Con un 3-6, la sala está vacía.
 
-### Sección 4 - Cocina y despensa
+#### Sección 4 - Cocina y despensa
 
 Esta sala ha sido habilitada como despensa y cocina de los enanos. Hay utensilios de cocina y un hogar donde Kani, la mujer de Nain, cocina para el pequeño grupo de enanos. En las alacenas hay comida envasada y empaquetada. Un grupo de aventureros podría llegar a empaquetar raciones suficientes para alimentar a 6 personas durante 2 semanas.
 
@@ -170,7 +170,7 @@ Cuando el grupo entre en la sala, el Dungeon Master debe tirar 1d6:
 * Con un 3, Kani está cocinando en la sala, ayudada por Dain, su hijo.
 * Con un 4-6, la cocina está vacía
 
-### Sección 5 – Dormitorio
+#### Sección 5 – Dormitorio
 
 Este es el dormitorio de Dain, Nari, Nôri y Oin. Hay cuatro pequeñas camas en la sala, y un baúl al lado de cada una de ellas. En los baúles hay ropa y pertenencias personales de poco valor monetario.
 Cuando el grupo entre en la sala, el Dungeon Master debe tirar 1d6:
@@ -179,7 +179,7 @@ Cuando el grupo entre en la sala, el Dungeon Master debe tirar 1d6:
 * Con un 2, hay 1d2 enanos durmiendo en la sala.
 * Con un 3-6, la sala está vacía.
 
-### Sección 6 - La habitación de Nain y Kani
+#### Sección 6 - La habitación de Nain y Kani
 
 En esta sección está el dormitorio de Nain y Kani. Hay una cama grande y dos baúles llenos de ropa. El tesoro de los enanos se encuentra escondido detrás de una pequeña trampilla hábilmente escondida en el suelo (se encontrará como cualquier otra puerta secreta). Dentro de la trampilla hay 800 monedas de plata; dos turquesas (25 mo cada una); una barra de lapislázuli (25 mo); un juego de 10 lentes de relojero (30 mo/lente); un brazalete de bronce (170 mo); un medallón de cobre con arabescos (140 mo); y un jarrón de porcelana (600 mo).
 
@@ -188,7 +188,7 @@ Cuando el grupo de aventureros llegue a esta sala, el Dungeon Master tirará 1d6
 * Con un 1, Nain y Kari están durmiendo en la cama.
 * Con un 5-6, la sala está vacía.
 
-### Sección 7 - La forja de los enanos
+#### Sección 7 - La forja de los enanos
 
 Antes de que un grupo de aventureros entre en la sala, el Dungeon Master debe tirar 1d6:
 
@@ -199,11 +199,11 @@ Cuando un grupo de aventureros entre en la sala, se encontrará con la forja de 
 
 En esta sala hay dos yunques, un horno para calentar el metal y varias herramientas de forjado como martillos y tenazas. En un rincón, bien ordenados, hay 20 lingotes de hierro, cada uno valorado en 1 moneda de oro. También hay un Brasero de Conjuración de Elementales de Fuego, que los enanos usan para invocar y controlar a un elemental del fuego que les ayude con su forja (se puede invocar y controlar a un elemental por día; hay que concentrarse para mantenerle bajo control). Normalmente los enanos se turnan para convocar y controlar el metal, mientras los otros dos trabajan en la forja.
 
-### Sección 8 - La Sala del Sarcófago
+#### Sección 8 - La Sala del Sarcófago
 
 En el centro de esta sala circular y abovedada descansa el Sarcófago de Bargulis, flanqueado por cuatro estatuas de hierro. Las estatuas se activarán y atacarán a cualquiera que entre en la sala. Las consecuencias de abrir el Sarcófago se detallan en la descripción de la sala 2, aunque dentro de esta sala no suena la música del Sarcófago, por lo que se pueden usar armas con normalidad.
 
-### Sección 9 - La Sombra de Bargulis
+#### Sección 9 - La Sombra de Bargulis
 
 En esta sala se encuentra el tesoro del templo de Bargulis: 2.000 monedas de plata; 4.000 monedas de oro; 1 rollo de seda (400 mo; 4 kilos); 10 piezas de marfil (60 mo; 0,5 kilos/pieza); 1 pieza de jade (100 mo); 1 pieza de ónix (50 mo); 3 viales de perfume (125 mo/vial); una capa bordada (1500 mo; 1 kilo); una estatua de alabastro (600 mo); un medallón de platino (1100 mo); un mapa del tesoro que lleva a un botín de 12.000 monedas de oro (detalles por determinar por el Dungeon Master); un escudo +2, con una superficie que siempre se mantiene brillante como un espejo; un Anillo de Protección +2, hecho de oro y con una joya verde que, si se quita del anillo, rompe el encantamiento; una espada +3 que brilla con una tenue luz azul cuando se saca de su vaina, y que aumenta de brillo si se enfrenta a una oscuridad mágica, hasta terminar dispersándola; una poción de invisibilidad; y un pergamino con dos conjuros divinos (Comunión y Bendición)
 
@@ -215,36 +215,36 @@ Estas son las habitaciones de los bugbear. Las tiradas de Monstruos Errantes en 
 
 Las puertas que llevan desde la sala 2 hasta las guaridas de los bugbears son de madera sólida y se atrancan desde dentro.
 
-### Sección 10 – Cocinas
+#### Sección 10 – Cocinas
 
 Esta es la cocina de los bugbear. Tiene un hogar para asar y muchos armarios con provisiones y utensilios de cocina. En este lugar siempre hay 1d3 mujeres bugbear.
 
-### Sección 11 - Despensa
+#### Sección 11 - Despensa
 
 En la despensa de los bugbear se almacenan suficientes provisiones como para alimentar un mes a la tribu.
 
-### Sección 12 - Sala de las mujeres
+#### Sección 12 - Sala de las mujeres
 
 En esta sala viven las mujeres bugbear con sus hijos (8). Siempre habrá 2d4 mujeres bugbear y 2d4 niños en esta sala. Hay camas para todos y arcones con ropa y otras pequeña propiedades.
 
-### Sección 13 - Sala del Trono
+#### Sección 13 - Sala del Trono
 
 Esta es la sala en la que el Jefe Sareb recibe las peticiones de alquiler de sus servicios. Está adornada con tapices y cortinajes, y con un gran trono en el que el líder de los bugbear escucha las ofertas. Detrás del tapiz que hay tras su trono se encuentra una puerta que lleva a sus aposentos.
 En esta sala siempre hay dos guerreros bugbears montando guardia. También duermen aquí, en dos jergones que por lo general están escondidos detrás de unos cortinajes.
 
-### Sección 14 - Dormitorio de Sareb
+#### Sección 14 - Dormitorio de Sareb
 
 Sareb duerme en esta sala, junto a su mujer favorita en un momento dado. Hay botellas de vino y un baúl con ropas y algunas pertenencias.
 
-### Sección 15 - Sala del tesoro
+#### Sección 15 - Sala del tesoro
 
 La puerta que lleva desde el dormitorio de Sareb a la sala del tesoro es de hierro, y su cerradura es difícil de forzar. Dentro de la sala se encuentra el tesoro de los bugbears: 5.000 monedas de plata; 6.000 monedas de oro; 1 paquete de pieles (500 mo; 5 kilos); 500 plumas (3 mo/pluma; 0,20 kilos/pluma); 1 jarra de porcelana (500 mo; 2 kilos); 7 jarras de aceite para lámpara (20 mo/jarra); 22 botellas de vino (5 mo/botella); 2 jarrones de terracota (100 mo/jarrón; 5 kilos/jarrón); 12 paquetes de pieles (15 mo/paquete; 3 kilos/paquete); 1 collar de colmillos de monstruo (50 mo); 5 viales de perfume (25 mo/vial); 1 topacio (500 mo); 1 cuarzo (10 mo); 1 calcedonia (75 mo); 1 malaquita (10 mo); 1 cristal lunar (50 mo); 1 coral (100 mo); 1 ónice (50 mo); 1 capa de pieles (500 mo; 1 kilo); 2 estatuas (700 mo/estatua; 0,5 kilo/estatua); 1 ópalo (3000 mo); 1 espada +1, con un efecto de Luz de 10 metros de radio, activado siempre que se saca de la vaina; y 1 poción de Velocidad.
 
-### Sección 16 - Dormitorio 
+#### Sección 16 - Dormitorio 
 
 En esta sección duerme una de las dos bandas de bugbears, en sucios jergones. En teoría hay aquí deberían dormir 7 bugbears (el subjefe de Sareb, 1 campeón bugbear y 5 guerreros), pero en la práctica no hay suficiente sitio para todos, y algunos terminan durmiendo con las mujeres (si les dejan), en el suelo de la cocina, o incluso en el mercado (sección 2).
 
-### Sección 17 - Dormitorio
+#### Sección 17 - Dormitorio
 
 Esta sala es también un dormitorio, para otros 8 bugbears (1 campeón y 7 guerreros). Como la anterior sala, no hay espacio suficiente para que todos duerman cómodamente, por lo que algunos de sus habitantes tienen que dormir en donde puedan cada noche.
 
@@ -259,7 +259,7 @@ La tabla de Monstruos Errantes de estas secciones es la siguiente:
 * Con un 5: Berserkers (1d3)
 * Con un 6: Arañas gigantes, tarántulas (1d2)
 
-### Sección 18 - Caverna del Ankheg
+#### Sección 18 - Caverna del Ankheg
 
 En esta cueva hay una gran cantidad de agujeros en suelo y paredes, de alrededor de un metro de un metro de diámetro. Si el grupo de héroes decide explorar estos pequeños túneles, descubrirán que se retuercen sobre sí mismos y se adentran en la oscuridad, hacia el norte. Avanzar por ellos es peligroso porque tienden a colapsarse. 
 
@@ -271,21 +271,21 @@ Cuando el grupo entre el la sala, el Dungeon Master debe tirar 1d6:
 * Con un 2, un Ankheg está en uno de los túneles, esperando para atacar por sorpresa a quienquiera que entre.
 * Con un 3-6, el Ankheg está lejos, cazando en otro lugar.
 
-### Sección 19 - Caverna de las tarántulas
+#### Sección 19 - Caverna de las tarántulas
 
 En esta caverna viven tres tarántulas gigantes, escondidas en la oscuridad. Las tarántulas no tejen redes para atrapar a sus presas, sino que se esconden en huecos del suelo y las paredes, desde donde atacan rápidamente por sorpresa.
 
-### Sección 20 - Caverna de los ciempiés
+#### Sección 20 - Caverna de los ciempiés
 
 En esta caverna hay muchas huellas de ratas, y restos de comida y basura tiradas por el suelo. Un grupo de ciempiés gigantes mora en estas cavernas, alimentándose de las ratas. Los ciempiés vagan de caverna en caverna, pero siempre se encontrarán aquí 1d6+1 de estos monstruos.
 
-### Sección 21 - Caverna de los murales
+#### Sección 21 - Caverna de los murales
 
 Esta sección de las cuevas está adornada con grandes pinturas murales que representan a antiguos Reyes de la Montaña usando sus poderes para controlar el clima y la magia de las tierras circundantes. Cualquier hechicero que pase 1d6 horas estudiando estos murales podrá hacer una tirada de salvación contra conjuros. Si la pasa, conseguirá su nivel x 1d6 x 100 puntos de experiencia.
 
 Por supuesto, durante todas esas horas se tendrán que realizar tiradas para determinar si acuden monstruos errantes.
 
-### Sección 22 - Cubil de la Lamia
+#### Sección 22 - Cubil de la Lamia
 
 Los túneles que llevan a esta sección están envueltos en la oscuridad, pero justo en el lugar donde llegan a la sección, se yerguen dos postes con unas calaveras cuyos ojos refulgen con una luz verde. Las calaveras son el foco de un hechizo de Protección contra animales, que es la razón por la cual los ciempiés gigantes y otras alimañas no suelen llegar hasta aquí.
 
@@ -309,13 +309,13 @@ En todo este área hay braseros elevados donde arde un fuego mágico inextinguib
 
 En este área no se realizan tiradas de Monstruos Errantes.
 
-### Sección 23 - Dardos y trampas de pozo
+#### Sección 23 - Dardos y trampas de pozo
 
 El pasillo que lleva desde la puerta de la sección 22 hasta la sala de la sección 23 está lleno de trampas de dardos. En la mitad del pasillo hay un trozo del suelo que activa una trampa de dardos. Los personajes perceptivos podrían llegar a ver los agujeros que han dejado anteriores activaciones de la trampa en las paredes. Si se activa la trampa, se lanzan 1d10 disparos de ballesta que hacen 1d6 de daño y que golpean de forma aleatoria a los personajes (cada uno de los disparos se efectúa desde distintos lugares). Los esqueletos de esta sección reparan y vuelven a montar la trampa periódicamente. 
 
 En la sala 23 hay cinco esqueletos armados con espadas y arcos de hueso. Hay braseros en cada una de las cuatro esquinas de la sala que arden con un fuego azulado inextinguible. Los esqueletos esperan en la parte oriental de la sala, y frente a ellos hay dos trampas de pozo situadas una frente a la otra. La caída en una de las trampas de pozo hace 1d6 de daño. Los esqueletos usarán sus arcos para disparar a los personajes que entren, y sólo entrarán usarán sus espadas si algún personaje logra llegar al cuerpo a cuerpo contra ellos.
 
-### Sección 24 - Sala de las columnas
+#### Sección 24 - Sala de las columnas
 
 En esta sala hay cuatro grandes columnas en las paredes norte y sur. Junto a cada columna hay un brasero de fuego azul que llena la sala de sombras. El suelo está cubierto de huesos y armas herrumbrosas, y cuando el grupo entre en la sala, diez esqueletos se alzarán, armados con espadas, para atacarles.
 
@@ -323,7 +323,7 @@ En la pared del oeste hay una gran cara demoníaca de piedra. Tiene la gran boca
 
 En la pared sur, entre dos columnas, hay una puerta secreta oculta. Para abrir la puerta se debe empujar una de las piedras de la pared. 
 
-### Sección 25 - Sala de los zombies
+#### Sección 25 - Sala de los zombies
 
 En esta sala circular hay diez zombies esperando a que alguien trate de llegar por el túnel que baja hacia la sección 60. Si detectan algún ruido, cogerán una gran piedra circular y la arrojarán túnel abajo. Cualquiera que sea alcanzado por esta piedra sufrirá un daño de 3d10. Los zombies disponen de tres de estas piedras, y cuando las hayan tirada todas, bajarán por el túnel para recuperarlas y volver a almacenarlas en la sala.
 
@@ -331,31 +331,31 @@ Hay cuatro braseros en esta sala, ardiendo con un fuego azul. Cada uno de los br
 
 En la parte más oriental de esta sala hay una puerta secreta que se puede encontrar moviendo una piedra del suelo.
 
-### Sección 26 - La tumba del Rey Tarkra Kahn
+#### Sección 26 - La tumba del Rey Tarkra Kahn
 
 En esta tumba descansa, en un sarcófago puesto de pie, la momia del Rey Tarkra Kahn. Cuando el grupo entre en su tumba, se levantará para acabar con ellos. Siempre golpeará a sus enemigos con su bastón de oricalco, que transmite su toque maldito igual que si estuviera golpeando con sus manos.
 
 Alrededor de él están los tesoros con los que fue enterrado: 2.000 monedas de plata; 2.000 monedas de electro; 1.000 monedas de oro; 1 ojo de tigre (25 mo); 1 calcedonia (75 mo); 1 jarrón de porcelana donde está guardado el corazón del rey (200 mo); 1 bastón de oricalco, el símbolo de poder del Rey Tarkra (4000 mo); 6 virotes de ballesta +2, irrompibles; 2 pergaminos de Guardia contra la Magia; 1 poción de Control de Dragones.
 
-### Sección 27 - La tumba del Rey Baoun-Set
+#### Sección 27 - La tumba del Rey Baoun-Set
 
 En esta tumba descansa, en un sarcófago puesto de pie, la momia del Rey Baoun-Set. Cuando el grupo entre en su tumba, se levantará para acabar con ellos. 
 
 Alrededor de él están los tesoros con los que fue enterrado: 2.000 monedas de plata; 1.000 monedas de electro; 1 conjunto de viales de alquimista (200 mo; 5 kilos); 6 sabuesos del infierno disecados en diversas poses de ataque (800 mo/sabueso; 8 kilos/sabueso); 2 pendientes de lapislázuli en las orejas del Rey (25 mo/pendiente); 1 perla (250 mo); 2 discos de bronce, uno en el pecho y otro en la espalda del Rey (200 mo/disco); 1 poción de Polimorfizar; 1 poción de Superheroismo; 1 pergamino con un mapa de la cima de la Montaña Soberana; 1 mapa con 5 hechizos de mago: Detectar Magia, Leer Lenguajes, Detectar el Mal, Detectar Invisibilidad e Infravisión.
 
-### Sección 28 - La tumba del Rey Argu
+#### Sección 28 - La tumba del Rey Argu
 
 En esta tumba descansa, en un sarcófago puesto de pie, la momia del Rey Argu. Cuando el grupo entre en su tumba, se levantará para acabar con ellos. El Rey se protege con su armadura lamelar +1 y su escudo +1, y lucha con una antigua espada de acero que transmite su toque helador al golpear, como si estuviera golpeando con sus manos.
 
 Alrededor de él están los tesoros con los que fue enterrado: 2.000 monedas de plata; 2.000 monedas de electro; 1.000 monedas de oro; 8 viales de incienso (25 mo/vial); 1 perla (250 mo); 3 estatuillas (400 mo/estatuilla); 1 mesa de madera noble (200 mo); 1 armadura lamelar +1 (CA 4; 4 kilos); un escudo +1; 1 poción de Controlar Humano; 1 poción de Controlar Animal; 1 pergamino de Guardia contra Elementales.
 
-### Sección 29 - La tumba de la Reina Baali-Set
+#### Sección 29 - La tumba de la Reina Baali-Set
 
 En esta tumba descansa, en un sarcófago puesto de pie, la momia de la Reina Baali-Set. Cuando el grupo entre en su tumba, se levantará para acabar con ellos. La Reina lucha con su espada +1, que transmite su toque helador, como si estuviera golpeando con sus puños.
 
 Alrededor de él están los tesoros con los que fue enterrada: 2.000 monedas de plata; 2.000 monedas de electro; 1.000 monedas de oro; 1 turquesa (25 mo); 1 esmeralda, dentro de la cuenca del ojo izquierdo (1000 mo); 1 perla, dentro de la cuenca del ojo derecho (4000 mo); 1 capa de piel que es el símbolo de poder de la Reina (1600 mo; 1 kilo); 1 espada +1; 1 poción ESP; 1 pergamino de Guardia contra Licántropos; 1 pergamino con 1 conjuro divino: Plaga de Insectos.
 
-### Sección 30 - La tumba del Rey Tot-Hatt-Baoun
+#### Sección 30 - La tumba del Rey Tot-Hatt-Baoun
 
 La entrada a esta tumba está oculta tras una puerta secreta. 
 
@@ -369,38 +369,36 @@ El área central de este nivel es la guarida de los hobgoblins liderados por Nor
 
 Las tiradas en la tabla de Monstruos Errantes indican la posibilidad de que los personajes se encuentren con ciertos hobgoblins que vagan por la caverna. El Dungeon Master debe tirar 1d6 en los momentos apropiados:
 
-```
-Con un 1, los personajes se encuentran con 1d6 niños hobgoblin.
-Con un 2, los personajes se encuentran con 1d6 mujeres hobgoblin.
-Con un 3, los personajes se encuentran con 1d3 hobgoblins armados.
-Con un 4, los personajes se encuentran con 2d3 hobgoblins armados y liderados por un campeón hobgoblin.
-Con un 5, los personajes se encuentran con Ufniki, el Doctor Brujo hobgoblin.
-Con un 6, los personajes se encuentran con Uder, el Chamán hobgoblin y Orgub, su aprendiz ogro.
-```
+* Con un 1, los personajes se encuentran con 1d6 niños hobgoblin.
+* Con un 2, los personajes se encuentran con 1d6 mujeres hobgoblin.
+* Con un 3, los personajes se encuentran con 1d3 hobgoblins armados.
+* Con un 4, los personajes se encuentran con 2d3 hobgoblins armados y liderados por un campeón hobgoblin.
+* Con un 5, los personajes se encuentran con Ufniki, el Doctor Brujo hobgoblin.
+* Con un 6, los personajes se encuentran con Uder, el Chamán hobgoblin y Orgub, su aprendiz ogro.
 
-### Sección 31 - Entrada oriental
+#### Sección 31 - Entrada oriental
 
 Esta cueva es la entrada oriental al complejo de los hobgoblins. Siempre está iluminada por varias lámparas de aceite, y protegida por 6 guerreros hobgoblin, 1 campeón hobgoblin, y 1 ogro. Si alguien atacara esta sección y el campeón hobgoblin determinara que hay peligro para la tribu, enviaría a uno de los hobgoblin a dar la voz de alarma y ordenaría abrir la puerta que da a la sección 32. Después de abrir la puerta, se retiraría ordenadamente hacia la sección 33.
 
-### Sección 32 - Jaula del oso-lechuza
+#### Sección 32 - Jaula del oso-lechuza
 
 En esta sala los hobgoblins han encerrado a un oso-lechuza. Mantienen razonablemente bien alimentado al monstruo, y de vez en cuando le arrojan a algún prisionero, riéndose mucho con los gritos de terror del infortunado. En el suelo de la cueva, entre excrementos, se pueden encontrar 3 gemas y 2 joyas.
 
-### Sección 33 - Gran sala común
+#### Sección 33 - Gran sala común
 
 Esta cueva está dividida en varios niveles. Aquí viven y trabajan habitualmente cuatro grupos de mujeres hobgoblin con sus hijos. Cada grupo familiar tiene a su cargo una hoguera alrededor de la cual se agolpan las mujeres, dedicadas a sus labores (coser y tejer, y preparar comida a partir de hongos, principalmente). En todo momento habrá en esta cueva 1d10+10 mujeres hobgoblin y 2d10+10 niños.
 
 En esta cueva siempre hay 1d6 guerreros hobgoblins montando guardia y socializando. 
 
-### Sección 34 – Dormitorio
+#### Sección 34 – Dormitorio
 
 Esta cueva se utiliza como dormitorio de dos grupos de guerreros hobgoblins y sus líderes. Hay 10 jergones ordenados en el suelo.
 
-### Sección 35 - Dormitorio
+#### Sección 35 - Dormitorio
 
 Esta cueva se utiliza como dormitorio de dos grupos de guerreros hobgoblins y sus líderes. Hay 10 jergones ordenados en el suelo.
 
-### Sección 36 - Cueva del doctor brujo
+#### Sección 36 - Cueva del doctor brujo
 
 Esta es la cueva de Ufniki, el doctor brujo de la tribu de hobgoblins. Tiene una cama y un baúl donde guarda su tesoro, además de una mesa y una silla donde el hobgoblin realiza sus estudios y experimentos.
 
@@ -408,11 +406,11 @@ El baúl está cerrado con una llave que Ufniki lleva siempre encima, y contiene
 
 Ufniki es un Mago de nivel 6, y conoce los siguientes hechizos: Sueño, Oscuridad, Telaraña, ESP, Bola de Fuego y Dispersar Magia.
 
-### Sección 37 - Sala de la matriarca
+#### Sección 37 - Sala de la matriarca
 
 Esta es la sala donde Varkag, la matriarca hobgoblin, vive con las mujeres que gozan de su estima y con sus hijos preferidos. En esta sala se encuentra el pozo del que los hobgoblins obtienen su agua, y aquí Varkag prepara los hongos más especiales, algunos de ellos alucinógenos y otros venenosos. También aquí es donde se destilan las bebidas alcohólicas. En esta sala siempre se encontrará Varkag, acompañada de 1d4+4 mujeres y 1d4+4 niños.
 
-### Sección 38 - Sala de secado
+#### Sección 38 - Sala de secado
 
 En esta sala hay una gran cantidad de hongos en diversas fases de secado. Muchos hongos necesitan ciertos procesos de preparación antes de ser utilizables. Durante estos procesos, algunos hongos sueltan esporas o huelen mal, y los hobgoblins los dejan aquí durante esos procesos.
 
@@ -422,11 +420,11 @@ En esta sala puede haber diversas nubes de esporas u olores fétidos, dependiend
 - Con un 5, el aire está lleno de olor tan fétido que sólo aquellos personajes que superen una tirada de salvación contra venenos podrán entrar en la sala.
 - Con un 6, el aire está lleno de esporas inflamables. Si alguien entra con una antorcha o lámpara encendida, el Dungeon Master debe tirar 1d6: con un 1-3, las esporas se inflaman, y todos los seres vivos que se encuentren en la sala sufren 2d6 de daño por el fuego que cubre la sala en un instante.
 
-### Sección 39 - Celdas
+#### Sección 39 - Celdas
 
 Esta sección está cerrada con una puerta de recio roble. En su interior los hobgoblins encierran a sus cautivos. Actualmente la celda está vacía, pero el Dungeon Master debería hacer que aquí estuviera cualquier persona que convenga a su campaña.
 
-### Sección 40 - Dormitorio de Norens
+#### Sección 40 - Dormitorio de Norens
 
 Este es el dormitorio de Norens, el líder hobgoblin. Tiene una gran cama con dosel, una mesa y un escritorio con mapas de la Montaña y de las tierras circundantes, legajos, y herramientas de escritura. Norens suele preparar frecuentes planes de conquista que nunca llegan a materializarse por falta de fuerza militar.
 
@@ -438,7 +436,7 @@ Cuando los personajes lleguen a esta sala, el Director de Juego debe lanzar 1d6:
 - Con un 2, Norens está trabajando en su escritorio.
 - Con un 3-6, el dormitorio está vacío.
 
-### Sección 41 - La sala del trono
+#### Sección 41 - La sala del trono
 
 Esta gran sala es la corte de Norens, donde imparte justicia, recibe a enviados de otras partes de la Montaña y celebra las reuniones de su gente y sus oficios religiosos. En el centro hay una gran depresión en el suelo que puede llenarse de carbón, con objeto de asar carne. Hay un agujero de ventilación en el techo que lleva al exterior de la montaña.
 
@@ -454,7 +452,7 @@ Cuando los personajes lleguen a esta sala, el Director de Juego debe lanzar 1d6:
 - Con un 4, la sala está siendo limpiada por un grupo de 1d10 mujeres hobgoblin. Hay 1d3 guerreros hobgoblin holgazaneando mientras las mujeres trabajan.
 - Con un 5-6, la sala está vacía, a excepción de 1d3 guerreros hobgoblin que montan guardia.
 
-### Sección 42 - Armería
+#### Sección 42 - Armería
 
 Esta sala la utilizan los hobgoblins para almacenar herramientas y armas. Todos los hobgoblin mantienen de forma adecuada sus armas y armaduras, y cuando no están de servicio, las guardan aquí. En todo momento habrá almacenadas 20 lanzas, 15 espadas, 15 escudos, 20 arcos compuestos y 20 aljabas con 20 flechas cada una. También hay 10 armaduras de escamas.
 
@@ -462,7 +460,7 @@ Además de las armas, en esta sala se guardan trofeos del pasado de la XIIIª Le
 
 La puerta que lleva al gran salón del trono (sección 41) está protegida por una robusta puerta de madera con cerradura. Norens, Narkag, Uder el Chamán y los 6 campeones hobgoblin tienen llaves de esta armería.
 
-### Sección 43 - Sala del tesoro
+#### Sección 43 - Sala del tesoro
 
 Esta es la sala donde los hobgoblins mantienen el tesoro de la tribu. Sólo Norens y Uder tienen una copia de la llave que abre la impresionante puerta de hierro que llega desde la sección 42 (la armería).
 
@@ -470,23 +468,23 @@ El tesoro de los hobgoblins consiste en: 13.000 monedas de cobre; 6.000 monedas 
 
 Existe una puerta secreta en esta sala, en la pared sur, que lleva a la sección 45. Sólo Norens tiene una llave que abre la puerta, pero la matriarca Varkag conoce su existencia también, y se lo ha contado a su hijo Narkag. Ninguno de los dos ha revelado a Norens que conocen su secreto.
 
-### Sección 44 - Despensa y almacén
+#### Sección 44 - Despensa y almacén
 
 Esta sala está llena de comida almacenada por los hobgoblins y materiales de todo tipo: cuerdas, clavos de hierro, madera, brea, herramientas de construcción, etc. Los personajes pueden llevarse de este lugar todo tipo de herramientas útiles para la exploración.
 
-### Sección 45 - Almacén de carbón
+#### Sección 45 - Almacén de carbón
 
 En esta sala se almacena el carbón y la madera que se usa para mantener los fuegos encendidos. Los hobgoblins se ocupan de comerciar siempre para mantener un buen suministro. 
 
 La puerta secreta de la pared norte lleva a la sala del tesoro. La llave que abre la puerta secreta de 43 sirve para abrir esta puerta también. Sólo Norens tiene una copia de esta llave.
 
-### Sección 46 - Corrales de escarabajos
+#### Sección 46 - Corrales de escarabajos
 
 Los hobgoblins tienen en esta cueva una serie de cuatro corrales excavados en el suelo, donde crían escarabajos de fuego. Los alimentan a base de desperdicios y las partes desechadas de sus hongos. De los escarabajos se aprovecha su carne, sus glándulas luminosas y su quitina, con la que fabrican armaduras y herramientas.
 
 En cada uno de los cuatro corrales hay 10 ejemplares adultos e innumerables crías jóvenes. Cuando hay que sacrificar a alguna de estas bestias, los hobgoblins los atontan con humo.
 
-### Sección 47 - Sala común
+#### Sección 47 - Sala común
 
 Lo más característico de esta gran cueva es el gran hoyo que se encuentra en su centro, y que es la entrada a las cuevas donde viven los micónidos. Aquí viven y trabajan habitualmente tres grupos de mujeres hobgoblin con sus hijos. Cada grupo familiar tiene a su cargo una hoguera alrededor de la cual se agolpan las hobgoblins, dedicadas a sus labores (coser y tejer, y preparar comida a partir de los productos de los escarabajos, principalmente). En todo momento habrá en esta cueva 1d8+8 mujeres hobgoblin y 2d8+8 niños.
 
@@ -494,7 +492,7 @@ Los hobgoblins recolectan a menudo guano de murciélago procedente de las cuevas
 
 En esta cueva siempre hay 5 guerreros hobgoblins, 1 campeón hobgoblin y 2 ogros montando guardia. 
 
-### Sección 48 - Cueva de los micónidos
+#### Sección 48 - Cueva de los micónidos
 
 El hoyo es la entrada a las cuevas de los micónidos. Pequeños túneles se internan en la Montaña, cada uno de ellos repleto de todo tipo de hongos y setas que crecen bajo sus cuidados. El guano que los hobgoblins arrojan periódicamente.por el hoyo ha permitido a los micónidos expandirse como nunca antes, y ahora son más numerosos que nunca.
 
@@ -502,13 +500,13 @@ Los micónidos se comunican entre sí telepáticamente, y tienen una mente comun
 
 Los hobgoblins nunca bajan a estas cuevas, y se contentan con recibir el tributo periódicamente. Si bajaran, se encontrarían con la desagradable sorpresa de que los micónidos actualmente superan en número a sus guerreros (actualmente existen 41 micónidos).
 
-### Sección 49 - Templo de Kangg
+#### Sección 49 - Templo de Kangg
 
 En esta cueva, Uder ha creado un templo de Kangg, el Dios de la Guerra de los hobgoblins. En un altar situado en la parte sur hay un altar donde el Chamán ofrece sacrificios a su dios, en forma de pequeños animales, ofrendas de alimento que quema en el altar y, muy ocasionalmente, un sacrificio de un ser inteligente, sobre todo cuando es necesario tener suerte en batalla.
 
 El túnel que llega desde la sección 47 está cubierto de pequeñas oquedades donde descansan las calaveras de los guerreros hobgoblins muertos en combate. Todos aquellos que pasen por este túnel y no superen una tirada de salvación contra conjuros sufrirán un -1 a todas sus tiradas de ataque y daño durante 1 hora, como consecuencia del miedo sobrenatural provocada por los espíritus de los hobgoblins.
 
-### Sección 50 – Escuela
+#### Sección 50 – Escuela
 
 En esta pequeña sala Uder enseña a los jóvenes hobgoblins las enseñanzas de Kangg, Dios de la Guerra. Estas enseñanzas no son sólo religiosas, sino también marciales: táctica y lucha. Todos los varones hobgoblins deben entrenar para convertirse en guerreros y soldados de la XIIIª Legión
 
@@ -520,7 +518,7 @@ El Dungeon Master debe tirar 1d6 cuando el grupo entre en esta cueva.
 
 El túnel que llega desde la sección 46 está cubierto de largas oquedades donde se guardan juntas las calaveras de las mujeres hobgoblins muertas y de aquellos varones hobgoblins que no llegaron a convertirse en guerreros. Pasar por este túnel exige una tirada de salvación contra conjuros con las mismas consecuencias que el túnel entre las secciones 49 y 47
 
-### Sección 51 - Sala del Chamán
+#### Sección 51 - Sala del Chamán
 
 Este es dormitorio de Uder, el Chamán hobgoblin. Orgub no duerme aquí, sino en las cuevas de los ogros (secciones 55 y 56). El chamán hobgoblin descansa sobre un duro jergón de paja, y tiene una mesa y una silla en la que estudia las enseñanzas de Kangg y escribe a la luz de una lámpara.
 
@@ -537,7 +535,7 @@ Cualquier zona en la que no haya ningún encuentro puede ser susceptible de albe
 - Con un 5, una patrulla formada por 1d3+1 ogros.
 - Con un 6, una patrulla formada por Oglub y 1d3+1 ogros.
 
-### Sección 52 - La sala del abismo
+#### Sección 52 - La sala del abismo
 
 En esta cueva hay un gran abismo que se hunde en las profundidades. La cueva está algo inclinada hacia el abismo, lo cual hace que andar por aquí sea algo inquietante. Peor aún, desde este abismo pueden surgir en ocasiones monstruos procedentes de las profundidades. 
 
@@ -550,33 +548,33 @@ Cuando los personajes entren en esta cueva, el Dungeon Master debe tirar 1d6 y c
 
 Debido a la inclinación de la cueva, cualquiera que luche en esta sala y resulte herido debe superar una tirada de salvación contra arma de aliento o comenzará a caer hacia el abismo. Una segunda tirada de salvación fallida hará que se precipite hacia una muerte segura en las profundidades, a menos que alguien detenga su caída.
 
-### Sección 53 - La sala del pozo
+#### Sección 53 - La sala del pozo
 
 En esta cueva hay un antiguo pozo del que se puede extraer agua. Es costumbre de los habitantes de la Montaña reparar este pozo si encuentran algún desperfecto. El pozo se encuentra en la pared norte.
 
 Hace relativamente poco tiempo, un grupo de Monos Voladores estuvieron haciendo reparaciones en el pozo, pero fueron interrumpidos por un monstruo errante (y devorados) mientras trabajaban. En consecuencia, la reparación se quedó a la mitad, y el suelo de madera que hay alrededor de la fuente está en un estado peligroso. Tanto es así que en cuanto tres o cuatro personas de tamaño humano se pongan sobre él, cederá y hará que se abra un gran agujero que lleve al nivel de las alcantarillas.
 
-### Sección 54 – Guardia
+#### Sección 54 – Guardia
 
 En esta cueva, los ogros suelen mantener una guardia permanente de 3 ogros. Por desgracia (para los ogros), el trabajo es aburrido, por lo que hay un 33% de posibilidades de que los tres ogros se hayan emborrachado con ginebra de hongos y estén durmiendo la mona. 
 
-### Sección 55 - Dormitorio de los ogros
+#### Sección 55 - Dormitorio de los ogros
 
 En esta sala viven los ogros, que duermen los unos sobre los otros y comen su carne cruda alrededor de un pequeño fuego. En todo momento habrá en esta sala 1 campeón ogro y 1d6 ogros, así como 2d3+1 mujeres ogros y 2d3+1 niños ogro. 
 
-### Sección 56 - Dormitorio del jefe Oglub
+#### Sección 56 - Dormitorio del jefe Oglub
 
 Esta es la cueva del Jefe Orgub, y el lugar donde se guarda el tesoro de los ogros (al menos todo aquel que los ogros no llevan encima en sus sacos). El jefe duerme sobre una gran cama, acompañado por su esposa favorita. Su hijo Orgub duerme también aquí, y cada noche su padre le pregunta si ha descubierto ya los secretos de Cangggg, y si ya sabe hacer magia. Su hijo siempre le responde que aún no, y su padre siempre monta en cólera.
 
 El tesoro de los ogros está esparcido por toda la cueva. Consta de 5.000 monedas de cobre, 5 6 6 7 7 9.000 de plata; 2 tapices (5 mo/tapiz; 8 kilos/tapiz); 3 barriles de pescado en salazón (5 mo/barril; 8 kilos/barril); 3 hatillos de leña de buena calidad (5 mo/hatillo; 8 kilos/hatillo); 3 barriles de cerveza (10 mo/barril; 8 kilos/barril); 2 rollos de tela (10 mo/rollo; 4 kilos/rollo); 4 jarrones de terracota (100 mo/jarrón; 5 kilos/jarrón); 3 bolsas de hojas de té (75 mo/bolsa; 5 kilos/bolsa); 1 poción de Controlar Animal.
 
-### Sección 57 - La catarata
+#### Sección 57 - La catarata
 
 Por un gran agujero en el techo cae un torrente de agua a esta cueva, que está húmeda y resbaladiza. Ese mismo agua se pierde por un agujero en el suelo, que hace que el agua se pierda en las profundidades de la montaña. 
 
 Los hobgoblins vienen a este lugar a recoger agua, y siempre hay un 25% de posibilidades de que haya 1 campeón hobgoblin y 1d3+3 guerreros hobgoblin en la zona, escoltando a 1d10+10 mujeres hobgoblins que van a o regresan de las cuevas de los murciélagos que hay al norte.
 
-### Sección 58 - Guano de murciélago
+#### Sección 58 - Guano de murciélago
 
 En esta cueva vive una enorme bandada de murciélagos. La cueva tiene una salida al exterior de la montaña, situada en el cénit. Por ahí salen los murciélagos en bandadas todas las noches a buscar alimento. 
 
@@ -586,10 +584,10 @@ Hay un 25% de posibilidades de que haya un grupo de 1d10+10 mujeres hobgoblin ll
 
 Cuando es de día, la luz del sol se filtra a través del techo e ilumina parcialmente la cueva.
 
-### Sección 59 - Más guano de murciélago
+#### Sección 59 - Más guano de murciélago
 
 Esta cueva es similar a la de la sección 58, aunque en lugar de haber una apertura en el techo, hay toda una pared (la oriental) que da al exterior. En esta cueva hay menos murciélagos y el montón de guano es menor.
 
-### Sección 60 - Aún más guano de murciélago
+#### Sección 60 - Aún más guano de murciélago
 
 Esta cueva es similar a las de las secciones 58 y 59. El agujero por el que salen los murciélagos está en la pared oriental, aunque no es tan grande como el de la sección 59.
