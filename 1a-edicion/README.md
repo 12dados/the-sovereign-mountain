@@ -15,7 +15,9 @@
 
 ### Ilustraciones
 
-Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2), Códex Mcausland y Codex The Forge (cedidas por Pedro Gil) y otras como el logo de "DIY recopiladas de internet. Copyright de las imágenes de sus respectivos autores.
+~~Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2), Códex Mcausland y Codex The Forge (cedidas por Pedro Gil) y otras como el logo de "DIY recopiladas de internet. Copyright de las imágenes de sus respectivos autores.~~
+
+En esta versión online sólo se han mantenido como ilustraciones los mapas, por distribuirse con la misma licencia que el resto del texto. Las ilustraciones interiores y portada no están incluídas, aunque pueden obtenerse dentro de los documentos disponibles en [el blog de La Montaña Soberana](https://el-megadungeon.blogspot.com/).
 
 ## Índice
 

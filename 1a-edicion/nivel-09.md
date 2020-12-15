@@ -21,7 +21,7 @@ Justo por debajo de la cima de la Montaña hay un manto de nubes de tormenta que
 
 ## Conexiones con otros niveles
 
-* Desde los ascensores en la [sala 13 del nivel 8](./nivel-08.md)
+* Desde los ascensores en la [sala 13 del nivel 8](./nivel-08.md).
 
 ## Leyenda de salas del nivel
 
