@@ -33,5 +33,5 @@ Portada: Ferran Hellar, ilustraciones interiores; Bruno Jesus Guil Perez (1 y 2)
  * [Nivel 6: El depósito del hechicero](./nivel-06.md), por Jose Carlos Domínguez "Kha"
  * [Nivel 7: El laberinto de Kramaghar](./nivel-07.md), por Héctor Prieto de la Calle 
  * [Nivel 8: La cripta del rey Ludovico](./nivel-08.md), por Bester
- * Nivel 9: La cima, por Carlos de la Cruz
+ * [Nivel 9: La cima](./nivel-09.md), por Carlos de la Cruz
  * Licencia de uso del texto

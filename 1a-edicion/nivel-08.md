@@ -22,6 +22,8 @@ Algunos de los que se despeñaron en aquel infame día consiguieron hacer llegar
 * La sala 1 tiene dos escaleras, una desciende hasta la [sala 1 del nivel 7](./nivel-07.md) en caso de que se haya conseguido salir del laberinto. En caso contrario es una escalera cegada. La otra lleva hasta la [salida del nivel 5](./nivel-05.md) que está entre las salas 53 y 54.
 * En la sala 13, los ascensores pueden llevar a los aventureros hasta [la cima](./nivel-09.md).
 
+## Leyenda de salas del nivel
+
 ### 1. Sala de la estatua
 
 Junto a la gran vidriera desde la que se puede ver (pero no ser visto) gran parte de los territorios sobre los que reina la Montaña Soberana. La vidriera es extraordinariamente dura y solo se puede romper con armas mágicas o conjuros y causándole, al menos, 100 puntos de daño. 
