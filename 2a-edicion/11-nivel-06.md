@@ -3,9 +3,7 @@
 
 ## Mapa del nivel 
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 6" src="./img/nivel-06.png">
-</p>
+![](./img/nivel-06.png)
 
 ## Conexiones con otros niveles
 
@@ -60,7 +58,7 @@ El número de gólems en cada sala se señala con un número junto al nombre de 
 El lugar está convenientemente iluminado por antorchas mágicas que consisten en huesos humanos que arden sin parar con una luz azulada. Lo realmente mágico es el soporte en el que están, pues dejarán de arder si son retirados. Por ello, cualquier hueso de humanoide convenientemente alargado puede servir como antorcha pues, al colocarlo en el soporte, empezará a arder solo. Algunos se han perdido con el tiempo, pero no demasiados.
 
 ## Leyenda de salas del nivel
- 
+
 ### 1. Recibidor (0/0/2)
 
 Esta pequeña columnata lleva a unas enormes puertas de hierro. No están cerradas, pero son pesadas y necesitan mucho músculo para ser abiertas (una tirada de Fuerza, con modificador de -3).

@@ -3,9 +3,7 @@
 
 ## Mapa del nivel
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 1" src="./img/nivel-01.png">
-</p>
+![](./img/nivel-01.png)
 
 ## Conexiones con otros niveles
 
@@ -69,9 +67,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
 ### Mapa de las facciones goblin
 
-<p align="center">
-  <img width="400" alt="Mapa de las facciones goblin" src="./img/nivel-01-facciones.png">
-</p>
+![](./img/nivel-01-facciones.png)
 
 ## Leyenda de las salas del nivel
 

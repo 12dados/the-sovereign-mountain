@@ -3,9 +3,7 @@
 
 ## Mapa del nivel
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 3" src="./img/nivel-03.png">
-</p>
+![](./img/nivel-03.png)
 
 ## Conexiones con otros niveles
 * Zona 1: la Boca conecta con un túnel que se divide en dos, por lado derecho conduce a la [sala 7 del nivel 1](./nivel-01.md) y por el otro a una salida oculta en un lateral de la Montaña en [el exterior](./05-exterior.md).
@@ -129,7 +127,7 @@ Ten en cuenta que los hombres lagarto son xenófobos, violentos y siguen una rel
    Ulk-Ultar es un hechicero decente posee también un laboratorio. En todo momento hay 2 pociones (aleatorias) y un 20% de 1d4 objetos menores. También hay un alambique donde destila una pegajosa sustancia. Habrá al menos 4 redomas completas llenas. Se trata de un Aceite de Protección contra el Ácido. También se encuentra en el laboratorio el Plan, una gran piedra tallada que pertenece a los goblins del nivel 1.Todos los objetos que son bañados con este aceite quedan a salvo del ácido durante 6 semanas. En los seres vivos la duración se reduce a 6 horas. En los objetos la inmunidad es completa. En los personajes la inmunidad elimina 1/2 del daño, o la totalidad si se supera un Tiro de Salvación o similar. 
 
 5. **Armería**
- 
+
    Esta es la armería de los hombres lagarto, una choza redondeada llena de estantes donde reposan armas y armaduras (en diversos estados de conservación) de sus víctimas. Hay un 50% de posibilidades de encontrar cualquier arma común en un estado de uso aceptable. También hay un 5% de encontrar algún arma mágica de poder bajo. 
 6. **Prisión**
 

@@ -13,9 +13,7 @@ Algunos de los que se despeñaron en aquel infame día consiguieron hacer llegar
 
 ## Mapa del nivel
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 8" src="./img/nivel-08.jpg">
-</p>
+![](./img/nivel-08.jpg)
 
 ## Conexiones con otros niveles
 
@@ -77,7 +75,7 @@ En el momento de aparición de los pjs hay 3 relojeros: dos hombres y una mujer 
 Los relojeros son los esclavos que quedaron a cargo del mantenimiento y protección de la cripta. Para ello se les dejó unas herramientas mágicas (que ellos no tienen) que pueden reparar los mecanismos y trampas de todo el nivel. Las trampas en algunos lugares no se activan en su presencia y son inmunes a las ilusiones. En otros puntos utilizan los colgantes en forma de reloj de arena para desactivar una trampa o que se active una sala. Los relojeros y sus descendientes llevan siglos protegiendo la cripta pero el tiempo ha diezmado sus efectivos. Son diestros monjes y conocen artes marciales, por lo que aún sin armas son muy peligrosos. Los que quedan empezaron a coger parte del tesoro de Ludovico para subsistir y seguir viviendo allí. El resto se lo llevaron los aventureros que acceden de cuando en cuando. Gunter es el relojero más anciano y si está algo loco, pero toda su locura la vuelca en evitar que se descubra que ya apenas queda nada del tesoro de Ludovico (que ellos sepan) y en acabar con los aventureros que diezman su número. Odia profundamente a los caza tesoros y hará lo posible para eliminarlos. Sus hombres y mujeres también lucharán con fiereza contra cualquier aventurero con el que se encuentren.
 
 La intención de los tres relojeros cautivos si son liberados es servirse de los personajes y luego acabar con ellos. Les mentirán diciendo que el tesoro de Ludovico sigue en la cripta (detectar mentira: dificultad alta). No les contarán que hay una salida desde la cripta hasta la base de la montaña, el acceso que ellos usan para salir a abastecerse.
- 
+
 ### 6. Cámara de las puertas
 
 En esta cámara abovedada hay siete puertas de metal o madera coloreada. En el suelo hay esqueletos y restos de aventureros. (entre los restos se puede encontrar una poción de invisibilidad, una poción de disminución y otra de heroísmo. Algunas monedas de oro y un boceto del plano del nivel que revela todos los pasajes anteriores a ésta sala. También hay un arco mágico.

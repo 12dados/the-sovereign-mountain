@@ -3,13 +3,9 @@
 
 ## Mapas del nivel
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 4" src="./img/nivel-04-01.png">
-</p>
+![](./img/nivel-04-01.png)
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 4" src="./img/nivel-04-02.png">
-</p>
+![](./img/nivel-04-02.png)
 
 ## Conexiones con otros niveles
 

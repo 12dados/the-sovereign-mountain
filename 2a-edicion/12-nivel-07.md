@@ -46,9 +46,7 @@ Hemos añadido los mapas de las salas más importantes, quedan excluidos los de 
 
 ### Sala 1: La sala de los brillos
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-01.jpg">
-</p>
+![](./img/nivel-07-01.jpg)
 
 Las escaleras que proceden del nivel anterior acaban en una amplia sala con las paredes bellamente decoradas con imágenes de héroes míticos. Las teselas que crean los hermosos mosaicos, reflejan la luz de las antorchas y dan la impresión que las imágenes se mueven al compás de las llamas.
 
@@ -69,12 +67,10 @@ Las teselas que se encuentran en esta sala son:
 
 ### Sala 2: El pasillo infinito
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-02.jpg">
-</p>
+![](./img/nivel-07-02.jpg)
 
 Esta sala es un largo pasillo con columnas a lo largo de él, para cruzarlo deberán moverse entre las columnas siguiendo un camino específico. Salirse del camino resultará en ser teleportados al comienzo de la sala (tienes indicadas en el mapa las casillas que teleportarán a los personajes al comienzo de la sala). 
- 
+
 Tras cruzar el pasillo se abrirá una gran cámara circular con una gran plataforma en el centro que gira en el sentido contrario a las agujas del reloj. En el centro de la plataforma se encuentra, suspendida en el aire, una vara de piedra teñida de un color azulado. Cuando uno de los Pj’s suba a la plataforma, ésta girará cada vez más deprisa; alcanzar la vara supondrá 3 turnos en llegar hasta ella, y otros 3 para abandonar la plataforma, pero por cada giro que de ésta, el Pj rejuvenecerá 1 año de vida (ten en cuenta esto en el momento de ajustar las características, pues un Pj muy joven, que pase mucho tiempo en la plataforma, verá disminuidas sus puntuaciones por la edad). La plataforma realiza un giro cada 2 turnos, y mantener el equilibrio requerirá tiradas de Destreza (CD 10 con un +1 acumulativo en cada turno).
 
 [Recuerda la ley física de la carrera: correr duplica la distancia a recorrer]
@@ -83,12 +79,10 @@ La única salida de esta sala es por la misma puerta por la que accedieron.
 
 ### Sala 3: El precio exacto
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-03.jpg">
-</p>
+![](./img/nivel-07-03.jpg)
 
 Kramaghar era muy dado a los juegos, y uno que disfrutaba cuando estudiaba en la Escuela de Magia era adivinar el precio de las cosas. Esta sala es el afán del mago por ese juego, alterado por su propia locura.
- 
+
 El acceso a esta sala comunica con un gran anfiteatro. Sombras de criaturas humanoides parecen estar sentadas en las gradas, y en la parte central, a la vista de todos, hay tantos atriles como Pj’s haya. Un hechizo de ilusión graba los nombres de cada Pj en cada uno de los atriles. Al cerrarse la puerta, ésta desaparecerá en la oscuridad.
 
 Todo estará en silencio, y si los Pj’s tocan alguna de las sombras, o tratan de dirigirse a ellas, no obtendrán respuesta y su tacto será similar a intentar agarrar la niebla. Pero cuando tomen lugar tras el atril que muestra cada uno, las luces de la estancia se encenderán y las sombras se convertirán en personas que comienzan a aplaudir y vitorear a los Pj’s.
@@ -103,24 +97,20 @@ Tras terminar el concurso, y hayan cogido o no la piedra, la puerta volverá a a
 
 ### Sala 4: La sala del silencio obligado
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-04.jpg">
-</p>
+![](./img/nivel-07-04.jpg)
 
 En esta sala los sonidos se incrementan diez veces, por lo que un simple tosido puede convertirse en un estruendo. Durante la estancia en esta sala, los hechizos que requieran de palabras, fallarán automáticamente; del mismo modo, los Pj’s sufrirán una penalización de -2 a todas las tiradas por la intensidad de los ruidos (pasos, tosidos, conversaciones, chocar de espadas…). La salida de esta sala se encuentra al otro extremo de la misma pero para llegar a ella deberán abrir la verja que separa las dos secciones, y para ello tendrán que girar la palanca que hay en una de las aberturas.
- 
+
 De esta sala, ha hecho su hogar un enjambre de avispas gigantes que permanecerán dormidas hasta que oigan algún ruido que las despierte. En ese momento, el zumbido de sus alas provocará el penalizador a los Pj’s y se lanzarán a atacarlos.
 
 El aguijón de las avispas perfora el cuero, no así el metal. El pasillo oculto que hay permitiría a los Pj’s cruzar la sala de un lado al otro causando el menor ruido posible.
 
 ### Sala 5: Pequeñas salas dentro de otra sala
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-05.jpg">
-</p>
+![](./img/nivel-07-05.jpg)
 
 Esta sala es una sucesión de pequeñas salas (de 3x3 metros) con puertas que se activan y desactivan al antojo: puedes abrir una puerta un segundo y al momento siguiente estará cerrada sin posibilidad de ser forzada. Cualquier intento por forzar la cerradura, o abrirla mediante algún hechizo, fallará automáticamente.
- 
+
 Queda a discreción del DJ escoger las puertas que permanecen abiertas o cerradas pero debe recordar que las puertas se abren siempre hacia dentro.
 Rondando por esta sala, hay varias criaturas y Pnj’s que llevan tiempo vagando por ella, intentando encontrar una salida. El tiempo que han pasado vagando sin rumbo les ha desquiciado, por lo que agredirán automáticamente a cualquier Pj con el que se crucen (o a cualquier otra criatura o Pnj).
 
@@ -134,24 +124,20 @@ Muchos han sido los aventureros que han muerto en esta sala, y sus pertenencias 
 
 ### Sala 7: El trono de las 100 piedras
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-07.jpg">
-</p>
+![](./img/nivel-07-07.jpg)
 
 Cuando Kramaghar perdió la cabeza, durante una temporada pensó que era el rey de un reino de hombres diminutos. Esta sala fue su salón del trono, y Kramaghar la decoró como tal; el lujo llena las paredes con preciosos tapices que muestran las bondades del mago para con su pueblo, dispuestas creando un pasillo hay armaduras de tamaño diminuto (un mediano es alto comparado con la altura de esas criaturas), y en el fondo de la sala hay un enorme montón de piedras diseminadas por las escalinatas del lugar donde debería erigirse un trono.
- 
+
 Si los pj’s se percatan de ello, las piedras encajan entre sí formando un trono. Esta sala dispone a su vez de 3 puertas más, una situada a cada dirección (habiendo entrado los pj’s por la entrada sur), pero cuando atraviesen una puerta darán de nuevo a esta sala por la puerta opuesta por la que accedieron. Cada vez que los pj’s atraviesen una puerta (sin contar la primera vez que accedan a la sala), el trono irá recomponiéndose; tras 4 accesos, el trono estará recompuesto. En ese momento de los tapices comenzarán a salir (a razón de 1d4 por turno) pequeñas criaturas humanoides (los siervos de Kramaghar) que atacarán a los intrusos; sobre el trono descansa un anciano vestido con una túnica azul, ya raída por el paso del tiempo. Es Kramaghar, pero parece estar en coma y no responde a ningún hechizo, poción o intento de reanimarlo, parece como si su espíritu hubiera desaparecido.
 
 Con el trono ya recompuesto, los Pj’s pueden abandonar la sala de manera normal. Pero cuando vuelvan a acceder a ella, deberán repetir el proceso.
 
 ### Sala 8: La pluma es más poderosa que la espada
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-08.jpg">
-</p>
+![](./img/nivel-07-08.jpg)
 
 Durante el tiempo que Kramaghar ha pasado en este laberinto, le ha dado tiempo a invocar cientos de objetos para su entretenimiento. Cada vez que pensaba que había despistado a sus perseguidores, se sentaba junto a una pared y de su bolsa sacaba un libro que traía de una biblioteca desconocida. Pero cuando volvía a sentir la urgencia de escapar de sus perseguidores, Kramaghar desvanecía el libro... con tan mala suerte que aquellos tomos iban a parar a una sala del complejo, una que Kramaghar nunca llegó a visitar.
-  
+
 Cuando los Pj's abran la puerta, decenas de libros caerán sobre ellos. Todos están tirados por el suelo creando montañas; algunos abiertos, otros cerrados, pero todos ocultando el suelo y el auténtico peligro que mora allí: pues la magia caótica del mago ha alcanzado los libros y ha liberado a varias de las criaturas que se detallan en sus páginas. 
 
 Las armas, o los hechizos, no harán daño alguno a estas criaturas literarias. En su lugar, para combatirlas, los Pj's deberán emplear las palabras, y ejecutar rimas para afectarlas. Por cada rima que consigan, la criatura sufrirá 1 PdG; así, si un Pj consigue encadenar un cuarteto (rima de 4 estrofas), la criatura sufriría 4 PdG. Las criaturas, sin embargo, atacarán de manera normal... [queda a discreción del Narrador decidir qué criaturas habitan esta sala, pero recomendamos muchas criaturas de pocos PdG antes que pocas de muchos PdG].
@@ -164,12 +150,10 @@ Si deciden coger y ojear los libros, uno de ellos muestra la leyenda de la vara 
 
 ### Sala 9: Los espejos vivientes.
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 7" src="./img/nivel-07-09.jpg">
-</p>
+![](./img/nivel-07-09.jpg)
 
 Al entrar en esta sala octogonal, lo primero que llama la atención es ver las paredes recubiertas por grandes espejos con marcos dorados. En los espejos se muestran los reflejos de los Pj’s y en el orden en el que éstos han accedido a la sala, los reflejos comenzarán a surgir de los espejos (no pudiendo encontrarse más de 1 copia de cada Pj). Para detener esto, pues los reflejos seguirán saliendo al vencer a uno, los aventureros deberán romper los espejos pero si rompieran alguno en el que se viera reflejado un Pj, éste sufriría daño equivalente al ataque del Pj que rompiera el espejo (esto no sería así rompiendo un espejo en el que no se reflejase nadie, por lo que tendrán que tener cuidado). Además, cuando un Pj impacte en su propio doble, él mismo recibirá también el daño causado; solo si los Pj’s atacan a los dobles que no sean el suyo, podrán evitar este daño directo.
- 
+
 Cuando la mitad de los espejos esté rota, el resto se oscurecerán por completo y un grumo negro comenzará a fluir desde ellos y convergerá en el centro de la sala. De aquí surgirá el espíritu de Kramaghar, que atacará a los Pj’s y los acusará de perseguirle; el espíritu no entrará en razón, de ninguna forma entablará una conversación y solo podrá ser herido por armas mágicas, hechizos, o armas de plata.
 
 Considera a Kramaghar como un mago de alto nivel que no está sujeto a las condiciones especiales del laberinto, por lo que sus conjuros sí causan daño. El único problema, es que tiene una probabilidad del 30% de lanzar correctamente el hechizo, si falla en lugar de lanzar el hechizo que quería usar utiliza una Teleportación y se desplaza automáticamente a otra sala del laberinto (lanza 1D10 de la misma forma que haces con los Pj’s, excepto en la sala 8 donde si el resultado del dado es un 8, el mago permanece en esta misma sala aturdido durante un turno). Esto, obviamente, consume uno de sus hechizos diarios. Kramaghar no debe preparar hechizos nuevos, automáticamente cuando se cumpla un día, el espíritu “regenera” los hechizos.

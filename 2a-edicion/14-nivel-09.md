@@ -15,9 +15,7 @@ Justo por debajo de la cima de la Montaña hay un manto de nubes de tormenta que
 
 ## Mapa de la cima de la Montaña
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 9" src="./img/nivel-09.jpg">
-</p>
+![](./img/nivel-09.jpg)
 
 ## Conexiones con otros niveles
 

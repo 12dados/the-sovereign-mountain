@@ -1,11 +1,9 @@
 
 # NIVEL 5: Hobgoblins y micónidos, por Carlos de la Cruz.
 
-## Mapa del nivel 
+## Mapa del nivel
 
-<p align="center">
-  <img width="400" alt="Mapa del nivel 5" src="./img/nivel-05.jpg">
-</p>
+![](./img/nivel-05.jpg)
 
 ## Conexiones con otros niveles
 
