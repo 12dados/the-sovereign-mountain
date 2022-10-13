@@ -14,7 +14,7 @@ _¿Y tú, serás capaz de abandonar este laberinto?_
 ## Conexiones con otros niveles
 
 * La sala 1 conecta la [zona 5 del nivel 3 del Dragón](./nivel-03.md). 
-* En la misma sala, una vez que se ha conseguido encontrar la Vara de Lapislázuli y la piedra, aparece una escalera que les lleva hasta el nivel superior, [el nivel 8](./nivel-08.md). 
+* En la misma sala, una vez que se ha conseguido encontrar la Vara de Lapislázuli y la piedra, aparece una escalera que les lleva hasta el nivel superior, [el nivel 8](./nivel-08.md).
 
 ## Notas para el DJ
 
@@ -191,7 +191,7 @@ Tras vencer al espíritu del mago, éste desaparecerá e irá en busca de su cue
 
 Dependiendo de la cantidad de jugadores, escoge qué objetos podrán encontrar.
 
-El mago les deseará suerte en su aventura y una vez se despida, se convertirá en ceniza y un viento que parece salir de todos lados se lleva los restos del mago. Al desaparecer, se escucha un “Gracias” que no parece provenir de ningún sitio en particular. 
+El mago les deseará suerte en su aventura y una vez se despida, se convertirá en ceniza y un viento que parece salir de todos lados se lleva los restos del mago. Al desaparecer, se escucha un “Gracias” que no parece provenir de ningún sitio en particular.
 
 ## La vara y el loco
 

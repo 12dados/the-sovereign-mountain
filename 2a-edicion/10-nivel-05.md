@@ -99,7 +99,7 @@ Sareb tiene una Daga +2, +3 contra Hombres Bestia.
 
 Esta cueva tiene tres salidas. Las salidas norte y oeste. La salida oeste lleva a la sala 4 del  nivel de las alcantarillas. La salida norte  conduce al nivel 1, en su salida por el suroeste del mapa entre las salas 4 y 13, de donde suelen llegar grupos de gente dispuesta a comerciar. La salida del sur lleva al Templo de Bargulis. En el centro de esta cueva hay un gran foso del que no se puede ver el fondo, y del que, cada cierto tiempo, surgen monstruos.
 
-Si algún aventurero arroja algún tipo de objeto al foso, llamará la atención de los seres que allí moran. El Dungeon Master deberá hacer una tirada para determinar si alguno de ellos sube a investigar: 
+Si algún aventurero arroja algún tipo de objeto al foso, llamará la atención de los seres que allí moran. El Dungeon Master deberá hacer una tirada para determinar si alguno de ellos sube a investigar:
 
 ```
 Tirada (1d6) Monstruo

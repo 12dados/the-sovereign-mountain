@@ -15,7 +15,7 @@
 
 ## Las tres facciones de Goblins
 
-Este nivel de la Montaña Soberana está caracterizado por una constante pugna entre tres facciones de Goblins, que se enfrentan entre sí por el control de la Piedra Filosofal, un fragmento de roca muy especial. Las fuerzas de las tres facciones están muy equilibradas, por lo que ninguna logra mantener el control de la Piedra Filosofal más allá de un día o, a lo sumo, dos. Las tres facciones de Goblins son los Realistas, los Egalitarios y los Deterministas.
+Este nivel de la Montaña Soberana está caracterizado por una constante pugna entre tres facciones de Goblins, que se enfrentan entre sí por el control de la Piedra Filosofal, un fragmento de roca muy especial. Las fuerzas de las tres facciones están muy equilibradas, por lo que ninguna logra mantener el control de la Piedra Filosofal más allá de un día o, a lo sumo, dos. Las tres facciones de Goblins son los Realistas, los Egalitarios y los Deterministas.
 
 Los Goblins están bastante abiertos a negociar y hacer tratos con los personajes, y no atacarán a un grupo de aventureros sin preguntar antes. Al fin y al cabo, este tipo de personas suelen ser útiles para conseguir cierta ventaja (aunque sea temporal) sobre las facciones enemigas.
 
@@ -154,7 +154,7 @@ A pesar de todas sus diferencias, hay algo que las tres facciones de Goblins tie
 
    _Podrás hacernos una única pregunta, y deberemos responderla._
 
-   Es más, no importa de dónde sea cada personaje, todos verán el texto en su idioma natal. Cada personaje podrá hacer una única pregunta a ambos Bugbears, que poseen el conocimiento universal y podrán responder con certeza sin importar la cuestión. Uno de ellos (el de la armadura azul) siempre responderá con la verdad, mientras que el otro (el de la armadura roja) siempre responderá con una mentira. 
+   Es más, no importa de dónde sea cada personaje, todos verán el texto en su idioma natal. Cada personaje podrá hacer una única pregunta a ambos Bugbears, que poseen el conocimiento universal y podrán responder con certeza sin importar la cuestión. Uno de ellos (el de la armadura azul) siempre responderá con la verdad, mientras que el otro (el de la armadura roja) siempre responderá con una mentira. 
 
 8. **La caverna de la llama**
 
