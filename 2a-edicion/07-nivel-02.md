@@ -38,25 +38,24 @@ En este punto los muros de refuerzo que cubren el túnel han caído en uno de lo
 Si de alguna manera los personajes logran hacer descender al Vejigazo sin que estalle, este es inofensivo salvo que se le provoquen más de 4 puntos de golpe de daño en un solo ataque o más de 8 en total. En ese caso aparece una grieta en su dura piel, de la que sale un chorro de ácido dirigido al patán atacante, causándole 1d6 puntos de daño, que de nuevo pueden reducirse a la mitad con un tiro de salvación. Una vez roto, el Vejigazo soltará el resto de su ácido, ya de forma suave, al suelo. Bastará con evitar pisarlo para no ser dañado por él, e incluso podría ser recogido en viales de cristal. El dungeon máster debe recordar hacer tiros de salvación para los objetos del equipo del personaje si cree que alguno de ellos puede haber sido afectado por el ácido. ¡Pero no le digas nada! Si un tipo bañado en ácido no tiene el sentido común de pararse a mirar si su equipo está bien, se merece descubrir que su cuerda es especialmente frágil justo cuando penda de una altura de cien metros. Si los personajes tienen la paciencia de rebuscar en el interior del Vejigazo con cuidado o si, tras reventarles encima, echan un vistazo, verán que en el interior de este órgano se había formado una roca del tamaño de un puño por acumulación de sales y minerales ingeridos por el dragón. Si la piedra es triturada, aparecerán pepitas de plata y oro en su interior por un valor total de 19 monedas de oro. 
 
 **VEJIGAZO BILIAR GIGANTE**
-```
-Criatura mediana 
-Puntos de golpe: 15 
-Iniciativa: NA
-Velocidad: NA
-CA: 10
-Ataques: Caerse encima (2d6 + 1d6 a adyacentes). Escupir por la herida (1d6) 
-Ataques especiales: No 
-Defensas especiales: No 
-Características: CON (+2) 
-Inteligencia: No 
-Alineamiento: Neutral 
-Puntos de Fortuna: 0 
-Organización: Solitario 
-Ciclo de actividad: Siempre 
-PX: 120 
-Alias: Granudo.
-Disponibilidad recomendada: Criatura.
-```
+
+> Criatura mediana  
+> Puntos de golpe: 15  
+> Iniciativa: NA  
+> Velocidad: NA  
+> CA: 10  
+> Ataques: Caerse encima (2d6 + 1d6 a adyacentes). Escupir por la herida (1d6)  
+> Ataques especiales: No  
+> Defensas especiales: No  
+> Características: CON (+2)  
+> Inteligencia: No  
+> Alineamiento: Neutral  
+> Puntos de Fortuna: 0  
+> Organización: Solitario  
+> Ciclo de actividad: Siempre  
+> PX: 120  
+> Alias: Granudo  
+> Disponibilidad recomendada: Criatura  
 
 ### Sala 3: Te entra el gusanillo
 
