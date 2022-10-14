@@ -284,7 +284,7 @@ Además encontrarán 1d12 frascos aún intactos que contienen diversas sustancia
 20. Vino tan delicioso que no se puede parar de beber.
 ```
 
-También podrán encontrar 1d6 frascos que contienen miembros no-muertos que se mantienen inhertes en un líquido conservante. Si fueran extraídos, podrían moverse con libertad dentro de sus posibilidades. 
+También podrán encontrar 1d6 frascos que contienen miembros no-muertos que se mantienen inhertes en un líquido conservante. Si fueran extraídos, podrían moverse con libertad dentro de sus posibilidades.
 
 **Tabla 5. Cosas no-muertas en líquido conservante (1d20)**
 ```
@@ -381,7 +381,7 @@ Además una de ellas es la cabeza de la esfinge cuyo cuerpo estaba en la sala de
 
 ### 18. Dormitorio del monstruo (0/0/0)
 
-En esta habitación habita ahora un demonio rana menor fugado del oubliette. Al ser una encarnación de la pereza y la codicia ha reunido todos los libros y el tesoro que ha podido encontrar y ha convertido el sitio en su dormitorio, donde lee continuamente. No plantará mucha cara si se ve superado. Normalmente su primer movimiento será ahuyentar con hechizos y entonces intentar huir por la salida de la pared este. Si esto falla, intentará parlamentar y ofrecer sobornos, aunque aprovechará cualquier momento en el que se baje la guardia para volver a atacar. 
+En esta habitación habita ahora un demonio rana menor fugado del oubliette. Al ser una encarnación de la pereza y la codicia ha reunido todos los libros y el tesoro que ha podido encontrar y ha convertido el sitio en su dormitorio, donde lee continuamente. No plantará mucha cara si se ve superado. Normalmente su primer movimiento será ahuyentar con hechizos y entonces intentar huir por la salida de la pared este. Si esto falla, intentará parlamentar y ofrecer sobornos, aunque aprovechará cualquier momento en el que se baje la guardia para volver a atacar.
 
 **Demonio menor (Ashkigazzael)**
 ```

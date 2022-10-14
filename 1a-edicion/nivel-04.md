@@ -13,12 +13,12 @@
 
 ## Conexiones con otros niveles
 
-* Zona 1: conecta con la salida suroeste del [nivel 1](./nivel-01.md), entre la sala 4 y la sala 13. 
-* Zona 2: una alcantarilla conecta con la [sala 15 del nivel 2](./nivel-02.md). 
-* Zona 8: conecta con la [sección 1 del nivel 5](./nivel-05.md): el pozo. 
-* Zona 23: conecta con la [sala 1 del nivel 6](./nivel-06.md).  
+* Zona 1: conecta con la salida suroeste del [nivel 1](./nivel-01.md), entre la sala 4 y la sala 13.
+* Zona 2: una alcantarilla conecta con la [sala 15 del nivel 2](./nivel-02.md).
+* Zona 8: conecta con la [sección 1 del nivel 5](./nivel-05.md): el pozo.
+* Zona 23: conecta con la [sala 1 del nivel 6](./nivel-06.md). 
 
-## Un poco de historia 
+## Un poco de historia
 
 Este nivel fue hasta hace poco una especie de campo de experimentación sociológica. Decidido a encontrar la verdadera naturaleza de los seres inteligentes, el Hechicero del nivel 7 decidió crear un ambiente aislado y autosuficiente, poblarlo con seres inteligentes y observar qué pasaba. Su teoría era que el mal y la crueldad eran consecuencia ,en un primer momento, de la lucha diaria para cubrir las necesidades básicas y, posteriormente, de la educación que las sociedades, progenitores y dioses imprimían en los seres. Pero ¿qué pasaría si se quitaran todos esos factores externos? ¿Seguiría habiendo buenos y malos, crueldad y nobleza?
 
@@ -34,7 +34,7 @@ Así que la teoría era cierta, pero... ¿se podría prolongar este estado primo
 
 ## El Aire Irisado
 
- Se trata de la atmósfera del otro plano. Es un aire menos transparente que el normal, y cualquier movimiento rápido provoca una estela de colores irisados, como si se estuviera moviendo en una balsa de aceite. No impide el movimiento ni lo dificulta, pero desde luego hace que cualquier movimiento sea más evidente. En términos de juego, supone un +2 a la tirada de sorpresa y a la de esconderse de los halflings, así como un +10% a la tirada de esconderse de los ladrones, al menos las tres primeras ocasiones que se hagan estas tiradas. Después se supone que todos los personajes han aprendido a minimizar la estela que provocan y se pueden esconder y sorprender al enemigo con normalidad.
+Se trata de la atmósfera del otro plano. Es un aire menos transparente que el normal, y cualquier movimiento rápido provoca una estela de colores irisados, como si se estuviera moviendo en una balsa de aceite. No impide el movimiento ni lo dificulta, pero desde luego hace que cualquier movimiento sea más evidente. En términos de juego, supone un +2 a la tirada de sorpresa y a la de esconderse de los halflings, así como un +10% a la tirada de esconderse de los ladrones, al menos las tres primeras ocasiones que se hagan estas tiradas. Después se supone que todos los personajes han aprendido a minimizar la estela que provocan y se pueden esconder y sorprender al enemigo con normalidad.
 
 Esta atmósfera es la que permite que exista toda la extraña ecología que ha colonizado el nivel. La genera un gigantesco monstruo que vive en la zona 20, con lo que matarlo haría que se asfixiaran todos los demás bichos en cuestión de horas. 
 
@@ -44,7 +44,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
 1. **La gran puerta oxidada**
 
-   El túnel, procedente del nivel 1, acaba en una inmensa puerta de metal de doble batiente. La superficie está marrón de orín y brillante de la humedad, y el suelo cercano a la puerta está cubierto por un charco de agua, no muy extenso, de menos de un dedo de profundidad.  En el relieve de la puerta, bajo dos gigantescas argollas oxidadas que cuelgan de las narices de dos rostros barbudos, aún se pueden distinguir en Enano las palabras “El gran pasaje”. Las bocas de los rostros son ranuras por las que se pueden echar monedas.
+   El túnel, procedente del nivel 1, acaba en una inmensa puerta de metal de doble batiente. La superficie está marrón de orín y brillante de la humedad, y el suelo cercano a la puerta está cubierto por un charco de agua, no muy extenso, de menos de un dedo de profundidad. En el relieve de la puerta, bajo dos gigantescas argollas oxidadas que cuelgan de las narices de dos rostros barbudos, aún se pueden distinguir en Enano las palabras “El gran pasaje”. Las bocas de los rostros son ranuras por las que se pueden echar monedas.
 
    Hace muchísimo tiempo los enanos excavaron y construyeron este túnel para comunicar el nivel 1 con el 5, donde está la granja subterránea, y facilitar el trasiego de carretas para comerciar con el exterior... a cambio de una moneda de plata.. Sin embargo, varias pintadas en las paredes en goblin avisan: “Derrumbado, no entrar, bichos derriten.”
 
@@ -54,9 +54,9 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
 2. **El umbral del Gran Pasaje**
 
-   Tras la puerta se abre un pasillo de piedra muy ancho, por el que cabrían sin problemas cuatro carretas puestas lado a lado. El suelo está completamente mojado por la cortina de agua que se derrama sobre la puerta, la cual mana de una grieta en el techo de medio cañón del pasillo. Sin embargo, el agua no llega a hacer charco porque se vierte por una tapa de alcantarilla, que llevará a la [sala 15 del nivel 2](./nivel-02.md) si se abre.  De este lado de la puerta, a la altura de donde estarían las bocas de los enanos, hay dos cajas donde se recogían las monedas que servían para abrir las puertas. Hoy día están reventadas y saqueadas, nada más que estarán las monedas que hayan introducido los propios aventureros.
+   Tras la puerta se abre un pasillo de piedra muy ancho, por el que cabrían sin problemas cuatro carretas puestas lado a lado. El suelo está completamente mojado por la cortina de agua que se derrama sobre la puerta, la cual mana de una grieta en el techo de medio cañón del pasillo. Sin embargo, el agua no llega a hacer charco porque se vierte por una tapa de alcantarilla, que llevará a la [sala 15 del nivel 2](./nivel-02.md) si se abre. De este lado de la puerta, a la altura de donde estarían las bocas de los enanos, hay dos cajas donde se recogían las monedas que servían para abrir las puertas. Hoy día están reventadas y saqueadas, nada más que estarán las monedas que hayan introducido los propios aventureros.
 
-   En cuanto los PJs se muevan notarán que aquí dejan una especie de estela de colores en el aire, como si estuvieran sumergidos en un aceite invisible. Cuanto más rápido el movimiento, más intensos los colores irisados de la estela que se formará.   Esta estela es la señal de que acaban de entrar en la atmósfera que hace posible la existencia de las extrañas criaturas que han invadido este nivel. Es perfectamente respirable, pero es un poco más densa y contiene algunos gases mezclados que se hacen visibles cuando se alteran súbitamente. Sin embargo no resiste el contacto con humedad o con agua, con lo que cualquier nube o cortinilla de agua puede servir para que no se propague más allá.
+   En cuanto los PJs se muevan notarán que aquí dejan una especie de estela de colores en el aire, como si estuvieran sumergidos en un aceite invisible. Cuanto más rápido el movimiento, más intensos los colores irisados de la estela que se formará.  Esta estela es la señal de que acaban de entrar en la atmósfera que hace posible la existencia de las extrañas criaturas que han invadido este nivel. Es perfectamente respirable, pero es un poco más densa y contiene algunos gases mezclados que se hacen visibles cuando se alteran súbitamente. Sin embargo no resiste el contacto con humedad o con agua, con lo que cualquier nube o cortinilla de agua puede servir para que no se propague más allá.
 
    Estaría bien que el máster incida sobre esta estela que produce cualquier movimiento siempre que pueda, ya que es una característica de todo el nivel. Además, la estela hace muy difícil pasar desapercibido, a menos que los movimientos sean exageradamente lentos. Esto funciona en contra y a favor de los PJs, ya que también hará muy sencillo avistar cualquier movimiento a lo lejos... siempre que haya luz para ver los colores, claro.
 
@@ -78,7 +78,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 4. **El túnel chuperreteado**
 
    Hacia la izquierda, si se viene desde la zona 3, se abre de pronto una oquedad profunda, de forma irregular, también como si se hubiera producido derritiendo la roca. Parece un túnel que retrocediera ligeramente, suficientemente alto como para que quepa perfectamente un humano desplazándose a cuatro patas. Por el suelo discurre lo que parece una formación rocosa, del grosor de un cabo marinero, que viene de más adelante del Pasaje y se introduce en la oquedad.
- 
+
    Pero lo que más llama la atención es que se puede escuchar claramente música y voces masculinas y femeninas cantando una canción que nadie reconocerá, sobre el rumor de una corriente de agua. El sonido parece que proviene de lo profundo del túnel...y si prestan atención (tirada de escuchar con éxito) escucharán también un leve sonido rasposo, como si algo blando rozara contra la piedra una y otra vez.
 
    La oquedad mide unos seis metros de longitud, y al final se distinguen unos pequeños agujeros en la roca derretida, que se ven perfectamente porque parece haber luz al otro lado. La música, las voces y el rumor del agua se escuchan más cercanos... y el sonido rasposo también. Desde la mitad del túnel podrán ver que en el extremo de la nervadura hay una pequeña nube irisada: hay movimiento. Si se acercan más, verán que el extremo de la nervadura rocosa se mueve como un gusano lento y gordo, empapando de líquido verdoso toda la pared final y raspándola incansablemente... 
@@ -105,13 +105,13 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
    ```
    Estadísticas: las mismas que una Pitón de las Rocas, más un ataque de ácido de 1d8 por asalto si impacta (ver la descripción)
    Descripción: la principal misión de la lengua es atrapar a alguien (lo cual consigue si impacta sobre un objetivo) y llevarlo a la boca del bicho mientras ya lo va predigiriendo, de ahí la constricción y el extra de ácido. Este daño de ácido se aplica primero al valor de armadura y la dejará inservible cuando su valor llegue al de un hombre sin armadura. Mientras tanto la víctima se ve arrastrada hacia la boca a la velocidad de movimiento... a menos que se consiga "matar" la lengua. 
-   Si hay varios atacantes la lengua puede tratar de barrerlos, atacando a todos los que estén a su alcance como si fuera un látigo. Quienes sean impactados sufrirán el daño de barrido y deberán superar una Tirada de Salvación contra Aliento de Dragón para no ser derribados. 
+   Si hay varios atacantes la lengua puede tratar de barrerlos, atacando a todos los que estén a su alcance como si fuera un látigo. Quienes sean impactados sufrirán el daño de barrido y deberán superar una Tirada de Salvación contra Aliento de Dragón para no ser derribados.
    ```
 
    **Hipodrilo de roca**
    ```
    Estadísticas: Las mismas de un Elefante. 
-   Descripción: La criatura de esta zona, que recuerda vagamente a un hipopótamo pétreo con un morro muy largo, no puede avanzar hacia los aventureros porque está encajada en un hueco en el muro del Pasaje... y porque se le derritieron las patas en el río (ver zona 12), así que confía en su lengua para cazar a las presas y meterlas en su inmensa bocaza. Una víctima que haya cazado la lengua sufre el daño de Trituramiento automáticamente cuando se introduzca en la boca. Alguien que no esté preso por la lengua sólo sufrirá daño si el Hipodrilo consigue la tirada de éxito, de lo contrario habrá podido salir antes de que se cierre la boca. Es vulnerable al agua, como hemos visto al principio. 
+   Descripción: La criatura de esta zona, que recuerda vagamente a un hipopótamo pétreo con un morro muy largo, no puede avanzar hacia los aventureros porque está encajada en un hueco en el muro del Pasaje... y porque se le derritieron las patas en el río (ver zona 12), así que confía en su lengua para cazar a las presas y meterlas en su inmensa bocaza. Una víctima que haya cazado la lengua sufre el daño de Trituramiento automáticamente cuando se introduzca en la boca. Alguien que no esté preso por la lengua sólo sufrirá daño si el Hipodrilo consigue la tirada de éxito, de lo contrario habrá podido salir antes de que se cierre la boca. Es vulnerable al agua, como hemos visto al principio.
    Tesoro: Si realizan la hazaña de matarlo podrán hacerse con los zafiros. La sorpresa es que sí que son gemas de verdad, y encima seguirán emitiendo luz 3d6 semanas después de cortadas: valen tres veces lo que un zafiro normal en monedas de oro.
    ```
 
@@ -159,7 +159,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
    De lejos lo más interesante son los propios habitantes de la caverna, 21 individuos de todas las razas y de ambos sexos. Hay 2 humanos, 1 humana, 1 elfa, 2 enanos, 1 goblin, 3 goblins hembra, 1 kobold macho, 2 kobolds hembra, 1 gnoll macho, 2 orcos macho, 1 orco hembra y 3 bugbears macho. Los humanos, orcos, gnolls, bugbears y medianos parecen cincuentones, mientras los goblins y kobolds tienen pinta de ser viejunos. Los enanos y elfos siguen pareciendo jóvenes.
 
-   Si los observan con cuidado, todos los habitantes están participando en una extraña danza ritual, salvando el gnoll y un bugbear, que están como de guardia en la entrada de la cascada sosteniendo dos palos largos. La cristalina voz de una Elfa se entreteje con las agudas notas de un flautín, tocado con extraordinaria habilidad por un Orco al ritmo de la percusión de un anciano kobold. Todos los demás bailan formando un círculo en el centro de la caverna, alrededor de un Enano que danza ágilmente y una goblin que le sigue a duras penas, entrelazando sus pasos con rapidez y agitando en círculos sus brazos. Con la estela irisada que dejan, el espectáculo de colores y formas es verdaderamente impresionante.  Pero al poco son sustituidos por un bugbear y una humana, que también bailan de la misma forma. 
+   Si los observan con cuidado, todos los habitantes están participando en una extraña danza ritual, salvando el gnoll y un bugbear, que están como de guardia en la entrada de la cascada sosteniendo dos palos largos. La cristalina voz de una Elfa se entreteje con las agudas notas de un flautín, tocado con extraordinaria habilidad por un Orco al ritmo de la percusión de un anciano kobold. Todos los demás bailan formando un círculo en el centro de la caverna, alrededor de un Enano que danza ágilmente y una goblin que le sigue a duras penas, entrelazando sus pasos con rapidez y agitando en círculos sus brazos. Con la estela irisada que dejan, el espectáculo de colores y formas es verdaderamente impresionante.  Pero al poco son sustituidos por un bugbear y una humana, que también bailan de la misma forma.
 
    **Hablando con ellos**
 
@@ -183,7 +183,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
    _Vozotroz habéiz zobrevivido a laz beztiaz. ¿Noz ayudaréiz?”_
 
-   Por supuesto, no se lo están contando todo. En la zona 13 está el resto de “la verdad”. 
+   Por supuesto, no se lo están contando todo. En la zona 13 está el resto de “la verdad”.
 
    **Rasgos de los Conformistas**
 
@@ -232,7 +232,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
     0 - 2: No hay encuentro.
     3 - 4: Tirar dos veces en la tabla: Los aventureros están a punto de ser emboscados, pero entonces vienen otras criaturas y se zampan a las primeras. Los primeros bichos que salgan son comidos por los segundos delante del grupo. Sí, puede salir el mismo tipo de bestia las dos veces...
     5 – 8: Hay una bandada de 1d10 flores ácidas posadas justo en el camino del grupo. Las mismas estadísticas y descripciones que vimos en la zona 3.
-    9 – 12: Entre la hierba asoman lo que parecen unas rocas de regular tamaño. En realidad son 1d6 erizos rodantes que esperan una presa para lanzarse sobre ella. 
+    9 – 12: Entre la hierba asoman lo que parecen unas rocas de regular tamaño. En realidad son 1d6 erizos rodantes que esperan una presa para lanzarse sobre ella.
     13 – 14: 1d3 langoscorpiones están tanteando los matojos, delatándose desde lejos por la intensa estela irisada que dejan sus movimientos (vamos, que no sorprenden). Si perciben a los aventureros irán a por ellos. Saben más ricos que el resto de la fauna de por aquí.
     15 – 16: 1d4 discos translúcidos sobrevuelan la zona, moviéndose lentamente y permaneciendo semiocultos gracias a su transparencia. Tratarán de acechar sigilosamente a los aventureros. 
     17- 18: 1d6 gusanos miméticos. Como se verá en la zona 18, lo primero que harán es intentar comunicarse. 
@@ -275,7 +275,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
     Unas sencillas casas de adobe de una sola habitación. En el pasado era aquí donde vivía toda la comunidad. Cuando llegaron las bestias mataron a un montón de individuos y se los comieron, y algunas siguen esperando aquí a que vengan más presas. 
 
-    Antes de que los aventureros entren en una casa hay que hacer una tirada en la Tabla de Encuentros de la Zona 11. Si sale 20, tirar de nuevo (no hay golems dorados).  Apoyados contra una de las casas alguien ha puesto unos palos como si fuera un tendedero. Sobre estos palos hay varias pieles de conejos, ciervos y cabras en distintos grados de secado. Se trata del secadero de pieles de los Curiosos (ver zona 16), ya que su campamento está al lado del río y no se secan con la humedad. 
+    Antes de que los aventureros entren en una casa hay que hacer una tirada en la Tabla de Encuentros de la Zona 11. Si sale 20, tirar de nuevo (no hay golems dorados). Apoyados contra una de las casas alguien ha puesto unos palos como si fuera un tendedero. Sobre estos palos hay varias pieles de conejos, ciervos y cabras en distintos grados de secado. Se trata del secadero de pieles de los Curiosos (ver zona 16), ya que su campamento está al lado del río y no se secan con la humedad. 
 
 14. **La entrada de los Dorados**
 
@@ -321,7 +321,7 @@ Otra de las debilidades de esta fauna es el agua, que es como un ácido para tod
 
     Si vienen por encargo de Los Conformistas y preguntan por Culo Bonito y Cabello de oro, el elfo y una de las humanas se pondrán en pie y se acercarán a ellos. No parece que estén aquí contra su voluntad, todo lo contrario. 
 
-    Morro Moteado se presentará como la “voz de todos” y estará deseosa de contarles a los aventureros toda la historia, desde su punto de vista.  
+    Morro Moteado se presentará como la “voz de todos” y estará deseosa de contarles a los aventureros toda la historia, desde su punto de vista. 
 
     _“La nochze que llegaron loz nuevoz animalez muchoz murieron antez de que llegaramoz a la cazcada. Todoz temíamoz que loz Doradoz no zupieran encontrarnoz, pero lo hicieron y noz trajeron la comida a la cueva. Allí noz quedamoz._
 

@@ -34,9 +34,9 @@ Cuando los personajes investiguen en la Boca, se puede producir un encuentro:
 
 **Tabla de encuentros aleatorios de La Boca:**
 ```
-1d20    Resultado  
-1-9     Nada, despejado (por ahora...)  
-10-15   Patrulla de hombres lagarto.  
+1d20    Resultado 
+1-9     Nada, despejado (por ahora...) 
+10-15   Patrulla de hombres lagarto. 
 16-20   Llamarada 
 ```
 
@@ -106,7 +106,7 @@ Ten en cuenta que los hombres lagarto son xenófobos, violentos y siguen una rel
 
 2. **Almacén**
 
-   En este almacén se guardan los excedentes de comida (incluyendo, en unos garfios colgados del techo los restos de aventureros poco afortunados y otras criaturas) y otros objetos de valor de la comunidad.  Aquí se puede encontrar casi de todo, una cantidad grande de equipo común (casi todo en mal estado) y un 10% de posibilidades de 1d4 objetos mágicos menores. 
+   En este almacén se guardan los excedentes de comida (incluyendo, en unos garfios colgados del techo los restos de aventureros poco afortunados y otras criaturas) y otros objetos de valor de la comunidad. Aquí se puede encontrar casi de todo, una cantidad grande de equipo común (casi todo en mal estado) y un 10% de posibilidades de 1d4 objetos mágicos menores. 
 
    El almacén siempre está custodiado por 2 guerreros. 
 

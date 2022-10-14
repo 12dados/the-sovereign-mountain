@@ -1,7 +1,7 @@
 
 # Nivel 8: La cripta del rey Ludovico, por Bester
 
-## Introducción 
+## Introducción
 
 Un loco rey enano llamado Ludovico construyó en éste nivel su cripta. Décadas reinando en la Montaña habían acabado con su cordura y se embarcó en la construcción de un sepulcro que hiciese honor a su nombre por los siglos venideros. Allí albergaría sus tesoros protegidos por trampas y magia, lejos del alcance de las manos de los codiciosos aventureros.
 
@@ -9,7 +9,7 @@ Con la ayuda de muy diversos consejeros llegados de todo el mundo diseñaron una
 
 Desafortunadamente para el loco Ludovico nada es eterno y la magia pierde su energía, los mecanismos se atascan, los muertos vivientes se terminan de pudrir, los  suelos y techos se derrumban. El tiempo no es un buen aliado para estas cosas si no hay un servicio de mantenimiento. Es decir, lo había, pero el tiempo y los aventureros acabaron con la mayor parte de él. Los que se quedaron decidieron mantener el legado de Ludovico pero con un costo que seguro se le antojaría excesivo al orgulloso rey. Ese cuerpo de mantenimiento son ahora quienes guardan lo que queda del tesoro de Ludovico: los relojeros
 
-Algunos de los que se despeñaron en aquel infame día consiguieron hacer llegar algo de información sobre los peligros de la cripta a amigos y familiares y así distorsionada la información y la perseverancia hicieron que algunos de los tesoros y salas de la cripta hayan sido ya esquilmados por codiciosos aventureros. 
+Algunos de los que se despeñaron en aquel infame día consiguieron hacer llegar algo de información sobre los peligros de la cripta a amigos y familiares y así distorsionada la información y la perseverancia hicieron que algunos de los tesoros y salas de la cripta hayan sido ya esquilmados por codiciosos aventureros.
 
 ## Mapa del nivel
 
