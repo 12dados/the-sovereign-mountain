@@ -1,5 +1,5 @@
 
-# NIVEL 5: Hobgoblins y micónidos, por Carlos de la Cruz.
+# Nivel 5: Hobgoblins y micónidos, por Carlos de la Cruz.
 
 ## Mapa del nivel
 
