@@ -1,8 +1,6 @@
 
 # Nivel 8: La cripta del rey Ludovico, por Bester
 
-## Introducción
-
 Un loco rey enano llamado Ludovico construyó en éste nivel su cripta. Décadas reinando en la Montaña habían acabado con su cordura y se embarcó en la construcción de un sepulcro que hiciese honor a su nombre por los siglos venideros. Allí albergaría sus tesoros protegidos por trampas y magia, lejos del alcance de las manos de los codiciosos aventureros.
 
 Con la ayuda de muy diversos consejeros llegados de todo el mundo diseñaron una pequeña tumba. Durante su construcción murieron muchos trabajadores  y muchos otros intentaron guardarse algunos de los secretos para poder acceder a la cripta en el futuro. Pero Ludovico se aseguró de acabar con todos los ingenieros y esclavos implicados en la construcción despeñándolos por la montaña en el famoso día conocido como “el día en que llovían personas”.

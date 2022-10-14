@@ -1,17 +1,6 @@
 
 # Nivel 3: El Dragón, por José Manuel Palacios
 
-## Mapa del nivel
-
-![](./img/nivel-03.png)
-
-## Conexiones con otros niveles
-* Zona 1: la Boca conecta con un túnel que se divide en dos, por lado derecho conduce a la [sala 7 del nivel 1](./nivel-01.md) y por el otro a una salida oculta en un lateral de la Montaña en [el exterior](./05-exterior.md).
-* Zona 4: hay unas escalerillas que conectan con la [sala 17 del nivel 2](./nivel-02.md) y también hay una trampa que conduce a la [sala 2 del nivel 2](./nivel-02.md).
-* Zona 5: hay una conexión con la entrada al [nivel 7](./nivel-07.md), El laberinto de Khagramar, en la sala 1.
-
-## El Pozo de Shamarakan, historia del nivel
-
 Hace muchos años, cuando la montaña era gobernada por el rey hechicero Azur I "El Loco", en este nivel se extendía un extenso jardín donde las concubinas reales pasaban el día ocupadas en telares, bañándose en cristalinas fuentes o gozando de dulces y manjares que los eunucos traían de las cocinas de los niveles inferiores. Azur apenas prestaba atención a estas mujeres, que eran colmadas de regalos y tenían una vida indolente, prisioneras en la jaula de oro de los hermosos jardines del serrallo.
 
 Un día, el rey Azur recibió un regalo peculiar de un extraño viajero al que ofreció su hospitalidad. Debido a la modestia del mismo, Azur no prestó demasiada atención al principio a lo que tenía entre manos. Se trataba de un huevo de obsidiana de gran tamaño, decorado con ribetes de oro y zafiros. El huevo fue entregado a sus concubinas y alojado en el jardín en un pequeño pedestal, reposando sobre cojines de plumas.
@@ -22,9 +11,22 @@ Sin las concubinas allí, el jardín acabó descuidado y abandonado. Mientras, l
 
 En un ataque de lucidez, Azur se dió cuenta de que el tamaño de Shamarakan era tal que amenazaba con derrumbar toda la montaña. Azur trató de destruir al dragón, y este lo atacó con furia. Lucharon durante 7 días y 7 noches y finalmente, Azur consiguió sumir a Shamarakan en un sueño comatoso del que no debería despertar. Sin embargo, antes de que consiguiese su objetivo, el dragón lo devoró, y junto con él su Vara de Archimago, fuente de gran parte de su poder. Su combate hizo que la montaña se derrumbase parcialmente sobre los jardines. Sepultando al descomunal dragón, que permanece vivo gracias a la magia de Azur y de su Vara de Archimago, en un estado de animación suspendida. Sus fauces, abiertas, dan paso a una angosta cueva por la que el fuego asciende de vez en cuando... y dan a una caverna hedionda donde los hombres lagarto, adoradores del dios Shamarakan, realizan sacrificios en el lago de ácido que se ha formado en el estómago del dragón...
 
-## Zona 1: La Boca 
+## Mapa del nivel
+
+![](./img/nivel-03.png)
+
+## Conexiones con otros niveles
+* Zona 1: la Boca conecta con un túnel que se divide en dos, por lado derecho conduce a la [sala 7 del nivel 1](./nivel-01.md) y por el otro a una salida oculta en un lateral de la Montaña en [el exterior](./05-exterior.md).
+* Zona 4: hay unas escalerillas que conectan con la [sala 17 del nivel 2](./nivel-02.md) y también hay una trampa que conduce a la [sala 2 del nivel 2](./nivel-02.md).
+* Zona 5: hay una conexión con la entrada al [nivel 7](./nivel-07.md), El laberinto de Khagramar, en la sala 1.
+
+## Zona 1: La Boca
+
+### El Pozo de Shamarakan
 
 Hay un largo túnel antes de acceder a esta sala. El túnel se divide en dos, por un lado desemboca en [el exterior de la Montaña](./05-exterior.md), en una salida muy difícil de encontrar desde el exterior y que solo conocen los hombres lagarto, mientras que el otro lado desemboca en una masa palpitante completamente opaca de color negro del tamaño de un hombre que solo puede ser atravesada desde el [nivel 1 en la sala 7](./nivel-01.md), pero no en sentido contrario. Ni la luz ni el sonido pueden traspasarla, en ningún sentido. 
+
+### La Boca
 
 Al final del túnel está la entrada al Dragón, unos descomunales arcos de herradura dan paso a una sala alargada de unos 9 metros de largo y 6 de ancho. 12 extrañas columnas de marfil amarillento, como si fuesen cuernos que brotan del suelo rojizo, jalonan esta sala que conduce a un pasillo oscuro y angosto. El hedor que proviene del mismo es capaz de marear al hombre más curtido. El suelo y las paredes de aspecto coriáceo de rojo vivo, parecen pulsantes. Una extraña alfombra rojiza correosa se extiende hacia el interior del pasadizo. 
 

@@ -1,8 +1,6 @@
 
 # Nivel 7: El laberinto de Kramaghar, por Héctor Prieto de la calle  
 
-## Introducción
-
 Hace muchos, muchos años, un mago solitario se adentró en los peligros de la montaña para hacerse con el poder de la cima. Avanzó por los distintos niveles, superando los retos que se le imponían; su sabiduría y poder mágico eran los pilares de su éxito, pero también supusieron el origen de su GRAN fracaso.
 
 Kramaghar, que así es como se llamaba aquel mago, se confió demasiado. Supuso que tras superar diversos obstáculos con gran facilidad, el resto del camino sería igual; pero la montaña escondía peligros venidos del exterior: aventureros que intentaron en el pasado hacerse con el poder de la cima. Y un grupo de ellos persiguió a Kramaghar, se convirtieron en la pesadilla del mago pues allá donde iba, era seguido por ellos. Durante días, el mago no pudo conciliar el sueño, era incapaz de descansar pues el grupo de aventureros le perseguía, sabedores que él podría conducirles hacia la cima. Y así, Kramaghar, en un último intento de escapar de ellos, realizó un hechizo de desorientación, uno que consiguiera perderles para siempre en los pasillos en los que se encontraba; pero la falta de sueño, el agotamiento físico y mental, propició que el mago fracasase al realizar un hechizo tan sencillo, y Kramaghar quedó perdido para siempre en la trampa que él mismo había dispuesto.

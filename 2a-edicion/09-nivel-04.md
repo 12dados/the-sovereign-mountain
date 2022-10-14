@@ -1,21 +1,6 @@
 
 # Nivel 4: Aire Irisado, por Erekíbeon
 
-## Mapas del nivel
-
-![](./img/nivel-04-01.png)
-
-![](./img/nivel-04-02.png)
-
-## Conexiones con otros niveles
-
-* Zona 1: conecta con la salida suroeste del [nivel 1](./nivel-01.md), entre la sala 4 y la sala 13.
-* Zona 2: una alcantarilla conecta con la [sala 15 del nivel 2](./nivel-02.md).
-* Zona 8: conecta con la [sección 1 del nivel 5](./nivel-05.md): el pozo.
-* Zona 23: conecta con la [sala 1 del nivel 6](./nivel-06.md).
-
-## Un poco de historia
-
 Este nivel fue hasta hace poco una especie de campo de experimentación sociológica. Decidido a encontrar la verdadera naturaleza de los seres inteligentes, el Hechicero del nivel 7 decidió crear un ambiente aislado y autosuficiente, poblarlo con seres inteligentes y observar qué pasaba. Su teoría era que el mal y la crueldad eran consecuencia ,en un primer momento, de la lucha diaria para cubrir las necesidades básicas y, posteriormente, de la educación que las sociedades, progenitores y dioses imprimían en los seres. Pero ¿qué pasaría si se quitaran todos esos factores externos? ¿Seguiría habiendo buenos y malos, crueldad y nobleza?
 
 Para ello acondicionó las cuevas de este nivel y las encantó con ilusiones, de tal forma que parecieran una campiña bucólica con sus bosques, sus praderas y su río (aunque éste es real). También aprovechó el Gran Pasaje que comunicaba el nivel 1 con el 5 para crear allí la zona de mantenimiento, llena de objetos encantados y sirvientes golems que proveerían todas las necesidades básicas de los sujetos del experimento. No faltarían la comida, la bebida, la ropa y el sitio donde resguardarse. El paraíso terrenal, vamos. 
@@ -35,6 +20,19 @@ Se trata de la atmósfera del otro plano. Es un aire menos transparente que el n
 Esta atmósfera es la que permite que exista toda la extraña ecología que ha colonizado el nivel. La genera un gigantesco monstruo que vive en la zona 20, con lo que matarlo haría que se asfixiaran todos los demás bichos en cuestión de horas. 
 
 Otra de las debilidades de esta fauna es el agua, que es como un ácido para todos ellos. Rociarlos con agua hace que se quemen como si estuvieran ardiendo. Salpicarlos les provoca 1d4, un chorro desde un odre 2d6, acertarles vertiendo un caldero les haría 3d12. Esta debilidad es común a todos los bichos extraños.
+
+## Mapas del nivel
+
+![](./img/nivel-04-01.png)
+
+![](./img/nivel-04-02.png)
+
+## Conexiones con otros niveles
+
+* Zona 1: conecta con la salida suroeste del [nivel 1](./nivel-01.md), entre la sala 4 y la sala 13.
+* Zona 2: una alcantarilla conecta con la [sala 15 del nivel 2](./nivel-02.md).
+* Zona 8: conecta con la [sección 1 del nivel 5](./nivel-05.md): el pozo.
+* Zona 23: conecta con la [sala 1 del nivel 6](./nivel-06.md).
 
 ## Zona transitable del gran pasaje
 

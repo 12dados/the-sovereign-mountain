@@ -1,6 +1,14 @@
 
 # Nivel 6: El depósito del hechicero, por Jose Carlos Domínguez "Kha"
 
+Este lugar era en otro tiempo (aunque técnicamente aún lo es) un enorme trastero: un hechicero (en concreto el mismo que diseñó el nivel 7) fue guardando sus cosas en las salas de este nivel: libros, arte, tesoro, restos de laboratorio, cadáveres... No obstante hace mucho, mucho tiempo que el hechicero no ha vuelto y todo está algo patas arriba, lo cual probablemente dificulte algo el saqueo.
+
+Aunque en un principio la única entrada estaba en el nivel 7, debido a diversos accidentes ahora es posible acceder a él a través del nivel 2 escalando por el agujero que abrió un gólem de carga en el suelo ya debilitado por el ácido. No obstante hay más salidas que entradas: tres salidas de emergencia se hallan ocultas por el nivel; si se activan de la forma correcta, llevarán a quien las use a otra parte de la Montaña (a decisión del director) sin posibilidad de regresar por el mismo medio.
+
+El lugar no está totalmente abandonado, sino que se ocupa de su mantenimiento un nutrido grupo de gólems diseñados por el hechicero. Los hay de tres tipos: de mantenimiento, que se aseguran de que todo esté limpio y funcionando; de archivo, que se dedican a contarlo todo, y de carga, que permanecen inactivos a la espera de órdenes. Los gólems de archivo o mantenimiento normalmente no harán caso a los intrusos a no ser que les impidan realizar sus tareas, en cuyo caso podrían acabar terminando por recurrir a la violencia, pero también es posible que simplemente lo dejen estar y se dediquen a otra cosa.
+
+La única forma de comunicarse con los constructos es por medio de un vínculo telepático. Normalmente aquellas criaturas inteligentes que se hallen en su presencia notarán un cierto malestar y dolor cerebral que aumenta cuantos más gólems haya en las cercanías. No obstante es necesario que la persona abra el vínculo telepático con el gólem concentrándose en ello (no es necesaria tirada si se está en calma, solo saber que se puede). Solo si muchos gólems se reúnen con un mismo propósito son capaces de mandar un mensaje telepático por iniciativa propia.
+
 ## Mapa del nivel 
 
 ![](./img/nivel-06.png)
@@ -11,17 +19,10 @@
 * Sala 12: Biblioteca conecta con la [sala 7 del nivel 2](./nivel-02.md).
 * Hay tres salidas de emergencia del nivel que pueden llevar a cualquier otro lugar de la Montaña. Se detalla un poco más adelante.
 
-## Generalidades
-
-Este lugar era en otro tiempo (aunque técnicamente aún lo es) un enorme trastero: un hechicero (en concreto el mismo que diseñó el nivel 7) fue guardando sus cosas en las salas de este nivel: libros, arte, tesoro, restos de laboratorio, cadáveres... No obstante hace mucho, mucho tiempo que el hechicero no ha vuelto y todo está algo patas arriba, lo cual probablemente dificulte algo el saqueo.
-
-Aunque en un principio la única entrada estaba en el nivel 7, debido a diversos accidentes ahora es posible acceder a él a través del nivel 2 escalando por el agujero que abrió un gólem de carga en el suelo ya debilitado por el ácido. No obstante hay más salidas que entradas: tres salidas de emergencia se hallan ocultas por el nivel; si se activan de la forma correcta, llevarán a quien las use a otra parte de la Montaña (a decisión del director) sin posibilidad de regresar por el mismo medio.
-
-El lugar no está totalmente abandonado, sino que se ocupa de su mantenimiento un nutrido grupo de gólems diseñados por el hechicero. Los hay de tres tipos: de mantenimiento, que se aseguran de que todo esté limpio y funcionando; de archivo, que se dedican a contarlo todo, y de carga, que permanecen inactivos a la espera de órdenes. Los gólems de archivo o mantenimiento normalmente no harán caso a los intrusos a no ser que les impidan realizar sus tareas, en cuyo caso podrían acabar terminando por recurrir a la violencia, pero también es posible que simplemente lo dejen estar y se dediquen a otra cosa.
-
-La única forma de comunicarse con los constructos es por medio de un vínculo telepático. Normalmente aquellas criaturas inteligentes que se hallen en su presencia notarán un cierto malestar y dolor cerebral que aumenta cuantos más gólems haya en las cercanías. No obstante es necesario que la persona abra el vínculo telepático con el gólem concentrándose en ello (no es necesaria tirada si se está en calma, solo saber que se puede). Solo si muchos gólems se reúnen con un mismo propósito son capaces de mandar un mensaje telepático por iniciativa propia.
+## Los Golem
 
 **Gólem de mantenimiento/archivo**:
+
 ```
 DG: 2D8
 Iniciativa: +1 (*+1) 

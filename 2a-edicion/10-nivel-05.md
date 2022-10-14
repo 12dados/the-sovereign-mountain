@@ -1,17 +1,6 @@
 
 # Nivel 5: Hobgoblins y micónidos, por Carlos de la Cruz.
 
-## Mapa del nivel
-
-![](./img/nivel-05.jpg)
-
-## Conexiones con otros niveles
-
-* La sección 1, el Pozo: tiene tres dos accesos a otros niveles, la salida oeste lleva por un túnel resbaladizo y descendente lleno de residuos, a la [sala 4 del nivel 2](./nivel-02.md). El acceso norte se bifurca y conduce a las puertas de la [zona 8 en el nivel 4](./nivel-04.md). La salida sur lleva al interior del propio nivel
-* Entre las secciones 53 y 54 hay un túnel que conduce a [la entrada del nivel 8](./nivel-08.md).
-
-## Introducción
-
 Gran parte de la comida que se obtiene en la Montaña Soberana proviene del exterior, pagada como tributos de las gentes de la región a los Reyes de la Montaña. Sin embargo, ahora no existe un Rey, y los habitantes de la gran montaña deben apañarse como pueden. Una de las fuentes de alimento más fiables son los hongos que cultiva la XIIIª Legión de Kangg, una tribu hobgoblin. En realidad, la que cultivan sus esclavos micónidos (los hombres hongo).
 
 La XIIIª Legión de Kangg era una unidad militar de hobgoblins que durante años había servido a los Reyes de la Montaña. Después de la desaparición del último Rey, su líder, el Centurión Norens, decidió asegurar su propio futuro y se llevó a sus soldados más leales hasta las cuevas que ocupa hoy, esclavizando a los micónidos que vivían allí, y obligándoles a entregarles parte de su cosecha. Al controlar esta fuente de alimentos, Norens y sus hobgoblins se aseguraron una posición preeminente en lo que queda de la sociedad de la Montaña Soberana.
@@ -27,6 +16,15 @@ Los habitantes de la Montaña Soberana que desean comerciar con los hobgoblins p
 Junto al Templo de Bargulis vive una tribu de bugbears, los Siniestros Servidores de Sareb. Su jefe, Sareb, alquila a sus guerreros como ladrones y asesinos. Sareb no desea nada más en este mundo que sojuzgar a los hobgoblins, pero sabe que mientras la XIIIª Legión esté aliada con los ogros, no podrá conseguirlo.
 
 Se dice que cerca del hogar de los hobgoblins existe una tumba donde yacen viejos Reyes de la Montaña, que fueron enterrados con sus objetos mágicos. Sin embargo, también se rumorea que dicha tumba está protegida por terribles guardianes y astutas trampas. Pocos se han atrevido a buscar este lugar, y menos aún han regresado para contarlo.
+
+## Mapa del nivel
+
+![](./img/nivel-05.jpg)
+
+## Conexiones con otros niveles
+
+* La sección 1, el Pozo: tiene tres dos accesos a otros niveles, la salida oeste lleva por un túnel resbaladizo y descendente lleno de residuos, a la [sala 4 del nivel 2](./nivel-02.md). El acceso norte se bifurca y conduce a las puertas de la [zona 8 en el nivel 4](./nivel-04.md). La salida sur lleva al interior del propio nivel
+* Entre las secciones 53 y 54 hay un túnel que conduce a [la entrada del nivel 8](./nivel-08.md).
 
 ## Facciones y Líderes
 

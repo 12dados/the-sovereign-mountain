@@ -1,8 +1,6 @@
 
 # Nivel 9: La cima, por Carlos de la Cruz
 
-## Introducción
-
 Desde la cima de la Montaña Soberana, los sucesivos Reyes de la Montaña han gobernado las regiones circundantes por tiempo inmemorial. Un Rey ha sucedido a otro, y cada uno ha utilizado los poderes de la Montaña para conseguir cumplir sus sueños, ya fueran pacíficos, bélicos o simplemente megalomaníacos.
 
 Hace décadas que desapareció el último Rey de la Montaña, el Rey Sin Rostro, llamado así porque usaba un casco que le cubría toda la cabeza, y que no mostraba ningún rasgo, sino que reflejaba lo que rodeaba al Rey, como si fuera un extraño espejo.

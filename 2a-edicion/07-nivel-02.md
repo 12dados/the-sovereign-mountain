@@ -1,6 +1,10 @@
 
 # Nivel 2: Sucios, sucios, sucios, por Jacobo Peña
 
+Las estancias descritas en este nivel nacieron de la buena voluntad de los habitantes del interior de la Montaña Soberana, aunque en la mayoría de los casos han derivado a lugares siniestros, peligrosos e insalubres; son, en realidad, un reflejo húmedo y podre de lo que ocurre en los niveles superiores. Algunas de estas salas suponen un intento por parte de algunos de los habitantes de la montaña de construir un alcantarillado a través del que canalizar las basuras, fluidos insanos y desechos biológicos que producían, de una forma ordenada. Pero la falta de uso, lo peligroso de algunos de esos desechos y el miedo a la presencia del terrible Limo Insidioso que se va extendiendo por la zona, han convertido las alcantarillas en lugares abandonados a su suerte. Muchas salas han sido destruidas o modificadas por la acción de los elementos y otras nuevas se han creado en accidentes derivados de la propia actividad de los habitantes de la montaña o por la abrasión las sustancias desechadas. 
+
+Dado que este es un nivel no unificado, al que se puede acceder desde muy distintos niveles de la Montaña Soberana, si bien no es el más peligroso, sí que contiene algunas sorpresas importantes que pueden suponer un duro reto para personajes de bajo nivel. Quizá hasta protesten un poco. Pero claro, protestar porque te has metido en una red de alcantarillado y te has manchado de mierda hasta las rodillas es para que te quiten el carné de aventurero. 
+
 ## Mapas del nivel
 
 ![](./img/nivel-02-02.jpg)
@@ -18,12 +22,6 @@
 * Sala 11: conecta con el [exterior de la Montaña](./05-exterior.md).
 * Sala 15: conecta con la [zona 2 del nivel 4](./nivel-04.md): Aire Irisado.
 * Sala 17: conecta con la [zona 4 del nivel 3](./nivel-03.md): el Dragón.
-
-## Descripción general
-
-Las estancias descritas en este nivel nacieron de la buena voluntad de los habitantes del interior de la Montaña Soberana, aunque en la mayoría de los casos han derivado a lugares siniestros, peligrosos e insalubres; son, en realidad, un reflejo húmedo y podre de lo que ocurre en los niveles superiores. Algunas de estas salas suponen un intento por parte de algunos de los habitantes de la montaña de construir un alcantarillado a través del que canalizar las basuras, fluidos insanos y desechos biológicos que producían, de una forma ordenada. Pero la falta de uso, lo peligroso de algunos de esos desechos y el miedo a la presencia del terrible Limo Insidioso que se va extendiendo por la zona, han convertido las alcantarillas en lugares abandonados a su suerte. Muchas salas han sido destruidas o modificadas por la acción de los elementos y otras nuevas se han creado en accidentes derivados de la propia actividad de los habitantes de la montaña o por la abrasión las sustancias desechadas. 
-
-Dado que este es un nivel no unificado, al que se puede acceder desde muy distintos niveles de la Montaña Soberana, si bien no es el más peligroso, sí que contiene algunas sorpresas importantes que pueden suponer un duro reto para personajes de bajo nivel. Quizá hasta protesten un poco. Pero claro, protestar porque te has metido en una red de alcantarillado y te has manchado de mierda hasta las rodillas es para que te quiten el carné de aventurero. 
 
 ## Leyenda de salas del nivel
 

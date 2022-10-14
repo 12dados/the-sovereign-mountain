@@ -4,6 +4,8 @@ Este pueblo está pensado para ubicarse en las cercanías de la Montaña Soberan
 
 No se ha añadido estadísticas para que pueda ser utilizado con los diferentes sistemas que existen, aunque en la redacción y diseño del mismo se ha tenido en mente siempre sistemas tipo Ad&D o Aventuras en la Marca del Este.
 
+## Mapa
+
 ![](./img/piedrainerte.jpg)
 
 ## Historia

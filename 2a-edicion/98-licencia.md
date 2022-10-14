@@ -1,9 +1,7 @@
 
 # Licencia de uso
 
-<p align="center">
-  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/es/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png" /></a>
-</p>
+[![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
 
 Todo el texto y los mapas de cada nivel tienen una licencia de uso [Creative Commons de Reconocimiento-NoComercial-CompatirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/) incluída junto a los demás documentos [en este enlace](./99-cc-by-nc-sa-2.5-es.md).
 
