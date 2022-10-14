@@ -1,6 +1,10 @@
 
 # Nivel 1: Filosofías enfrentadas, por Rodrigo García Carmona
 
+Este nivel de la Montaña Soberana está caracterizado por una constante pugna entre tres facciones de Goblins, que se enfrentan entre sí por el control de la Piedra Filosofal, un fragmento de roca muy especial. Las fuerzas de las tres facciones están muy equilibradas, por lo que ninguna logra mantener el control de la Piedra Filosofal más allá de un día o, a lo sumo, dos. Las tres facciones de Goblins son los Realistas, los Egalitarios y los Deterministas.
+
+Los Goblins están bastante abiertos a negociar y hacer tratos con los personajes, y no atacarán a un grupo de aventureros sin preguntar antes. Al fin y al cabo, este tipo de personas suelen ser útiles para conseguir cierta ventaja (aunque sea temporal) sobre las facciones enemigas.
+
 ## Mapa del nivel
 
 ![](./img/nivel-01.png)
@@ -14,10 +18,6 @@
 * Sala 11: tiene una trampilla oculta a la [sala 9 del nivel inferior: el nivel 2](./nivel-02.md).
 
 ## Las tres facciones de Goblins
-
-Este nivel de la Montaña Soberana está caracterizado por una constante pugna entre tres facciones de Goblins, que se enfrentan entre sí por el control de la Piedra Filosofal, un fragmento de roca muy especial. Las fuerzas de las tres facciones están muy equilibradas, por lo que ninguna logra mantener el control de la Piedra Filosofal más allá de un día o, a lo sumo, dos. Las tres facciones de Goblins son los Realistas, los Egalitarios y los Deterministas.
-
-Los Goblins están bastante abiertos a negociar y hacer tratos con los personajes, y no atacarán a un grupo de aventureros sin preguntar antes. Al fin y al cabo, este tipo de personas suelen ser útiles para conseguir cierta ventaja (aunque sea temporal) sobre las facciones enemigas.
 
 ### Los Realistas
 
