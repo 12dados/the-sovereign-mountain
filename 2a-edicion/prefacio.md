@@ -6,11 +6,11 @@ Cuando surgió la idea de que varios aficionados y autores realizásemos de mane
 
 Mi agradecimiento a todos los colaboradores, sin ellos no habría sido posible, y mis disculpas a los mismos por la demora de la finalización del proyecto.
 
-:::: {.signature}
+::: {custom-style="Signature"}
 
 Bester, 2015
 
-::::
+:::
 
 ## Expandiendo La Montaña Soberana
 
