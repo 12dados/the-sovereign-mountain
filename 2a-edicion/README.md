@@ -1,9 +1,8 @@
 
 ## Índice
 
- * [Prefacio](./00-prefacio.md)
- * [Introducción](./01-introduccion.md)
- * [Expandiendo la Montaña Soberana](./02-expandiendo.md)
+ * [Prefacio](./01-prefacio.md)
+ * [Introducción](./02-introduccion.md)
  * [Piedrainerte](./03-piedrainerte.md), por Sergio Somalo "Tremandur"
  * [El camino hasta la Montaña](./04-camino.md), por Bester
  * [El exterior de la Montaña](./05-exterior.md), por Bester
@@ -16,6 +15,7 @@
  * [Nivel 7: El laberinto de Kramaghar](./12-nivel-07.md), por Héctor Prieto de la Calle 
  * [Nivel 8: La cripta del rey Ludovico](./13-nivel-08.md), por Bester
  * [Nivel 9: La cima](./14-nivel-09.md), por Carlos de la Cruz
+ * [Registro de cambios](.changelog.md)
  * [Licencia](./98-licencia.md) de uso del texto
 
 ## Autores

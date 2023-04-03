@@ -1,4 +1,3 @@
-
 # El camino hasta la Montaña y los alrededores, por Bester
 
 Llegar a la Montaña es sencillo, domina el paisaje en kilómetros a la redonda. Pese a ello está alejada de los asentamientos cercanos y rutas más transitadas por lo que puede llevar un par de días llegar hasta su entrada. 

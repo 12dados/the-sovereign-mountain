@@ -1,4 +1,3 @@
-
 # El exterior de la Montaña
 
 Después una serie de desfiladeros que atraviesan  un pasaje estrecho y peligroso, se accede a la gran explanada de tierra muerta donde se yergue imponente la Montaña. La entrada a una gran gruta destaca en su frontal. Es el camino que emplean los habitantes de la Montaña para acceder a su interior y lleva directamente al [nivel 1](./nivel-01.md).
