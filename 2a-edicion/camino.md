@@ -1,5 +1,6 @@
 
 # El camino hasta la Montaña y los alrededores, por Bester
+
 Llegar a la Montaña es sencillo, domina el paisaje en kilómetros a la redonda. Pese a ello está alejada de los asentamientos cercanos y rutas más transitadas por lo que puede llevar un par de días llegar hasta su entrada. 
 
 Los caminos que llevan hasta el acceso principal son antiguos y están parcialmente cubiertos por la maleza pero son practicables a pie o a caballo. Hay numerosas y variadas huellas de criaturas humanoides, animales e incluso monstruos desconocidos en el camino. Muchas criaturas malvadas y peligrosas habitan las cercanías de la montaña. Algunas, como los bandidos, hacen una primera “selección natural” de los más aptos para llegar hasta la base de la montaña. De cualquier modo, esas tierras salvajes son un lugar que tan solo recorren aquellos locos que viajan desde o hacia la montaña.
