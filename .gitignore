@@ -3,6 +3,8 @@
 *.sh
 *.pdf
 *.css
+*.html
 
 2a-edicion/pruebas*
 2a-edicion/test*
+2a-edicion/layout*
