@@ -16,4 +16,8 @@ Desde hace años la montaña ha carecido de un rey que gobierne sus dominios, pe
 
 En lo más profundo de su corazón, la montaña guarda los vestigios de las antiguas civilizaciones que se albergaron en sus estancias, mientras que los fantasmas de aquellos que huyeron atolondradamente acechan en la oscuridad. Además, diversas facciones y razas han encontrado su hogar bajo tierra, en la profunda penumbra de sus pasajes. Es un pequeño universo repleto de seres extraños, laberínticos niveles y pruebas despiadadas, todo diseñado para proteger la cima y sus tesoros de aquellos lo bastante osados para intentarlo. Una última advertencia a aquellos lo suficientemente osados como para desafiar los peligros de la montaña: la mayoría de los aventureros que parten hacia allí, jamás regresan. Cuentan las historias que los intrépidos que pierden la vida en sus lóbregos recovecos y cavernas son el sustento de sus actuales habitantes.
 
+::: {.imagefull}
+![Los solitarios picos aguardan](./02-introduccion/mountains2.png)
+:::
+
 Solo los más valientes se atreverán a adentrarse en las peligrosas entrañas de la montaña, en busca de fama, fortuna y gloria. Pero debes tener cuidado, pues los desafíos que te esperan son innumerables y solo los más astutos y perseverantes podrán superarlos. La Montaña exige un tributo alto, y solo aquellos que estén dispuestos a pagar el precio podrán hacerse con su tesoro y el título de rey de la cima. ¿Te consideras digno de asumir este desafío y emprender el viaje hacia la gloria eterna?

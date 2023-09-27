@@ -1,6 +1,6 @@
 *.DS_Store
 
-layout.*
+*.sh
 *.pdf
 *.tex
 *.icml
