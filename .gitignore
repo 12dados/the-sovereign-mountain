@@ -2,7 +2,7 @@
 
 *.sh
 *.pdf
-*.tex
-*.icml
+*.css
 
-2a-edicion/pruebas
+2a-edicion/pruebas*
+2a-edicion/test*
